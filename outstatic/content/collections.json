@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Board - members",
+    "slug": "board-members",
+    "path": "outstatic/content/board-members",
+    "children": []
+  },
+  {
+    "title": "Guides",
+    "slug": "guides",
+    "path": "outstatic/content/guides",
+    "children": []
+  },
+  {
+    "title": "News",
+    "slug": "news",
+    "path": "outstatic/content/news",
+    "children": []
+  },
+  {
+    "title": "Photos",
+    "slug": "photos",
+    "path": "outstatic/content/photos",
+    "children": []
+  }
+]
