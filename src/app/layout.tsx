@@ -40,6 +40,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body
         className={`${lato.variable} ${kelsonSans.variable} font-sans antialiased`}
+        suppressHydrationWarning
       >
         {children}
       </body>
