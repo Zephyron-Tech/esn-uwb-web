@@ -3,16 +3,20 @@ import Image from 'next/image'
 import { ArrowRight, Calendar } from 'lucide-react'
 import { placeholderNews, type NewsArticle } from '@/lib/placeholder-data'
 
-async function getLatestNews(): Promise<NewsArticle[]> {
-  // TODO: Replace with Outstatic when content exists:
-  // import { getDocuments } from 'outstatic/server'
-  // const posts = getDocuments('posts', [
-  //   'title', 'description', 'coverImage', 'publishedAt', 'slug', 'author',
-  // ])
-  // return posts
-  //   .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-  //   .slice(0, 3)
-  return placeholderNews
+import { getDocuments } from 'outstatic/server'
+
+async function getLatestNews(): Promise<any[]> {
+  try {
+    const posts = getDocuments('news', [
+      'title', 'description', 'coverImage', 'publishedAt', 'slug', 'author',
+    ])
+    return posts
+      .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+      .slice(0, 3)
+  } catch (error) {
+    console.error("Error fetching news from Outstatic:", error)
+    return []
+  }
 }
 
 function formatDate(dateStr: string): string {

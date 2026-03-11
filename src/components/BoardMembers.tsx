@@ -5,20 +5,24 @@ import {
   type BoardMember,
 } from '@/lib/placeholder-data'
 
+import { getDocuments } from 'outstatic/server'
+
 async function getBoardMembers(): Promise<BoardMember[]> {
-  // TODO: Replace with Outstatic when 'board-members' collection exists:
-  // import { getDocuments } from 'outstatic/server'
-  // const members = getDocuments('board-members', [
-  //   'title', 'description', 'coverImage', 'slug',
-  // ])
-  // return members.map(m => ({
-  //   slug: m.slug,
-  //   name: m.title,
-  //   role: m.description,
-  //   photo: m.coverImage,
-  //   email: m.email,
-  // }))
-  return placeholderBoardMembers
+  try {
+    const members = getDocuments('board-members', [
+      'title', 'description', 'coverImage', 'slug', 'email'
+    ])
+    return members.map((m: any) => ({
+      slug: m.slug,
+      name: m.title,
+      role: m.description,
+      photo: m.coverImage || '',
+      email: m.email || '',
+    }))
+  } catch (error) {
+    console.error("Error fetching board members:", error)
+    return []
+  }
 }
 
 export default async function BoardMembers() {
