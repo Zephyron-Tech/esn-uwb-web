@@ -45,14 +45,14 @@ export default async function BoardMembers() {
           {members.map((member) => (
             <div
               key={member.slug}
-              className="bg-white rounded-2xl p-8 text-center shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
+              className="bg-white rounded-2xl p-8 text-center shadow-md border border-gray-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
             >
-              <div className="relative w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-esn-cyan">
+              <div className="relative w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-esn-cyan group transition-transform duration-300 hover:scale-105">
                 <Image
                   src={member.photo}
                   alt={member.name}
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
                   sizes="128px"
                 />
               </div>
