@@ -3,16 +3,20 @@ import Image from 'next/image'
 import { ArrowRight, Calendar } from 'lucide-react'
 import { placeholderNews, type NewsArticle } from '@/lib/placeholder-data'
 
-async function getLatestNews(): Promise<NewsArticle[]> {
-  // TODO: Replace with Outstatic when content exists:
-  // import { getDocuments } from 'outstatic/server'
-  // const posts = getDocuments('posts', [
-  //   'title', 'description', 'coverImage', 'publishedAt', 'slug', 'author',
-  // ])
-  // return posts
-  //   .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-  //   .slice(0, 3)
-  return placeholderNews
+import { getDocuments } from 'outstatic/server'
+
+async function getLatestNews(): Promise<any[]> {
+  try {
+    const posts = getDocuments('news', [
+      'title', 'description', 'coverImage', 'publishedAt', 'slug', 'author',
+    ])
+    return posts
+      .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+      .slice(0, 3)
+  } catch (error) {
+    console.error("Error fetching news from Outstatic:", error)
+    return []
+  }
 }
 
 function formatDate(dateStr: string): string {
@@ -46,14 +50,20 @@ export default async function LatestNews() {
               href={`/news/${article.slug}`}
               className="group bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
             >
-              <div className="relative h-48 w-full overflow-hidden">
-                <Image
-                  src={article.coverImage}
-                  alt={article.title}
-                  fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                />
+              <div className="relative h-48 w-full overflow-hidden bg-gray-100">
+                {article.coverImage ? (
+                  <Image
+                    src={article.coverImage}
+                    alt={article.title}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-300"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  />
+                ) : (
+                  <div className="absolute inset-0 flex items-center justify-center bg-esn-dark-blue/5">
+                    <span className="text-gray-400 font-medium text-sm">No Image</span>
+                  </div>
+                )}
               </div>
               <div className="p-6">
                 <div className="flex items-center text-sm text-gray-400 mb-3">

@@ -52,10 +52,10 @@ export default function AboutPreview() {
           {features.map((feature) => (
             <div
               key={feature.title}
-              className="bg-white rounded-2xl p-8 text-center shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
+              className="bg-white rounded-2xl p-8 text-center shadow-md border border-gray-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
             >
               <div
-                className={`w-16 h-16 mx-auto mb-6 rounded-full flex items-center justify-center ${feature.accent}`}
+                className={`w-16 h-16 mx-auto mb-6 rounded-full flex items-center justify-center transition-transform duration-300 hover:rotate-12 ${feature.accent}`}
               >
                 {feature.icon}
               </div>
@@ -72,7 +72,7 @@ export default function AboutPreview() {
         <div className="text-center">
           <Link
             href="/about-us"
-            className="inline-flex items-center justify-center px-8 py-4 bg-esn-dark-blue text-white font-bold rounded-full hover:scale-105 transition-transform"
+            className="inline-flex items-center justify-center px-8 py-4 bg-esn-dark-blue text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
           >
             Learn More About Us
             <ArrowRight className="ml-2 w-5 h-5" />

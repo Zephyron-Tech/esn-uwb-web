@@ -46,9 +46,9 @@ export default function TwoPaths() {
           {paths.map((path) => (
             <div
               key={path.heading}
-              className={`rounded-2xl p-8 md:p-10 border-2 ${path.borderColor} ${path.bgAccent} hover:shadow-lg transition-shadow`}
+              className={`rounded-2xl p-8 md:p-10 border-2 ${path.borderColor} ${path.bgAccent} transition-all duration-300 hover:shadow-xl hover:-translate-y-1`}
             >
-              <div className={`${path.iconColor} mb-6`}>{path.icon}</div>
+              <div className={`${path.iconColor} mb-6 transition-transform duration-300 hover:scale-110`}>{path.icon}</div>
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 {path.heading}
               </h3>
@@ -57,7 +57,7 @@ export default function TwoPaths() {
               </p>
               <Link
                 href={path.ctaHref}
-                className={`inline-flex items-center justify-center px-8 py-4 ${path.buttonBg} text-white font-bold rounded-full hover:scale-105 transition-transform`}
+                className={`inline-flex items-center justify-center px-8 py-4 ${path.buttonBg} text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg`}
               >
                 {path.ctaText}
                 <ArrowRight className="ml-2 w-5 h-5" />

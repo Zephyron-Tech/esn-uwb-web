@@ -62,10 +62,10 @@ export default function MissionStatement() {
             {values.map((value) => (
               <div
                 key={value.label}
-                className="flex items-center gap-4 rounded-2xl p-6 border border-gray-100 shadow-sm"
+                className="flex items-center gap-4 rounded-2xl p-6 border border-gray-100 shadow-md transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
               >
                 <div
-                  className={`w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0 ${value.accent}`}
+                  className={`w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0 transition-transform duration-300 hover:rotate-12 ${value.accent}`}
                 >
                   {value.icon}
                 </div>

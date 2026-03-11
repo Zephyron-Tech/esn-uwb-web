@@ -67,13 +67,13 @@ export default function Hero() {
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <Link
                 href="/local-student"
-                className="inline-flex items-center justify-center px-8 py-4 bg-esn-orange text-white font-bold rounded-full transition-transform hover:scale-105"
+                className="inline-flex items-center justify-center px-8 py-4 bg-esn-orange text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
               >
                 Buddy for Locals
               </Link>
               <Link
                 href="/incoming-student"
-                className="inline-flex items-center justify-center px-8 py-4 bg-esn-green text-white font-bold rounded-full transition-transform hover:scale-105"
+                className="inline-flex items-center justify-center px-8 py-4 bg-esn-green text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
               >
                 Guide for Incomings
               </Link>
@@ -84,34 +84,34 @@ export default function Hero() {
           <div className="md:col-span-2 flex justify-center md:justify-end">
             <div className="relative w-72 h-72 sm:w-80 sm:h-80 md:w-[340px] md:h-[340px] lg:w-[400px] lg:h-[400px]">
               {/* Circle 1: Top-right, Magenta border — largest */}
-              <div className="absolute top-0 right-0 w-44 h-44 sm:w-48 sm:h-48 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full border-4 border-esn-magenta overflow-hidden shadow-2xl z-30">
+              <div className="absolute top-0 right-0 w-44 h-44 sm:w-48 sm:h-48 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full border-4 border-esn-magenta overflow-hidden shadow-2xl z-30 transition-transform duration-500 hover:scale-105">
                 <Image
                   src="https://picsum.photos/seed/esn-hero-1/400/400"
                   alt="International students at an ESN event"
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 hover:scale-110"
                   sizes="(max-width: 768px) 176px, (max-width: 1024px) 208px, 240px"
                 />
               </div>
 
               {/* Circle 2: Left-center, Green border */}
-              <div className="absolute top-1/4 -left-4 w-36 h-36 sm:w-40 sm:h-40 md:w-44 md:h-44 lg:w-52 lg:h-52 rounded-full border-4 border-esn-green overflow-hidden shadow-2xl z-20">
+              <div className="absolute top-1/4 -left-4 w-36 h-36 sm:w-40 sm:h-40 md:w-44 md:h-44 lg:w-52 lg:h-52 rounded-full border-4 border-esn-green overflow-hidden shadow-2xl z-20 transition-transform duration-500 hover:scale-105">
                 <Image
                   src="https://picsum.photos/seed/esn-hero-2/400/400"
                   alt="Students exploring Pilsen"
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 hover:scale-110"
                   sizes="(max-width: 768px) 144px, (max-width: 1024px) 176px, 208px"
                 />
               </div>
 
               {/* Circle 3: Bottom-center, Cyan border */}
-              <div className="absolute bottom-0 left-1/4 w-40 h-40 sm:w-44 sm:h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-full border-4 border-esn-cyan overflow-hidden shadow-2xl z-10">
+              <div className="absolute bottom-0 left-1/4 w-40 h-40 sm:w-44 sm:h-44 md:w-48 md:h-48 lg:w-56 lg:h-56 rounded-full border-4 border-esn-cyan overflow-hidden shadow-2xl z-10 transition-transform duration-500 hover:scale-105">
                 <Image
                   src="https://picsum.photos/seed/esn-hero-3/400/400"
                   alt="ESN buddy program activities"
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 hover:scale-110"
                   sizes="(max-width: 768px) 160px, (max-width: 1024px) 192px, 224px"
                 />
               </div>

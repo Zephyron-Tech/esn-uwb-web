@@ -30,7 +30,7 @@ export default function SupportersCta() {
         <div className="text-center">
           <Link
             href="/sponsors"
-            className="inline-flex items-center justify-center px-8 py-4 bg-esn-dark-blue text-white font-bold rounded-full hover:scale-105 transition-transform"
+            className="inline-flex items-center justify-center px-8 py-4 bg-esn-dark-blue text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
           >
             <Handshake className="mr-2 w-5 h-5" />
             View All Partners & Become a Sponsor

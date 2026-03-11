@@ -5,20 +5,24 @@ import {
   type BoardMember,
 } from '@/lib/placeholder-data'
 
+import { getDocuments } from 'outstatic/server'
+
 async function getBoardMembers(): Promise<BoardMember[]> {
-  // TODO: Replace with Outstatic when 'board-members' collection exists:
-  // import { getDocuments } from 'outstatic/server'
-  // const members = getDocuments('board-members', [
-  //   'title', 'description', 'coverImage', 'slug',
-  // ])
-  // return members.map(m => ({
-  //   slug: m.slug,
-  //   name: m.title,
-  //   role: m.description,
-  //   photo: m.coverImage,
-  //   email: m.email,
-  // }))
-  return placeholderBoardMembers
+  try {
+    const members = getDocuments('board-members', [
+      'title', 'description', 'coverImage', 'slug', 'email'
+    ])
+    return members.map((m: any) => ({
+      slug: m.slug,
+      name: m.title,
+      role: m.description,
+      photo: m.coverImage || '',
+      email: m.email || '',
+    }))
+  } catch (error) {
+    console.error("Error fetching board members:", error)
+    return []
+  }
 }
 
 export default async function BoardMembers() {
@@ -41,14 +45,14 @@ export default async function BoardMembers() {
           {members.map((member) => (
             <div
               key={member.slug}
-              className="bg-white rounded-2xl p-8 text-center shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
+              className="bg-white rounded-2xl p-8 text-center shadow-md border border-gray-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
             >
-              <div className="relative w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-esn-cyan">
+              <div className="relative w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-esn-cyan group transition-transform duration-300 hover:scale-105">
                 <Image
                   src={member.photo}
                   alt={member.name}
                   fill
-                  className="object-cover"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
                   sizes="128px"
                 />
               </div>

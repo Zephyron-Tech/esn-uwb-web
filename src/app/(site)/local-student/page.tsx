@@ -17,7 +17,7 @@ export default function LocalStudentPage() {
         subtitle="Join our community, make international friends, and experience the Erasmus spirit right here in Pilsen."
       />
       <WhoIsBuddy />
-      <JoinUsCta />
+      <JoinUsCta formLink="https://docs.google.com/forms/d/e/1FAIpQLSfKc2mfFASrKf3SP4dPfQ-Yata05vtLdE6Xa-XR1ZwFTlo0vg/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnzacyviRWeusoHiR5UdJGGpwabr91tXvdFtmcV0kwwjc5FK1FHi6lM0sGmWQ_aem_ozxLM9FJpFoC8wD04khnqQ" />
       <ContactForm />
     </>
   )

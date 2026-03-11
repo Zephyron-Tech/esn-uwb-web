@@ -25,7 +25,7 @@ export default function LocationMap() {
             
             <h3 className="text-2xl font-bold font-heading mb-6">Máchova Dormitory</h3>
             
-            <ul className="space-y-6">
+            <ul className="space-y-6 list-none m-0 p-0">
               <li className="relative pl-6 before:absolute before:left-0 before:top-2 before:w-2 before:h-2 before:bg-esn-cyan before:rounded-full">
                 <strong>By Tram:</strong> Take Tram No. 4 towards "Univerzita" and get off at the final stop. Walk approx. 5 minutes towards the dorms.
               </li>
@@ -38,7 +38,7 @@ export default function LocationMap() {
             </ul>
             
             <a 
-              href="https://goo.gl/maps/QWqYjqzD2LwX9D2j6" 
+              href="https://www.google.com/maps/search/?api=1&query=Koleje+ZČU+Máchova+Plzeň" 
               target="_blank" 
               rel="noopener noreferrer"
               className="mt-10 inline-flex items-center justify-center py-4 px-6 bg-white text-esn-dark-blue font-bold rounded-lg hover:bg-gray-100 transition-colors"

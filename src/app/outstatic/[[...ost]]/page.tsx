@@ -1,17 +1,15 @@
 import { Outstatic } from 'outstatic'
 import OutstaticClient from '@/components/OutstaticClient'
 
-export default async function Page({
-  params
-}: {
+export default async function Page(props: {
   params: Promise<{ ost: string[] }>
 }) {
-  const { ost } = await params
+  const params = await props.params;
   const ostData = await Outstatic({
     repoOwner: 'Zephyron-Tech',
     repoSlug: 'esn-uwb-web',
-    repoBranch: 'main'
+    repoBranch: process.env.OST_REPO_BRANCH || 'develop'
   })
 
-  return <OutstaticClient ostData={ostData} params={{ ost }} />
+  return <OutstaticClient ostData={ostData} params={params} />
 }

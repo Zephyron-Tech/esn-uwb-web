@@ -3,9 +3,9 @@ import Image from 'next/image'
 import { Instagram, Facebook, Linkedin, ExternalLink, MapPin, Globe } from 'lucide-react'
 
 const socialLinks = [
-  { name: 'Instagram', icon: <Instagram size={22} />, href: 'https://www.instagram.com/esn_uwb_pilsen/' },
-  { name: 'Facebook', icon: <Facebook size={22} />, href: 'https://www.facebook.com/ESNUWBPilsen' },
-  { name: 'LinkedIn', icon: <Linkedin size={22} />, href: 'https://www.linkedin.com/company/esnuwbpilsen/' },
+  { name: 'Instagram', icon: <Instagram size={22} />, href: 'https://www.instagram.com/esnuwbpilsen/' },
+  { name: 'Facebook', icon: <Facebook size={22} />, href: 'https://www.facebook.com/esnuwbpilsen' },
+  { name: 'LinkedIn', icon: <Linkedin size={22} />, href: 'https://www.linkedin.com/company/esn-uwb-pilsen/' },
 ]
 
 export default function Footer() {
@@ -21,8 +21,8 @@ export default function Footer() {
       </div>
 
       {/* Decorative subtle background accents */}
-      <div className="absolute -top-24 -right-24 w-96 h-96 bg-esn-cyan/5 rounded-full blur-3xl pointer-events-none"></div>
-      <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-esn-magenta/5 rounded-full blur-3xl pointer-events-none"></div>
+      <div className="absolute -top-24 -right-24 w-96 h-96 bg-esn-cyan/5 rounded-full blur-3xl pointer-events-none animate-float"></div>
+      <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-esn-magenta/5 rounded-full blur-3xl pointer-events-none animate-float-slow"></div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-12 lg:gap-8 mb-16">
