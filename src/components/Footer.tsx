@@ -1,38 +1,54 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { Instagram, Facebook, Linkedin, ExternalLink } from 'lucide-react'
+import { Instagram, Facebook, Linkedin, ExternalLink, MapPin, Globe } from 'lucide-react'
 
 const socialLinks = [
-  { name: 'Instagram', icon: <Instagram size={24} />, href: 'https://www.instagram.com/esn_uwb_pilsen/' },
-  { name: 'Facebook', icon: <Facebook size={24} />, href: 'https://www.facebook.com/ESNUWBPilsen' },
-  { name: 'LinkedIn', icon: <Linkedin size={24} />, href: 'https://www.linkedin.com/company/esnuwbpilsen/' },
+  { name: 'Instagram', icon: <Instagram size={22} />, href: 'https://www.instagram.com/esn_uwb_pilsen/' },
+  { name: 'Facebook', icon: <Facebook size={22} />, href: 'https://www.facebook.com/ESNUWBPilsen' },
+  { name: 'LinkedIn', icon: <Linkedin size={22} />, href: 'https://www.linkedin.com/company/esnuwbpilsen/' },
 ]
 
 export default function Footer() {
   return (
-    <footer className="bg-esn-dark-blue text-white pt-16 pb-8">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
-          {/* Brand and Slogan */}
-          <div className="flex flex-col space-y-6">
-            <Image 
-              src="/logo.svg" 
-              alt="ESN Logo" 
-              width={200} 
-              height={60} 
-              className="brightness-0 invert h-12 w-auto"
-            />
-            <p className="text-gray-300 max-w-xs">
+    <footer className="bg-esn-dark-blue text-white relative pt-16 pb-8 overflow-hidden">
+      {/* Colorful ESN Top Border */}
+      <div className="absolute top-0 left-0 w-full h-2 flex">
+        <div className="flex-1 bg-esn-cyan"></div>
+        <div className="flex-1 bg-esn-magenta"></div>
+        <div className="flex-1 bg-esn-green"></div>
+        <div className="flex-1 bg-esn-orange"></div>
+        <div className="flex-1 bg-esn-dark-blue"></div>
+      </div>
+
+      {/* Decorative subtle background accents */}
+      <div className="absolute -top-24 -right-24 w-96 h-96 bg-esn-cyan/5 rounded-full blur-3xl pointer-events-none"></div>
+      <div className="absolute -bottom-24 -left-24 w-96 h-96 bg-esn-magenta/5 rounded-full blur-3xl pointer-events-none"></div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="grid grid-cols-1 md:grid-cols-12 gap-12 lg:gap-8 mb-16">
+          
+          {/* Brand and Slogan (Takes more space on large screens) */}
+          <div className="md:col-span-12 lg:col-span-5 flex flex-col space-y-6">
+            <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2">
+              <Image 
+                src="/logo.svg" 
+                alt="ESN UWB Pilsen Logo" 
+                width={200} 
+                height={60} 
+                className="h-10 w-auto"
+              />
+            </div>
+            <p className="text-blue-100 text-lg max-w-md leading-relaxed">
               Students helping students. Making your exchange semester in Pilsen unforgettable.
             </p>
-            <div className="flex space-x-5">
+            <div className="flex space-x-4 pt-2">
               {socialLinks.map((social) => (
                 <a
                   key={social.name}
                   href={social.href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-white hover:text-esn-cyan transition-colors"
+                  className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-esn-magenta hover:text-white transition-all duration-300 hover:scale-110 shadow-sm"
                   aria-label={social.name}
                 >
                   {social.icon}
@@ -42,48 +58,67 @@ export default function Footer() {
           </div>
 
           {/* Quick Links */}
-          <div>
-            <h3 className="text-xl font-bold mb-6 font-kelson">Important Links</h3>
+          <div className="md:col-span-6 lg:col-span-3">
+            <h3 className="text-xl font-bold mb-6 font-heading text-white">Important Links</h3>
             <ul className="space-y-4">
               <li>
-                <a href="https://artemis.esn.org/" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-esn-cyan transition-colors">
-                  Artemis System <ExternalLink size={16} className="ml-2" />
+                <a href="https://artemis.esn.org/" target="_blank" rel="noopener noreferrer" className="group flex items-center text-blue-100 hover:text-esn-cyan transition-colors">
+                  <span className="w-1.5 h-1.5 rounded-full bg-esn-cyan mr-3 group-hover:scale-150 transition-transform"></span>
+                  Artemis System <ExternalLink size={14} className="ml-2 opacity-50 group-hover:opacity-100" />
                 </a>
               </li>
               <li>
-                <a href="https://esncard.org/" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-esn-cyan transition-colors">
-                  ESNcard <ExternalLink size={16} className="ml-2" />
+                <a href="https://esncard.org/" target="_blank" rel="noopener noreferrer" className="group flex items-center text-blue-100 hover:text-esn-green transition-colors">
+                  <span className="w-1.5 h-1.5 rounded-full bg-esn-green mr-3 group-hover:scale-150 transition-transform"></span>
+                  ESNcard <ExternalLink size={14} className="ml-2 opacity-50 group-hover:opacity-100" />
                 </a>
               </li>
               <li>
-                <Link href="/about-us" className="hover:text-esn-cyan transition-colors">About our Board</Link>
+                <Link href="/about-us" className="group flex items-center text-blue-100 hover:text-esn-magenta transition-colors">
+                  <span className="w-1.5 h-1.5 rounded-full bg-esn-magenta mr-3 group-hover:scale-150 transition-transform"></span>
+                  About our Board
+                </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-esn-cyan transition-colors">Contact us</Link>
+                <Link href="/contact" className="group flex items-center text-blue-100 hover:text-esn-orange transition-colors">
+                  <span className="w-1.5 h-1.5 rounded-full bg-esn-orange mr-3 group-hover:scale-150 transition-transform"></span>
+                  Contact Us
+                </Link>
               </li>
             </ul>
           </div>
 
-          {/* Legal / Project */}
-          <div>
-            <h3 className="text-xl font-bold mb-6 font-kelson">ESN UWB Pilsen</h3>
-            <p className="text-gray-400 text-sm leading-relaxed">
-              Erasmus Student Network West Bohemia<br />
-              Univerzitní 8, 301 00 Plzeň<br />
-              Czech Republic
-            </p>
-            <div className="mt-8">
-              <p className="text-gray-500 text-xs">
-                Member of ESN Czech Republic & ESN International.
-              </p>
+          {/* Address & Contact */}
+          <div className="md:col-span-6 lg:col-span-4">
+            <h3 className="text-xl font-bold mb-6 font-heading text-white">ESN UWB Pilsen</h3>
+            <ul className="space-y-4 text-blue-100">
+              <li className="flex items-start">
+                <Globe size={20} className="text-esn-cyan mr-3 mt-0.5 flex-shrink-0" />
+                <span>Erasmus Student Network<br />West Bohemia</span>
+              </li>
+              <li className="flex items-start">
+                <MapPin size={20} className="text-esn-magenta mr-3 mt-0.5 flex-shrink-0" />
+                <span>
+                  Univerzitní 22, 301 00 Plzeň<br />
+                  Dormitory Máchova (U1, U2)<br />
+                  Czech Republic
+                </span>
+              </li>
+            </ul>
+            <div className="mt-8 inline-block px-4 py-2 bg-white/5 rounded-lg border border-white/10 text-sm text-blue-200">
+              Member of ESN Czech Republic & ESN International.
             </div>
           </div>
         </div>
 
-        <div className="border-t border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-500 text-sm">
+        {/* Bottom Bar */}
+        <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-blue-200 text-sm">
           <p>© {new Date().getFullYear()} ESN UWB Pilsen. All rights reserved.</p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
+            <a href="https://github.com/Zephyron-Tech/esn-uwb-web" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+               GitHub
+            </a>
           </div>
         </div>
       </div>
