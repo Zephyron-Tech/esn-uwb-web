@@ -47,7 +47,7 @@ export default function ContactForm() {
                   value={formData.name}
                   onChange={handleChange}
                   required
-                  className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors"
+                  className="w-full px-4 py-3 text-gray-900 placeholder-gray-400 bg-white rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors"
                   placeholder="John Doe"
                 />
               </div>
@@ -62,7 +62,7 @@ export default function ContactForm() {
                   value={formData.email}
                   onChange={handleChange}
                   required
-                  className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors"
+                  className="w-full px-4 py-3 text-gray-900 placeholder-gray-400 bg-white rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors"
                   placeholder="john@example.com"
                 />
               </div>
@@ -78,7 +78,7 @@ export default function ContactForm() {
                 value={formData.subject}
                 onChange={handleChange}
                 required
-                className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors bg-white"
+                className="w-full px-4 py-3 text-gray-900 placeholder-gray-400 bg-white rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors"
               >
                 <option value="" disabled>Select a subject</option>
                 <option value="Buddy System Inquiry">Buddy System Inquiry</option>
@@ -98,7 +98,7 @@ export default function ContactForm() {
                 onChange={handleChange}
                 required
                 rows={5}
-                className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors resize-none"
+                className="w-full px-4 py-3 text-gray-900 placeholder-gray-400 bg-white rounded-lg border border-gray-200 focus:ring-2 focus:ring-esn-cyan focus:border-transparent outline-none transition-colors resize-none"
                 placeholder="How can we help you?"
               ></textarea>
             </div>
