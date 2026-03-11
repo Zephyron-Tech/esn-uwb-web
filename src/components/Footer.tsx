@@ -3,9 +3,9 @@ import Image from 'next/image'
 import { Instagram, Facebook, Linkedin, ExternalLink, MapPin, Globe } from 'lucide-react'
 
 const socialLinks = [
-  { name: 'Instagram', icon: <Instagram size={22} />, href: 'https://www.instagram.com/esn_uwb_pilsen/' },
-  { name: 'Facebook', icon: <Facebook size={22} />, href: 'https://www.facebook.com/ESNUWBPilsen' },
-  { name: 'LinkedIn', icon: <Linkedin size={22} />, href: 'https://www.linkedin.com/company/esnuwbpilsen/' },
+  { name: 'Instagram', icon: <Instagram size={22} />, href: 'https://www.instagram.com/esnuwbpilsen/' },
+  { name: 'Facebook', icon: <Facebook size={22} />, href: 'https://www.facebook.com/esnuwbpilsen' },
+  { name: 'LinkedIn', icon: <Linkedin size={22} />, href: 'https://www.linkedin.com/company/esn-uwb-pilsen/' },
 ]
 
 export default function Footer() {

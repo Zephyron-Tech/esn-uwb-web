@@ -63,7 +63,7 @@ export default function ContactInfo() {
           <div className="lg:col-span-2 grid grid-cols-1 sm:grid-cols-2 gap-8">
               {/* Instagram Card */}
               <a 
-                href="https://www.instagram.com/esn_uwb_pilsen/" 
+                href="https://www.instagram.com/esnuwbpilsen/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group bg-gradient-to-br from-[#833ab4] via-[#fd1d1d] to-[#fcb045] rounded-3xl p-8 text-white shadow-md hover:shadow-xl transition-all duration-300 flex flex-col justify-between"
@@ -81,7 +81,7 @@ export default function ContactInfo() {
 
               {/* Facebook Card */}
               <a 
-                href="https://www.facebook.com/ESNUWB/" 
+                href="https://www.facebook.com/esnuwbpilsen" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group bg-[#1877F2] rounded-3xl p-8 text-white shadow-md hover:shadow-xl transition-all duration-300 flex flex-col justify-between"
@@ -99,7 +99,7 @@ export default function ContactInfo() {
 
                {/* LinkedIn Card */}
                <a 
-                href="https://cz.linkedin.com/company/esn-uwb-pilsen" 
+                href="https://www.linkedin.com/company/esn-uwb-pilsen/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="group bg-[#0A66C2] rounded-3xl p-8 text-white shadow-md hover:shadow-xl transition-all duration-300 flex flex-col justify-between sm:col-span-2"
