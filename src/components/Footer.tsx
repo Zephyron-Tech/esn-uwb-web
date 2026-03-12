@@ -99,8 +99,8 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin size={20} className="text-esn-magenta mr-3 mt-0.5 flex-shrink-0" />
                 <span>
-                  Univerzitní 22, 301 00 Plzeň<br />
-                  Dormitory Máchova (U1, U2)<br />
+                  Kollárova 1239 / 19<br />
+                  301 00 Plzeň 3<br />
                   Czech Republic
                 </span>
               </li>

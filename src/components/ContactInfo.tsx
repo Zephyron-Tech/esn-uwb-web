@@ -39,9 +39,8 @@ export default function ContactInfo() {
                   <div>
                     <h4 className="font-bold mb-1 text-blue-50">Visit our office</h4>
                     <p className="text-blue-100 leading-relaxed">
-                      Univerzitní 22<br />
+                      Kollárova 1239 / 19<br />
                       301 00 Plzeň 3<br />
-                      Dormitory Máchova (U1, U2)<br />
                       Czech Republic
                     </p>
                   </div>
