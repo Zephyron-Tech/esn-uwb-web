@@ -1,25 +1,7 @@
 {
-  "commit": "f27790614892e73f636b325f31a177ff0584cdbb",
-  "generated": "2026-03-12T11:29:23.846Z",
+  "commit": "27757e9a0b702b716ddeee01ad4a8947533d509d",
+  "generated": "2026-03-12T11:29:26.584Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "3ded6b6a081a3e5f19b4dd4c42e18125b34a9d42",
-        "hash": "2397508474",
-        "path": "outstatic/content/board-members/veronika-kroupova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/aa5mtZ6sLbqjgKeLMnEdtE6IVct5WT-metaNS5wbmc=-.png",
-      "description": "Treasurer",
-      "publishedAt": "2026-03-12T11:33:15.233Z",
-      "slug": "veronika-kroupova",
-      "status": "published",
-      "title": "Veronika Kroupová"
-    },
     {
       "__outstatic": {
         "commit": "be9211fd9551cb5b06b37f9661dd207abccabaaa",
