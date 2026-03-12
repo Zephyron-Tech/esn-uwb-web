@@ -1,6 +1,6 @@
 {
-  "commit": "b5e7373c6c8bff09998f9c4d7eb4c48e9fd62c86",
-  "generated": "2026-03-12T11:28:38.955Z",
+  "commit": "3ce71632e8db9cca6803bc61a4ea69be8ca3edf3",
+  "generated": "2026-03-12T11:29:06.114Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "veronika-kroupova",
       "status": "published",
       "title": "Veronika Kroupová"
+    },
+    {
+      "__outstatic": {
+        "commit": "3ce71632e8db9cca6803bc61a4ea69be8ca3edf3",
+        "hash": "2037228556",
+        "path": "outstatic/content/board-members/zuzana-safrova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/3MZN9LSSMQc86VqIJ9iblB0SBHDzUG-metaOC5wbmc=-.png",
+      "description": "Communication Manager",
+      "publishedAt": "2026-03-12T11:34:40.280Z",
+      "slug": "zuzana-safrova",
+      "status": "draft",
+      "title": "Zuzana Šafrová"
     }
   ]
 }
