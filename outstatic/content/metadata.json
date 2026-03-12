@@ -1,6 +1,6 @@
 {
-  "commit": "24418ac2649dd52e5ef19423f6ebb02fc587dafa",
-  "generated": "2026-03-12T11:24:45.254Z",
+  "commit": "aeeec0d00cd77eb0fd6d289f96546e861c67288c",
+  "generated": "2026-03-12T11:26:07.342Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "jana-cermakova",
       "status": "published",
       "title": "Jana Čermáková"
+    },
+    {
+      "__outstatic": {
+        "commit": "aeeec0d00cd77eb0fd6d289f96546e861c67288c",
+        "hash": "3525163150",
+        "path": "outstatic/content/board-members/anna-vaicova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/lulNp6tXcEYAY8GPND9JmPlq77zcUP-metaNC5wbmc=-.png",
+      "description": "Vice President",
+      "publishedAt": "2026-03-12T11:31:32.186Z",
+      "slug": "anna-vaicova",
+      "status": "published",
+      "title": "Anna Vaicová"
     }
   ]
 }
