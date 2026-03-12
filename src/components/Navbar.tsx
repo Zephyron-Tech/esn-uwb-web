@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
-import { Menu, X, Globe } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 
 const navLinks = [
   { name: 'About Us', href: '/about-us' },
@@ -31,9 +31,8 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`sticky top-0 z-50 w-full bg-white transition-all duration-300 ${
-        isScrolled ? 'shadow-lg' : 'border-b border-gray-100'
-      }`}
+      className={`sticky top-0 z-50 w-full bg-white transition-all duration-300 ${isScrolled ? 'shadow-lg' : 'border-b border-gray-100'
+        }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-20 items-center">
@@ -57,11 +56,10 @@ export default function Navbar() {
               <Link
                 key={link.name}
                 href={link.href}
-                className={`font-medium transition-colors duration-200 relative ${
-                  pathname === link.href
-                    ? 'text-esn-cyan'
-                    : 'text-gray-700 hover:text-esn-cyan'
-                }`}
+                className={`font-medium transition-colors duration-200 relative ${pathname === link.href
+                  ? 'text-esn-cyan'
+                  : 'text-gray-700 hover:text-esn-cyan'
+                  }`}
               >
                 {link.name}
                 {pathname === link.href && (
@@ -69,18 +67,6 @@ export default function Navbar() {
                 )}
               </Link>
             ))}
-
-            {/* Lang Switcher Placeholder */}
-            <div className="flex items-center space-x-2 border-l pl-8 ml-4 border-gray-200 text-gray-700">
-              <Globe size={20} className="text-esn-magenta transition-transform duration-300 hover:rotate-12" />
-              <button className="hover:text-esn-cyan font-bold transition-all duration-200 hover:scale-110">
-                EN
-              </button>
-              <span>/</span>
-              <button className="hover:text-esn-cyan transition-all duration-200 text-gray-400 hover:scale-110">
-                CZ
-              </button>
-            </div>
           </div>
 
           {/* Mobile menu button */}
@@ -97,37 +83,23 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       <div
-        className={`md:hidden transition-all duration-300 ease-in-out overflow-hidden ${
-          isOpen ? 'max-h-screen opacity-100' : 'max-h-0 opacity-0'
-        }`}
+        className={`md:hidden transition-all duration-300 ease-in-out overflow-hidden ${isOpen ? 'max-h-screen opacity-100' : 'max-h-0 opacity-0'
+          }`}
       >
         <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t border-gray-100">
           {navLinks.map((link) => (
             <Link
               key={link.name}
               href={link.href}
-              className={`block px-3 py-4 text-base font-medium border-b border-gray-50 transition-all duration-200 ${
-                pathname === link.href
-                  ? 'text-esn-cyan bg-esn-cyan/5'
-                  : 'text-gray-700 hover:bg-gray-50 hover:text-esn-cyan'
-              }`}
+              className={`block px-3 py-4 text-base font-medium border-b border-gray-50 transition-all duration-200 ${pathname === link.href
+                ? 'text-esn-cyan bg-esn-cyan/5'
+                : 'text-gray-700 hover:bg-gray-50 hover:text-esn-cyan'
+                }`}
               onClick={() => setIsOpen(false)}
             >
               {link.name}
             </Link>
           ))}
-          <div className="flex items-center px-3 py-4 space-x-4">
-            <Globe size={20} className="text-esn-magenta" />
-            <div className="flex space-x-2 font-medium">
-              <button className="text-esn-cyan font-bold transition-transform duration-200 hover:scale-110">
-                EN
-              </button>
-              <span className="text-gray-300">|</span>
-              <button className="text-gray-700 transition-all duration-200 hover:text-esn-cyan hover:scale-110">
-                CZ
-              </button>
-            </div>
-          </div>
         </div>
       </div>
     </nav>

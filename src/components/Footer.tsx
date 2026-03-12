@@ -29,7 +29,7 @@ export default function Footer() {
           
           {/* Brand and Slogan (Takes more space on large screens) */}
           <div className="md:col-span-12 lg:col-span-5 flex flex-col space-y-6">
-            <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2">
+            <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2" suppressHydrationWarning>
               <Image 
                 src="/logo.svg" 
                 alt="ESN UWB Pilsen Logo" 
@@ -99,8 +99,8 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin size={20} className="text-esn-magenta mr-3 mt-0.5 flex-shrink-0" />
                 <span>
-                  Univerzitní 22, 301 00 Plzeň<br />
-                  Dormitory Máchova (U1, U2)<br />
+                  Kollárova 1239 / 19<br />
+                  301 00 Plzeň 3<br />
                   Czech Republic
                 </span>
               </li>

@@ -1,11 +1,19 @@
-import Image from 'next/image'
+import { existsSync } from 'fs'
+import path from 'path'
 import { Mail } from 'lucide-react'
-import {
-  placeholderBoardMembers,
-  type BoardMember,
-} from '@/lib/placeholder-data'
+import { type BoardMember } from '@/lib/placeholder-data'
+import MemberPhoto from '@/components/MemberPhoto'
 
 import { getDocuments } from 'outstatic/server'
+
+function isValidPhoto(photoPath: string): boolean {
+  if (!photoPath || photoPath.trim() === '') return false
+  if (photoPath.startsWith('http')) return true
+  if (photoPath.startsWith('/')) {
+    return existsSync(path.join(process.cwd(), 'public', photoPath))
+  }
+  return false
+}
 
 async function getBoardMembers(): Promise<BoardMember[]> {
   try {
@@ -16,7 +24,7 @@ async function getBoardMembers(): Promise<BoardMember[]> {
       slug: m.slug,
       name: m.title,
       role: m.description,
-      photo: m.coverImage || '',
+      photo: isValidPhoto(m.coverImage || '') ? m.coverImage : '',
       email: m.email || '',
     }))
   } catch (error) {
@@ -48,13 +56,7 @@ export default async function BoardMembers() {
               className="bg-white rounded-2xl p-8 text-center shadow-md border border-gray-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1"
             >
               <div className="relative w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-esn-cyan group transition-transform duration-300 hover:scale-105">
-                <Image
-                  src={member.photo}
-                  alt={member.name}
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-110"
-                  sizes="128px"
-                />
+                <MemberPhoto src={member.photo} alt={member.name} />
               </div>
               <h3 className="text-xl font-bold font-heading text-gray-900 mb-1">
                 {member.name}
