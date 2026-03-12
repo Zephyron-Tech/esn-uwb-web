@@ -5,7 +5,16 @@ interface PageHeaderProps {
 
 export default function PageHeader({ title, subtitle }: PageHeaderProps) {
   return (
-    <section className="relative bg-esn-dark-blue overflow-hidden py-16 md:py-20">
+    <section className="relative bg-esn-dark-blue overflow-hidden py-16 md:py-20 min-h-[240px] md:min-h-[280px] flex items-center">
+      {/* Colorful top border */}
+      <div className="absolute top-0 left-0 w-full h-2 flex z-20">
+        <div className="flex-1 bg-esn-cyan"></div>
+        <div className="flex-1 bg-esn-magenta"></div>
+        <div className="flex-1 bg-esn-green"></div>
+        <div className="flex-1 bg-esn-orange"></div>
+        <div className="flex-1 bg-esn-dark-blue"></div>
+      </div>
+
       {/* Network pattern overlay */}
       <div
         className="absolute inset-0 opacity-[0.07] pointer-events-none"

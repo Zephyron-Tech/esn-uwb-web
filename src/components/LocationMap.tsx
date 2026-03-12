@@ -49,8 +49,8 @@ export default function LocationMap() {
 
           {/* Map Embed (Interactive iframe) */}
           <div className="w-full lg:w-2/3 h-[400px] lg:h-auto min-h-[500px]">
-             <iframe 
-                src="https://maps.google.com/maps?q=Koleje%20Z%C4%8CU%20-%20M%C3%A1chova,%20Plze%C5%88&t=&z=15&ie=UTF8&iwloc=&output=embed"
+             <iframe
+                src="https://maps.google.com/maps?q=49.7474,13.3777&t=&z=16&ie=UTF8&iwloc=&output=embed"
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 

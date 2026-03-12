@@ -28,7 +28,29 @@ const kelsonSans = localFont({
 
 export const metadata: Metadata = {
   title: "ESN UWB Pilsen",
-  description: "Erasmus Student Network UWB Pilsen",
+  description: "Erasmus Student Network UWB Pilsen — Students Helping Students. Making your exchange semester in Pilsen unforgettable.",
+  openGraph: {
+    title: "ESN UWB Pilsen",
+    description: "Students Helping Students — Making your Erasmus experience unforgettable",
+    url: "https://esnpilsen.cz",
+    siteName: "ESN UWB Pilsen",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "ESN UWB Pilsen — Erasmus Student Network",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "ESN UWB Pilsen",
+    description: "Students Helping Students — Making your Erasmus experience unforgettable",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({

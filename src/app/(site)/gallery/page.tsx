@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import PageHeader from '@/components/PageHeader'
 import { getDocuments } from 'outstatic/server'
 
 export const metadata = {
@@ -22,18 +23,13 @@ export default async function GalleryPage() {
   const albums = await getPhotos()
 
   return (
-    <div className="bg-gray-50 min-h-screen py-16">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        {/* Header */}
-        <div className="text-center mb-16">
-          <h1 className="text-5xl font-bold font-heading text-bg-esn-dark-blue mb-6">
-            Photo Gallery
-          </h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Relive the best memories from our trips, welcoming parties, and events.
-          </p>
-        </div>
+    <>
+      <PageHeader
+        title="Photo Gallery"
+        subtitle="Relive the best memories from our trips, welcoming parties, and events."
+      />
+      <div className="bg-gray-50 min-h-screen py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Content */}
         {albums.length === 0 ? (
@@ -78,7 +74,8 @@ export default async function GalleryPage() {
             ))}
           </div>
         )}
+        </div>
       </div>
-    </div>
+    </>
   )
 }

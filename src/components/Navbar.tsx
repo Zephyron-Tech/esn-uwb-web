@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
-import { Menu, X, Globe } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 
 const navLinks = [
   { name: 'About Us', href: '/about-us' },
@@ -69,18 +69,6 @@ export default function Navbar() {
                 )}
               </Link>
             ))}
-
-            {/* Lang Switcher Placeholder */}
-            <div className="flex items-center space-x-2 border-l pl-8 ml-4 border-gray-200 text-gray-700">
-              <Globe size={20} className="text-esn-magenta transition-transform duration-300 hover:rotate-12" />
-              <button className="hover:text-esn-cyan font-bold transition-all duration-200 hover:scale-110">
-                EN
-              </button>
-              <span>/</span>
-              <button className="hover:text-esn-cyan transition-all duration-200 text-gray-400 hover:scale-110">
-                CZ
-              </button>
-            </div>
           </div>
 
           {/* Mobile menu button */}
@@ -116,18 +104,6 @@ export default function Navbar() {
               {link.name}
             </Link>
           ))}
-          <div className="flex items-center px-3 py-4 space-x-4">
-            <Globe size={20} className="text-esn-magenta" />
-            <div className="flex space-x-2 font-medium">
-              <button className="text-esn-cyan font-bold transition-transform duration-200 hover:scale-110">
-                EN
-              </button>
-              <span className="text-gray-300">|</span>
-              <button className="text-gray-700 transition-all duration-200 hover:text-esn-cyan hover:scale-110">
-                CZ
-              </button>
-            </div>
-          </div>
         </div>
       </div>
     </nav>
