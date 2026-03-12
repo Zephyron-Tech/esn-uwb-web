@@ -1,6 +1,6 @@
 {
-  "commit": "aeeec0d00cd77eb0fd6d289f96546e861c67288c",
-  "generated": "2026-03-12T11:26:07.342Z",
+  "commit": "3ded6b6a081a3e5f19b4dd4c42e18125b34a9d42",
+  "generated": "2026-03-12T11:27:47.832Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "anna-vaicova",
       "status": "published",
       "title": "Anna Vaicová"
+    },
+    {
+      "__outstatic": {
+        "commit": "3ded6b6a081a3e5f19b4dd4c42e18125b34a9d42",
+        "hash": "2397508474",
+        "path": "outstatic/content/board-members/veronika-kroupova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/aa5mtZ6sLbqjgKeLMnEdtE6IVct5WT-metaNS5wbmc=-.png",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-12T11:33:15.233Z",
+      "slug": "veronika-kroupova",
+      "status": "published",
+      "title": "Veronika Kroupová"
     }
   ]
 }
