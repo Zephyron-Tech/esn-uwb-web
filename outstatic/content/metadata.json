@@ -1,6 +1,6 @@
 {
-  "commit": "e651c97b9424caac372b3da504e4d36872a4d608",
-  "generated": "2026-03-12T11:30:28.704Z",
+  "commit": "78a4b6855fef89a6a7252c409f0b6f6451cd0c82",
+  "generated": "2026-03-12T11:30:58.191Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,24 @@
       "slug": "william-poppy",
       "status": "published",
       "title": "William Poppy"
+    },
+    {
+      "__outstatic": {
+        "commit": "78a4b6855fef89a6a7252c409f0b6f6451cd0c82",
+        "hash": "577763508",
+        "path": "outstatic/content/board-members/veronika-kroupova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/aa5mtZ6sLbqjgKeLMnEdtE6IVct5WT-metaNS5wbmc=-.png",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-12T11:36:40.240Z",
+      "slug": "veronika-kroupova",
+      "status": "draft",
+      "title": "Veronika Kroupová"
     }
   ]
 }
