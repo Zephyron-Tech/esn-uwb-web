@@ -1,0 +1,11 @@
+{
+  "title": "board-members",
+  "type": "object",
+  "properties": {
+    "description": {
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Description"
+    }
+  }
+}
