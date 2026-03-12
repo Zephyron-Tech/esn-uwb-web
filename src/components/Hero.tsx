@@ -69,7 +69,7 @@ export default function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 max-w-7xl 2xl:max-w-[1536px] mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 lg:py-32">
+      <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 lg:py-32">
         <div>
           <h1 className="font-heading uppercase tracking-wide">
             <span className="block text-white text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold mb-2">
