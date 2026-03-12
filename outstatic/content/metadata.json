@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2026-03-12T11:24:34.269Z",
+  "commit": "24418ac2649dd52e5ef19423f6ebb02fc587dafa",
+  "generated": "2026-03-12T11:24:45.254Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "3090498230",
+        "commit": "24418ac2649dd52e5ef19423f6ebb02fc587dafa",
+        "hash": "3644548535",
         "path": "outstatic/content/board-members/jana-cermakova.mdx"
       },
       "author": {
@@ -17,7 +17,7 @@
       "description": "President",
       "publishedAt": "2026-03-12T11:28:29.231Z",
       "slug": "jana-cermakova",
-      "status": "draft",
+      "status": "published",
       "title": "Jana Čermáková"
     }
   ]
