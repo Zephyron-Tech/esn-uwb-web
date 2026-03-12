@@ -1,6 +1,6 @@
 {
-  "commit": "78a4b6855fef89a6a7252c409f0b6f6451cd0c82",
-  "generated": "2026-03-12T11:30:58.191Z",
+  "commit": "60a9121c6a487bcd2ed02ed4ed44fc0c95e615bf",
+  "generated": "2026-03-12T11:31:03.493Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,8 +58,8 @@
     },
     {
       "__outstatic": {
-        "commit": "78a4b6855fef89a6a7252c409f0b6f6451cd0c82",
-        "hash": "577763508",
+        "commit": "60a9121c6a487bcd2ed02ed4ed44fc0c95e615bf",
+        "hash": "3137772724",
         "path": "outstatic/content/board-members/veronika-kroupova.mdx"
       },
       "author": {
@@ -71,7 +71,7 @@
       "description": "Treasurer",
       "publishedAt": "2026-03-12T11:36:40.240Z",
       "slug": "veronika-kroupova",
-      "status": "draft",
+      "status": "published",
       "title": "Veronika Kroupová"
     }
   ]
