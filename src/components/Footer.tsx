@@ -29,7 +29,7 @@ export default function Footer() {
           
           {/* Brand and Slogan (Takes more space on large screens) */}
           <div className="md:col-span-12 lg:col-span-5 flex flex-col space-y-6">
-            <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2">
+            <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2" suppressHydrationWarning>
               <Image 
                 src="/logo.svg" 
                 alt="ESN UWB Pilsen Logo" 
