@@ -1,6 +1,6 @@
 {
-  "commit": "3ce71632e8db9cca6803bc61a4ea69be8ca3edf3",
-  "generated": "2026-03-12T11:29:06.114Z",
+  "commit": "be9211fd9551cb5b06b37f9661dd207abccabaaa",
+  "generated": "2026-03-12T11:29:09.447Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,8 +22,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3ce71632e8db9cca6803bc61a4ea69be8ca3edf3",
-        "hash": "2037228556",
+        "commit": "be9211fd9551cb5b06b37f9661dd207abccabaaa",
+        "hash": "2010257753",
         "path": "outstatic/content/board-members/zuzana-safrova.mdx"
       },
       "author": {
@@ -35,7 +35,7 @@
       "description": "Communication Manager",
       "publishedAt": "2026-03-12T11:34:40.280Z",
       "slug": "zuzana-safrova",
-      "status": "draft",
+      "status": "published",
       "title": "Zuzana Šafrová"
     }
   ]
