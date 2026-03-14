@@ -62,12 +62,6 @@ export default function Footer() {
             <h3 className="text-xl font-bold mb-6 font-heading text-white">Important Links</h3>
             <ul className="space-y-4">
               <li>
-                <a href="https://artemis.esn.org/" target="_blank" rel="noopener noreferrer" className="group flex items-center text-blue-100 hover:text-esn-cyan transition-colors">
-                  <span className="w-1.5 h-1.5 rounded-full bg-esn-cyan mr-3 group-hover:scale-150 transition-transform"></span>
-                  Artemis System <ExternalLink size={14} className="ml-2 opacity-50 group-hover:opacity-100" />
-                </a>
-              </li>
-              <li>
                 <a href="https://esncard.org/" target="_blank" rel="noopener noreferrer" className="group flex items-center text-blue-100 hover:text-esn-green transition-colors">
                   <span className="w-1.5 h-1.5 rounded-full bg-esn-green mr-3 group-hover:scale-150 transition-transform"></span>
                   ESNcard <ExternalLink size={14} className="ml-2 opacity-50 group-hover:opacity-100" />

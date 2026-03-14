@@ -90,13 +90,13 @@ export default function Hero() {
               href="/local-student"
               className="inline-flex items-center justify-center px-8 py-4 bg-esn-orange text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
             >
-              Buddy for Locals
+              For Local Students
             </Link>
             <Link
               href="/incoming-student"
               className="inline-flex items-center justify-center px-8 py-4 bg-esn-green text-white font-bold rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg"
             >
-              Guide for Incomings
+              For Incoming Students
             </Link>
           </div>
         </div>

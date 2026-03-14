@@ -32,9 +32,11 @@ export default function WhoIsBuddy() {
             Who is a Buddy?
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            The Buddy System matches local students with incoming international students. 
-            As a Buddy, you will be their first friend in Pilsen, helping them navigate 
-            university life, showing them around the city, and introducing them to the local culture.
+            The Buddy System connects local students with incoming international
+            students and turns arrival into belonging. As a Buddy, you will be more than
+            just a guide — you will be a first friend, a familiar face, and a helping hand.
+            You will help new students find their way around university life, discover the
+            city, and experience the local culture with confidence.
           </p>
         </div>
 
