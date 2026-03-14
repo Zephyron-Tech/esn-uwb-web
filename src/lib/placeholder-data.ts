@@ -98,10 +98,20 @@ export const placeholderBoardMembers: BoardMember[] = [
 ]
 
 export const partners: Partner[] = [
-  { name: 'University of West Bohemia', href: '#' },
-  { name: 'ESN Czech Republic', href: '#' },
-  { name: 'Erasmus+', href: '#' },
-  { name: 'City of Pilsen', href: '#' },
-  { name: 'Student Union UWB', href: '#' },
-  { name: 'Pilsner Urquell', href: '#' },
+  { name: 'Amnesty International', href: '#' },
+  { name: 'BOHO CO', href: '#' },
+  { name: 'DZS', href: '#' },
+  { name: 'Eurosender', href: '#' },
+  { name: 'FlixBus', href: '#' },
+  { name: 'HoppyGo', href: '#' },
+  { name: 'Nesnězeno', href: '#' },
+  { name: 'Perlego', href: '#' },
+  { name: 'Quanti s.r.o.', href: '#' },
+  { name: 'Rise and Shine', href: '#' },
+  { name: 'Ryanair', href: '#' },
+  { name: 'Spotahome', href: '#' },
+  { name: 'The Economist', href: '#' },
+  { name: 'Timetravels', href: '#' },
+  { name: 'Vodafone', href: '#' },
+  { name: 'Záchranka', href: '#' },
 ]

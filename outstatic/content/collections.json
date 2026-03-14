@@ -22,5 +22,11 @@
     "slug": "photos",
     "path": "outstatic/content/photos",
     "children": []
+  },
+  {
+    "title": "Supporters",
+    "slug": "supporters",
+    "path": "outstatic/content/supporters",
+    "children": []
   }
 ]

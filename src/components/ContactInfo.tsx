@@ -1,4 +1,4 @@
-import { MapPin, Mail, Clock, Map as MapIcon } from 'lucide-react'
+import { MapPin, Mail, Building2 } from 'lucide-react'
 
 export default function ContactInfo() {
   return (
@@ -30,28 +30,29 @@ export default function ContactInfo() {
                   <Mail className="w-6 h-6 text-esn-cyan mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-bold mb-1 text-blue-50">Email us at</h4>
-                    <a href="mailto:info@esn.zcu.cz" className="text-lg hover:text-esn-cyan transition-colors">info@esn.zcu.cz</a>
+                    <a href="mailto:board@esnuwbpilsen.com" className="text-lg hover:text-esn-cyan transition-colors">board@esnuwbpilsen.com</a>
                   </div>
                 </div>
 
                 <div className="flex items-start">
-                  <MapPin className="w-6 h-6 text-esn-magenta mr-4 mt-1 flex-shrink-0" />
+                  <Building2 className="w-6 h-6 text-esn-magenta mr-4 mt-1 flex-shrink-0" />
                   <div>
-                    <h4 className="font-bold mb-1 text-blue-50">Visit our office</h4>
+                    <h4 className="font-bold mb-1 text-blue-50">Office</h4>
                     <p className="text-blue-100 leading-relaxed">
-                      Kollárova 1239 / 19<br />
-                      301 00 Plzeň 3<br />
-                      Czech Republic
+                      FAV — Faculty of Applied Sciences<br />
+                      Office UN606, 6th floor<br />
+                      Pilsen
                     </p>
                   </div>
                 </div>
 
                 <div className="flex items-start">
-                  <Clock className="w-6 h-6 text-esn-orange mr-4 mt-1 flex-shrink-0" />
+                  <MapPin className="w-6 h-6 text-esn-orange mr-4 mt-1 flex-shrink-0" />
                   <div>
-                    <h4 className="font-bold mb-1 text-blue-50">Office Hours</h4>
-                    <p className="text-blue-100">
-                      Check our Instagram for the<br />current week's office hours.
+                    <h4 className="font-bold mb-1 text-blue-50">Mailing Address</h4>
+                    <p className="text-blue-100 leading-relaxed">
+                      Kollárova 1239/19<br />
+                      301 00 Plzeň, CZ
                     </p>
                   </div>
                 </div>

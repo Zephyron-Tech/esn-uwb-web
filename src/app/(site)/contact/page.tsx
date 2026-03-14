@@ -5,7 +5,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Contact Us | ESN UWB Pilsen',
-  description: 'Get in touch with Erasmus Student Network UWB Pilsen. Find our office at Máchova dormitory, check office hours, or reach out via email and social media.',
+  description: 'Get in touch with Erasmus Student Network UWB Pilsen. Find our office or reach out via email and social media.',
 }
 
 export default function ContactPage() {
