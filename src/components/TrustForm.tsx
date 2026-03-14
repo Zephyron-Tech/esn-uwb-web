@@ -2,7 +2,7 @@ import { Heart, ExternalLink } from 'lucide-react'
 
 export default function TrustForm() {
   return (
-    <section className="py-24 bg-gray-50">
+    <section className="py-16 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center">
           <div className="w-16 h-16 rounded-full bg-esn-cyan/10 flex items-center justify-center text-esn-cyan mx-auto mb-8">
@@ -23,7 +23,7 @@ export default function TrustForm() {
             This form is completely <strong className="text-gray-900">ANONYMOUS</strong>.
             We would like you to know that you're not alone. We will try our best
             to help you if you let us. If you don't want to use this form, feel
-            free to contact any Board member directly!
+            free to contact any Board member directly!💙
           </p>
 
           <a

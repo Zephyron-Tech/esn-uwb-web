@@ -1,29 +1,42 @@
-import {
-  Heart, Building2, GraduationCap, Package, Bus, Car,
-  Apple, BookOpen, Code, Sparkles, Plane, Home,
-  Newspaper, Compass, Phone, Shield,
-} from 'lucide-react'
+import { existsSync } from 'fs'
+import path from 'path'
+import { getDocuments } from 'outstatic/server'
+import PartnerLogo from '@/components/PartnerLogo'
 
-const partners = [
-  { name: 'Amnesty International', icon: <Heart className="w-10 h-10" />, description: 'Human rights organization' },
-  { name: 'BOHO CO', icon: <Home className="w-10 h-10" />, description: '20% discount with code ESNCZ' },
-  { name: 'DZS', icon: <GraduationCap className="w-10 h-10" />, description: 'Czech National Agency for International Education and Research' },
-  { name: 'Eurosender', icon: <Package className="w-10 h-10" />, description: 'Shipping & relocation services' },
-  { name: 'FlixBus', icon: <Bus className="w-10 h-10" />, description: '10% ESNcard discount' },
-  { name: 'HoppyGo', icon: <Car className="w-10 h-10" />, description: 'Peer-to-peer car sharing' },
-  { name: 'Nesnězeno', icon: <Apple className="w-10 h-10" />, description: '20% off with code ESN20' },
-  { name: 'Perlego', icon: <BookOpen className="w-10 h-10" />, description: '15% discount on digital library' },
-  { name: 'Quanti s.r.o.', icon: <Code className="w-10 h-10" />, description: 'Software & training company' },
-  { name: 'Rise and Shine', icon: <Sparkles className="w-10 h-10" />, description: '50% discount with ESNCZ code' },
-  { name: 'Ryanair', icon: <Plane className="w-10 h-10" />, description: '10% discount & free luggage with ESNcard' },
-  { name: 'Spotahome', icon: <Building2 className="w-10 h-10" />, description: 'Accommodation booking platform' },
-  { name: 'The Economist', icon: <Newspaper className="w-10 h-10" />, description: 'Up to 75% subscription discount' },
-  { name: 'Timetravels', icon: <Compass className="w-10 h-10" />, description: '30\u20AC off with ESNcard' },
-  { name: 'Vodafone', icon: <Phone className="w-10 h-10" />, description: 'Golden SIM cards for students' },
-  { name: 'Záchranka', icon: <Shield className="w-10 h-10" />, description: 'Emergency mobile app' },
-]
+interface Partner {
+  name: string
+  description: string
+  logo: string
+  slug: string
+}
 
-export default function SponsorsGrid() {
+function isValidImage(imagePath: string): boolean {
+  if (!imagePath || imagePath.trim() === '') return false
+  if (imagePath.startsWith('http')) return true
+  if (imagePath.startsWith('/')) {
+    return existsSync(path.join(process.cwd(), 'public', imagePath))
+  }
+  return false
+}
+
+async function getPartners(): Promise<Partner[]> {
+  try {
+    const docs = getDocuments('partners', ['title', 'description', 'coverImage', 'slug'])
+    return docs.map((d: any) => ({
+      name: d.title,
+      description: d.description || '',
+      logo: isValidImage(d.coverImage || '') ? d.coverImage : '',
+      slug: d.slug || '',
+    }))
+  } catch (error) {
+    console.error('Error fetching partners:', error)
+    return []
+  }
+}
+
+export default async function SponsorsGrid() {
+  const partners = await getPartners()
+
   return (
     <section className="py-24 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -42,8 +55,8 @@ export default function SponsorsGrid() {
               key={partner.name}
               className="group bg-gray-50 rounded-2xl p-6 flex flex-col items-center text-center hover:bg-white hover:shadow-lg transition-all duration-300 border border-gray-100"
             >
-              <div className="w-20 h-20 rounded-2xl bg-white flex items-center justify-center text-gray-400 mb-4 shadow-sm group-hover:scale-110 group-hover:text-esn-cyan transition-all duration-300">
-                {partner.icon}
+              <div className="relative w-20 h-20 rounded-2xl bg-white flex items-center justify-center mb-4 shadow-sm group-hover:scale-110 transition-all duration-300 overflow-hidden">
+                <PartnerLogo src={partner.logo} alt={partner.name} slug={partner.slug} />
               </div>
               <h3 className="text-base font-bold font-heading text-gray-900 mb-1">{partner.name}</h3>
               <p className="text-sm text-gray-500">{partner.description}</p>

@@ -25,9 +25,9 @@ const features = [
   },
   {
     icon: <CreditCard className="w-8 h-8" />,
-    title: 'ESNcard Discounts',
+    title: 'ESNcard',
     description:
-      'Exclusive discounts on travel, food, and entertainment across 40+ countries with your ESNcard.',
+      'The membership card of the Erasmus Student Network — unlocking discounts on travel, food, and entertainment across 40+ countries.',
     accent: 'bg-esn-orange/10 text-esn-orange',
   },
 ]
