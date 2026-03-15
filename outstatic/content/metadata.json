@@ -1,6 +1,23 @@
 {
-  "commit": "cad9375418a3a0768442eb00354dccb143eac92f",
-  "generated": "2026-03-15T10:15:48.688Z",
+  "commit": "32fe039df1cd169e9933a914cfd5f260fe97651f",
+  "generated": "2026-03-15T10:17:22.374Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "32fe039df1cd169e9933a914cfd5f260fe97651f",
+        "hash": "3483175089",
+        "path": "outstatic/content/board-members/vacant.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Events Manager",
+      "publishedAt": "2026-03-15T10:21:49.938Z",
+      "slug": "vacant",
+      "status": "published",
+      "title": "vacant"
+    }
   ]
 }
