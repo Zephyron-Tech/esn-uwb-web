@@ -1,6 +1,6 @@
 {
-  "commit": "7a8283100e563047bff05b9998078b544ddf85f6",
-  "generated": "2026-03-15T10:26:50.174Z",
+  "commit": "b3fe5872b111806585ad7687d69d02db9a52a5b8",
+  "generated": "2026-03-15T10:39:05.863Z",
   "metadata": [
     {
       "__outstatic": {
@@ -70,6 +70,23 @@
       "slug": "jakub-stefl",
       "status": "published",
       "title": "Jakub Štefl"
+    },
+    {
+      "__outstatic": {
+        "commit": "b3fe5872b111806585ad7687d69d02db9a52a5b8",
+        "hash": "1380929487",
+        "path": "outstatic/content/board-members/michal-ptacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Vice President",
+      "publishedAt": "2026-03-15T10:44:54.096Z",
+      "slug": "michal-ptacek",
+      "status": "published",
+      "title": "Michal Ptáček"
     }
   ]
 }
