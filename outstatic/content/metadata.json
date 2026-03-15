@@ -1,6 +1,6 @@
 {
-  "commit": "32fe039df1cd169e9933a914cfd5f260fe97651f",
-  "generated": "2026-03-15T10:17:22.374Z",
+  "commit": "62607659826353bea36d44532e4fec76debc7f5b",
+  "generated": "2026-03-15T10:25:47.691Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,6 +18,24 @@
       "slug": "vacant",
       "status": "published",
       "title": "vacant"
+    },
+    {
+      "__outstatic": {
+        "commit": "62607659826353bea36d44532e4fec76debc7f5b",
+        "hash": "2759951316",
+        "path": "outstatic/content/board-members/hana-krumposova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/MpJltujeF7bdt8fqeuFsRppXntHiNc-metaNy5wbmc=-.png",
+      "description": "HR manager",
+      "publishedAt": "2026-03-15T10:23:31.004Z",
+      "slug": "hana-krumposova",
+      "status": "published",
+      "title": "Hana Krumposová"
     }
   ]
 }
