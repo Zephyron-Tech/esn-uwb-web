@@ -1,24 +1,6 @@
 {
-  "commit": "613bb6d363285556dd23b7714be5913e604282bc",
-  "generated": "2026-03-15T10:15:42.543Z",
+  "commit": "cad9375418a3a0768442eb00354dccb143eac92f",
+  "generated": "2026-03-15T10:15:48.688Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "be9211fd9551cb5b06b37f9661dd207abccabaaa",
-        "hash": "2010257753",
-        "path": "outstatic/content/board-members/zuzana-safrova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/3MZN9LSSMQc86VqIJ9iblB0SBHDzUG-metaOC5wbmc=-.png",
-      "description": "Communication Manager",
-      "publishedAt": "2026-03-12T11:34:40.280Z",
-      "slug": "zuzana-safrova",
-      "status": "published",
-      "title": "Zuzana Šafrová"
-    }
   ]
 }
