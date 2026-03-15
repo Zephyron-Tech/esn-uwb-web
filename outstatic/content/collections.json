@@ -28,5 +28,11 @@
     "slug": "supporters",
     "path": "outstatic/content/supporters",
     "children": []
+  },
+  {
+    "title": "Partners",
+    "slug": "partners",
+    "path": "outstatic/content/partners",
+    "children": []
   }
 ]

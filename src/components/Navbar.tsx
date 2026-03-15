@@ -31,6 +31,7 @@ export default function Navbar() {
 
   return (
     <nav
+      suppressHydrationWarning
       className={`sticky top-0 z-50 w-full bg-white transition-all duration-300 ${isScrolled ? 'shadow-lg' : 'border-b border-gray-100'
         }`}
     >
@@ -56,15 +57,18 @@ export default function Navbar() {
               <Link
                 key={link.name}
                 href={link.href}
-                className={`font-medium transition-colors duration-200 relative ${pathname === link.href
+                className={`font-medium transition-colors duration-200 relative group ${pathname === link.href
                   ? 'text-esn-cyan'
                   : 'text-gray-700 hover:text-esn-cyan'
                   }`}
               >
                 {link.name}
-                {pathname === link.href && (
-                  <span className="absolute -bottom-1 left-0 w-full h-0.5 bg-esn-cyan" />
-                )}
+                <span
+                  className={`absolute -bottom-1 left-0 h-0.5 bg-esn-cyan transition-all duration-300 ${pathname === link.href
+                    ? 'w-full'
+                    : 'w-0 group-hover:w-full'
+                    }`}
+                />
               </Link>
             ))}
           </div>
