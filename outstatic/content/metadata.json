@@ -1,6 +1,6 @@
 {
-  "commit": "1352e02ca0743af7c7a4fb89843d4899a56c1c0b",
-  "generated": "2026-03-15T10:15:09.408Z",
+  "commit": "ed2eb6173010364620fbb870f8c398d4271f5f26",
+  "generated": "2026-03-15T10:15:18.528Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "veronika-kroupova",
       "status": "published",
       "title": "Veronika Kroupová"
-    },
-    {
-      "__outstatic": {
-        "commit": "2de92d37ba777cf12758f2dbe7f474b1893a5a39",
-        "hash": "411160423",
-        "path": "outstatic/content/board-members/jana-cermakova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/7QWCKYGyAvRdyUFa4tgxylzHnWco7s-metaMy5wbmc=-.png",
-      "description": "President",
-      "publishedAt": "2026-03-12T11:37:44.986Z",
-      "slug": "jana-cermakova",
-      "status": "published",
-      "title": "Jana Čermáková"
     }
   ]
 }
