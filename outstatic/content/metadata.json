@@ -1,6 +1,6 @@
 {
-  "commit": "62607659826353bea36d44532e4fec76debc7f5b",
-  "generated": "2026-03-15T10:25:47.691Z",
+  "commit": "6c40d44869ae37f2b75aff90d3ea6f6a4129fd54",
+  "generated": "2026-03-15T10:26:22.055Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,6 +36,23 @@
       "slug": "hana-krumposova",
       "status": "published",
       "title": "Hana Krumposová"
+    },
+    {
+      "__outstatic": {
+        "commit": "6c40d44869ae37f2b75aff90d3ea6f6a4129fd54",
+        "hash": "1255659202",
+        "path": "outstatic/content/board-members/michaela-hanova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Communication Manager",
+      "publishedAt": "2026-03-15T10:32:03.839Z",
+      "slug": "michaela-hanova",
+      "status": "published",
+      "title": "Michaela Hánová"
     }
   ]
 }
