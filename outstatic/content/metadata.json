@@ -1,6 +1,6 @@
 {
-  "commit": "7ab34831af2595423521ba052e227f2c25934ede",
-  "generated": "2026-03-15T10:39:34.333Z",
+  "commit": "d17516c15ab3a5a706075d91850657e370c0dc54",
+  "generated": "2026-03-15T10:39:57.851Z",
   "metadata": [
     {
       "__outstatic": {
@@ -105,6 +105,23 @@
       "slug": "william-poppy",
       "status": "published",
       "title": "William Poppy"
+    },
+    {
+      "__outstatic": {
+        "commit": "d17516c15ab3a5a706075d91850657e370c0dc54",
+        "hash": "459713871",
+        "path": "outstatic/content/board-members/kamil.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Mascot",
+      "publishedAt": "2026-03-15T10:45:44.038Z",
+      "slug": "kamil",
+      "status": "published",
+      "title": "Kamil"
     }
   ]
 }
