@@ -1,6 +1,6 @@
 {
-  "commit": "b3fe5872b111806585ad7687d69d02db9a52a5b8",
-  "generated": "2026-03-15T10:39:05.863Z",
+  "commit": "7ab34831af2595423521ba052e227f2c25934ede",
+  "generated": "2026-03-15T10:39:34.333Z",
   "metadata": [
     {
       "__outstatic": {
@@ -87,6 +87,24 @@
       "slug": "michal-ptacek",
       "status": "published",
       "title": "Michal Ptáček"
+    },
+    {
+      "__outstatic": {
+        "commit": "7ab34831af2595423521ba052e227f2c25934ede",
+        "hash": "1194780191",
+        "path": "outstatic/content/board-members/william-poppy.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "https://buddy.zcu.cz/storage/h52gYYsDT0sC7qxlNzIG5ouYD9ZuuQ-metaNi5wbmc=-.png",
+      "description": "President",
+      "publishedAt": "2026-03-15T10:45:14.936Z",
+      "slug": "william-poppy",
+      "status": "published",
+      "title": "William Poppy"
     }
   ]
 }
