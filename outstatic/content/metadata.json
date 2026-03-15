@@ -1,6 +1,6 @@
 {
-  "commit": "6c40d44869ae37f2b75aff90d3ea6f6a4129fd54",
-  "generated": "2026-03-15T10:26:22.055Z",
+  "commit": "7a8283100e563047bff05b9998078b544ddf85f6",
+  "generated": "2026-03-15T10:26:50.174Z",
   "metadata": [
     {
       "__outstatic": {
@@ -53,6 +53,23 @@
       "slug": "michaela-hanova",
       "status": "published",
       "title": "Michaela Hánová"
+    },
+    {
+      "__outstatic": {
+        "commit": "7a8283100e563047bff05b9998078b544ddf85f6",
+        "hash": "2403081167",
+        "path": "outstatic/content/board-members/jakub-stefl.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-15T10:32:36.799Z",
+      "slug": "jakub-stefl",
+      "status": "published",
+      "title": "Jakub Štefl"
     }
   ]
 }
