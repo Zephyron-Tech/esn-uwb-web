@@ -1,6 +1,6 @@
 {
-  "commit": "da25ddc5c1318f8cd410d5ac399a10c406e96130",
-  "generated": "2026-03-15T10:15:36.706Z",
+  "commit": "613bb6d363285556dd23b7714be5913e604282bc",
+  "generated": "2026-03-15T10:15:42.543Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "zuzana-safrova",
       "status": "published",
       "title": "Zuzana Šafrová"
-    },
-    {
-      "__outstatic": {
-        "commit": "e651c97b9424caac372b3da504e4d36872a4d608",
-        "hash": "2721186227",
-        "path": "outstatic/content/board-members/william-poppy.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/h52gYYsDT0sC7qxlNzIG5ouYD9ZuuQ-metaNi5wbmc=-.png",
-      "description": "Event Manager",
-      "publishedAt": "2026-03-12T11:36:07.927Z",
-      "slug": "william-poppy",
-      "status": "published",
-      "title": "William Poppy"
     }
   ]
 }
