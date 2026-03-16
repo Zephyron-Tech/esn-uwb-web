@@ -1,6 +1,6 @@
 {
-  "commit": "8b8139e1e7ebd4168aca5786622e1907dffaa9bd",
-  "generated": "2026-03-16T18:04:00.255Z",
+  "commit": "24e307835e785a8a4438aecbe124e799dee76813",
+  "generated": "2026-03-16T18:07:28.363Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,24 +18,6 @@
       "slug": "vacant",
       "status": "published",
       "title": "vacant"
-    },
-    {
-      "__outstatic": {
-        "commit": "62607659826353bea36d44532e4fec76debc7f5b",
-        "hash": "2759951316",
-        "path": "outstatic/content/board-members/hana-krumposova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/MpJltujeF7bdt8fqeuFsRppXntHiNc-metaNy5wbmc=-.png",
-      "description": "HR manager",
-      "publishedAt": "2026-03-15T10:23:31.004Z",
-      "slug": "hana-krumposova",
-      "status": "published",
-      "title": "Hana Krumposová"
     },
     {
       "__outstatic": {
@@ -123,6 +105,24 @@
       "slug": "kamil",
       "status": "published",
       "title": "Kamil"
+    },
+    {
+      "__outstatic": {
+        "commit": "24e307835e785a8a4438aecbe124e799dee76813",
+        "hash": "1875414405",
+        "path": "outstatic/content/board-members/hana-krumposova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/Hana Krumposová2.png",
+      "description": "HR manager",
+      "publishedAt": "2026-03-15T10:23:31.004Z",
+      "slug": "hana-krumposova",
+      "status": "published",
+      "title": "Hana Krumposová"
     }
   ]
 }
