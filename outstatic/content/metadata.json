@@ -1,6 +1,6 @@
 {
-  "commit": "64ed86ef955fc6b80be7087d577faecaf05e4674",
-  "generated": "2026-03-16T19:05:05.833Z",
+  "commit": "c628b9bb45c1efe27d1a06c9b5bbe0f5c1c63b75",
+  "generated": "2026-03-16T19:08:27.385Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,8 +129,8 @@
     },
     {
       "__outstatic": {
-        "commit": "64ed86ef955fc6b80be7087d577faecaf05e4674",
-        "hash": "4184843494",
+        "commit": "c628b9bb45c1efe27d1a06c9b5bbe0f5c1c63b75",
+        "hash": "2806835541",
         "path": "outstatic/content/photos/welcome-party-2026.md"
       },
       "author": {
@@ -140,8 +140,42 @@
       "coverImage": "/images/welcome_party_7.jpg",
       "description": "Photos from the amazing Welcome Party!",
       "gallery": [
-        "/images/party1.jpg",
-        "/images/party2.jpg"
+        {
+          "label": "/images/welcome_party_1.jpg",
+          "value": "imagesWelcomeParty_1Jpg"
+        },
+        {
+          "label": "/images/welcome_party_2.jpg",
+          "value": "imagesWelcomeParty_2Jpg"
+        },
+        {
+          "label": "/images/welcome_party_3.jpg",
+          "value": "imagesWelcomeParty_3Jpg"
+        },
+        {
+          "label": "/images/welcome_party_4.jpg",
+          "value": "imagesWelcomeParty_4Jpg"
+        },
+        {
+          "label": "/images/welcome_party_5.jpg",
+          "value": "imagesWelcomeParty_5Jpg"
+        },
+        {
+          "label": "/images/welcome_party_6.jpg",
+          "value": "imagesWelcomeParty_6Jpg"
+        },
+        {
+          "label": "/images/welcome_party_7.jpg",
+          "value": "imagesWelcomeParty_7Jpg"
+        },
+        {
+          "label": "/images/welcome_party_8.jpg",
+          "value": "imagesWelcomeParty_8Jpg"
+        },
+        {
+          "label": "/images/welcome_party_9.jpg",
+          "value": "imagesWelcomeParty_9Jpg"
+        }
       ],
       "publishedAt": "2026-03-11T12:00:00.000Z",
       "slug": "welcome-party-2026",
