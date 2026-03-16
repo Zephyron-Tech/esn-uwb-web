@@ -47,7 +47,7 @@ export default async function NewsArticlePage({
   return (
     <article className="bg-white min-h-screen pb-24">
       {/* Header / Hero */}
-      <div className="relative h-[60vh] w-full bg-esn-dark-blue flex items-end">
+      <div className="relative h-64 md:h-96 w-full bg-esn-dark-blue flex items-end">
         {post.coverImage && (
           <Image
             src={post.coverImage}
