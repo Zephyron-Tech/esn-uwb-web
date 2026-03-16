@@ -1,6 +1,6 @@
 {
-  "commit": "91bd30142137a34826c1cf22cf3522a6a6917594",
-  "generated": "2026-03-16T19:27:58.955Z",
+  "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
+  "generated": "2026-03-16T19:29:37.878Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,15 +184,15 @@
     },
     {
       "__outstatic": {
-        "commit": "91bd30142137a34826c1cf22cf3522a6a6917594",
-        "hash": "4238872921",
+        "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
+        "hash": "60245965",
         "path": "outstatic/content/news/welcome-to-esn-uwb-pilsen.md"
       },
       "author": {
         "name": "Tomas"
       },
       "collection": "news",
-      "coverImage": "/images/welcome-A1MD.png",
+      "coverImage": "",
       "description": "We are excited to welcome all incoming international students for the new semester.",
       "publishedAt": "2026-03-11T12:00:00.000Z",
       "slug": "welcome-to-esn-uwb-pilsen",
