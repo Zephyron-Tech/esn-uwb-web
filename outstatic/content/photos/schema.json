@@ -16,7 +16,9 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Gallery Photos",
-      "values": []
+      "values": [
+        {}
+      ]
     }
   }
 }

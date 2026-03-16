@@ -1,6 +1,6 @@
 {
-  "commit": "14afae24596dc805ee9c780757b4e064c67f7b3f",
-  "generated": "2026-03-16T18:08:21.799Z",
+  "commit": "64ed86ef955fc6b80be7087d577faecaf05e4674",
+  "generated": "2026-03-16T19:05:05.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -126,6 +126,27 @@
       "slug": "william-poppy",
       "status": "published",
       "title": "William Poppy"
+    },
+    {
+      "__outstatic": {
+        "commit": "64ed86ef955fc6b80be7087d577faecaf05e4674",
+        "hash": "4184843494",
+        "path": "outstatic/content/photos/welcome-party-2026.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "photos",
+      "coverImage": "/images/welcome_party_7.jpg",
+      "description": "Photos from the amazing Welcome Party!",
+      "gallery": [
+        "/images/party1.jpg",
+        "/images/party2.jpg"
+      ],
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "slug": "welcome-party-2026",
+      "status": "published",
+      "title": "Welcome Party 2026"
     }
   ]
 }
