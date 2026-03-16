@@ -1,6 +1,6 @@
 {
-  "commit": "d17516c15ab3a5a706075d91850657e370c0dc54",
-  "generated": "2026-03-15T10:39:57.851Z",
+  "commit": "8b8139e1e7ebd4168aca5786622e1907dffaa9bd",
+  "generated": "2026-03-16T18:04:00.255Z",
   "metadata": [
     {
       "__outstatic": {
@@ -108,8 +108,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d17516c15ab3a5a706075d91850657e370c0dc54",
-        "hash": "459713871",
+        "commit": "8b8139e1e7ebd4168aca5786622e1907dffaa9bd",
+        "hash": "3256711937",
         "path": "outstatic/content/board-members/kamil.mdx"
       },
       "author": {
@@ -117,6 +117,7 @@
         "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
       },
       "collection": "board-members",
+      "coverImage": "/images/Kamil.png",
       "description": "Mascot",
       "publishedAt": "2026-03-15T10:45:44.038Z",
       "slug": "kamil",
