@@ -41,12 +41,12 @@ export default function Navbar() {
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="flex items-center transition-transform duration-300 hover:scale-105">
               <Image
-                src="/logo.svg"
+                src="/logo.png"
                 alt="ESN UWB Pilsen Logo"
-                width={150}
-                height={50}
+                width={180}
+                height={60}
                 priority
-                className="h-12 w-auto"
+                className="h-16 w-auto"
               />
             </Link>
           </div>

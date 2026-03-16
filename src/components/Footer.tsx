@@ -31,11 +31,11 @@ export default function Footer() {
           <div className="md:col-span-12 lg:col-span-5 flex flex-col space-y-6">
             <div className="bg-white inline-block p-4 rounded-2xl w-max shadow-lg mb-2" suppressHydrationWarning>
               <Image 
-                src="/logo.svg" 
-                alt="ESN UWB Pilsen Logo" 
-                width={200} 
-                height={60} 
-                className="h-10 w-auto"
+                src="/logo.png"
+                alt="ESN UWB Pilsen Logo"
+                width={240}
+                height={72}
+                className="h-14 w-auto"
               />
             </div>
             <p className="text-blue-100 text-lg max-w-md leading-relaxed">
