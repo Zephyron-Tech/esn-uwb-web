@@ -50,6 +50,7 @@ export default async function GalleryAlbumPage({
       const obj = item as Record<string, unknown>
       if (typeof obj.src === 'string') return obj.src
       if (typeof obj.url === 'string') return obj.url
+      if (typeof obj.label === 'string') return obj.label
       if (typeof obj.filename === 'string') return `/images/${obj.filename}`
     }
     return null
