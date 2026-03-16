@@ -11,6 +11,12 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "Cover Image"
+    },
+    "gallery": {
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Gallery Photos",
+      "values": []
     }
   }
 }
