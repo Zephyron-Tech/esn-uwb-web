@@ -2,10 +2,10 @@ import Link from 'next/link'
 import { ArrowRight, Building2, Globe2, GraduationCap, MapPin } from 'lucide-react'
 
 const partnersList = [
-  { name: 'University of West Bohemia', href: '#', icon: Building2 },
-  { name: 'ESN Czech Republic', href: '#', icon: Globe2 },
-  { name: 'Erasmus+', href: '#', icon: GraduationCap },
-  { name: 'City of Pilsen', href: '#', icon: MapPin },
+  { name: 'University of West Bohemia', icon: Building2 },
+  { name: 'ESN Czech Republic', icon: Globe2 },
+  { name: 'Erasmus+', icon: GraduationCap },
+  { name: 'City of Pilsen', icon: MapPin },
 ]
 
 export default function Partners() {
@@ -26,18 +26,17 @@ export default function Partners() {
           {partnersList.map((partner) => {
             const Icon = partner.icon
             return (
-              <a
+              <div
                 key={partner.name}
-                href={partner.href}
-                className="group flex flex-col items-center justify-center p-6 bg-gray-50 rounded-2xl border border-gray-100 hover:bg-white hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+                className="flex flex-col items-center justify-center p-6 bg-gray-50 rounded-2xl border border-gray-100"
               >
-                <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center text-gray-400 group-hover:text-esn-cyan group-hover:bg-esn-cyan/10 transition-colors mb-4 shadow-sm group-hover:shadow-md">
+                <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center text-esn-cyan mb-4 shadow-sm">
                   <Icon className="w-6 h-6" />
                 </div>
-                <span className="text-gray-600 font-bold text-sm text-center leading-tight group-hover:text-esn-dark-blue transition-colors">
+                <span className="text-gray-600 font-bold text-sm text-center leading-tight">
                   {partner.name}
                 </span>
-              </a>
+              </div>
             )
           })}
         </div>
