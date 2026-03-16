@@ -1,0 +1,17 @@
+{
+  "commit": "",
+  "generated": "Mon, 16 Mar 2026 17:56:14 GMT",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/hero.jpg"
+      },
+      "alt": "",
+      "filename": "hero.jpg",
+      "publishedAt": "2026-03-16T17:56:13.221Z",
+      "type": "image"
+    }
+  ]
+}
