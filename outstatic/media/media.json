@@ -1,7 +1,73 @@
 {
   "commit": "",
-  "generated": "Mon, 16 Mar 2026 17:56:14 GMT",
+  "generated": "Mon, 16 Mar 2026 18:01:35 GMT",
   "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/Hana Krumposová2.png"
+      },
+      "alt": "",
+      "filename": "Hana Krumposová2.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/Jakub Štefl 2.png"
+      },
+      "alt": "",
+      "filename": "Jakub Štefl 2.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/Kamil.png"
+      },
+      "alt": "",
+      "filename": "Kamil.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/Michaela Hánová2.png"
+      },
+      "alt": "",
+      "filename": "Michaela Hánová2.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/Michal Ptacek 2.png"
+      },
+      "alt": "",
+      "filename": "Michal Ptacek 2.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/William Poppy 2.png"
+      },
+      "alt": "",
+      "filename": "William Poppy 2.png",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
     {
       "__outstatic": {
         "commit": "",
@@ -10,7 +76,106 @@
       },
       "alt": "",
       "filename": "hero.jpg",
-      "publishedAt": "2026-03-16T17:56:13.221Z",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_1.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_1.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_2.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_2.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_3.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_3.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_4.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_4.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_5.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_5.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_6.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_6.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_7.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_7.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_8.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_8.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "public/images/welcome_party_9.jpg"
+      },
+      "alt": "",
+      "filename": "welcome_party_9.jpg",
+      "publishedAt": "2026-03-16T18:01:34.231Z",
       "type": "image"
     }
   ]
