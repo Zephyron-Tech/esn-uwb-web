@@ -1,6 +1,6 @@
 {
-  "commit": "30e19a8bac8900b30e42a3aa8ff6982ad037d632",
-  "generated": "2026-03-16T18:08:02.868Z",
+  "commit": "14afae24596dc805ee9c780757b4e064c67f7b3f",
+  "generated": "2026-03-16T18:08:21.799Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,24 +18,6 @@
       "slug": "vacant",
       "status": "published",
       "title": "vacant"
-    },
-    {
-      "__outstatic": {
-        "commit": "7ab34831af2595423521ba052e227f2c25934ede",
-        "hash": "1194780191",
-        "path": "outstatic/content/board-members/william-poppy.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "https://buddy.zcu.cz/storage/h52gYYsDT0sC7qxlNzIG5ouYD9ZuuQ-metaNi5wbmc=-.png",
-      "description": "President",
-      "publishedAt": "2026-03-15T10:45:14.936Z",
-      "slug": "william-poppy",
-      "status": "published",
-      "title": "William Poppy"
     },
     {
       "__outstatic": {
@@ -126,6 +108,24 @@
       "slug": "michal-ptacek",
       "status": "published",
       "title": "Michal Ptáček"
+    },
+    {
+      "__outstatic": {
+        "commit": "14afae24596dc805ee9c780757b4e064c67f7b3f",
+        "hash": "2496385286",
+        "path": "outstatic/content/board-members/william-poppy.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/William Poppy 2.png",
+      "description": "President",
+      "publishedAt": "2026-03-15T10:45:14.936Z",
+      "slug": "william-poppy",
+      "status": "published",
+      "title": "William Poppy"
     }
   ]
 }
