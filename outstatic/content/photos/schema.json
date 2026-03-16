@@ -1,0 +1,12 @@
+{
+  "title": "photos",
+  "type": "object",
+  "properties": {
+    "gallery": {
+      "description": "Welcome Party 2026",
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Gallery"
+    }
+  }
+}
