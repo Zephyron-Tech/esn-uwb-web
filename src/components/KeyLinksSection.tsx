@@ -38,15 +38,15 @@ export default function KeyLinksSection() {
                 <ul className="space-y-4 mb-10 text-green-50">
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-white rounded-full mr-3 mt-2 flex-shrink-0"></div>
+                    <span className="text-base">Cheaper entry to ESN UWB events</span>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="w-2 h-2 bg-white rounded-full mr-3 mt-2 flex-shrink-0"></div>
                     <span className="text-base">10% discount on Ryanair flights & free luggage</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-white rounded-full mr-3 mt-2 flex-shrink-0"></div>
                     <span className="text-base">10% off FlixBus tickets across Europe</span>
-                  </li>
-                  <li className="flex items-start">
-                    <div className="w-2 h-2 bg-white rounded-full mr-3 mt-2 flex-shrink-0"></div>
-                    <span className="text-base">Cheaper entry to ESN UWB events</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-2 h-2 bg-white rounded-full mr-3 mt-2 flex-shrink-0"></div>
