@@ -66,8 +66,13 @@ export default async function NewsPage() {
                       sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                     />
                   ) : (
-                    <div className="absolute inset-0 flex items-center justify-center bg-esn-dark-blue/5">
-                      <span className="text-gray-400 font-medium">No Image</span>
+                    <div className="absolute inset-0 flex items-center justify-center bg-esn-dark-blue">
+                      <div className="flex gap-2">
+                        <div className="w-3 h-3 rounded-full bg-esn-cyan" />
+                        <div className="w-3 h-3 rounded-full bg-esn-magenta" />
+                        <div className="w-3 h-3 rounded-full bg-esn-green" />
+                        <div className="w-3 h-3 rounded-full bg-esn-orange" />
+                      </div>
                     </div>
                   )}
                   {/* Category/Tag Overlay (Optional) */}
