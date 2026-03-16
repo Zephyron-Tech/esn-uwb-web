@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Mon, 16 Mar 2026 18:01:43 GMT",
+  "commit": "4d3b8aaede4f159d9b77848ad30ffc044fcd890b",
+  "generated": "2026-03-16T19:23:41.857Z",
   "media": [
     {
       "__outstatic": {
@@ -77,6 +77,17 @@
       "alt": "",
       "filename": "hero.jpg",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "4d3b8aaede4f159d9b77848ad30ffc044fcd890b",
+        "hash": "2822252258",
+        "path": "public/images/welcome-A1MD.png"
+      },
+      "alt": "",
+      "filename": "welcome-A1MD.png",
+      "publishedAt": "2026-03-16T19:23:41.856Z",
       "type": "image"
     },
     {
