@@ -2,27 +2,22 @@ import { notFound } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Calendar, ChevronLeft, User } from 'lucide-react'
-import { getDocumentBySlug, getDocumentPaths } from 'outstatic/server'
+import { getDocumentBySlug, getDocuments } from 'outstatic/server'
 import ReactMarkdown from 'react-markdown'
 
+const FIELDS = ['title', 'description', 'coverImage', 'publishedAt', 'author', 'content', 'slug'] as const
+
 export async function generateStaticParams() {
-  const posts = getDocumentPaths('news')
-  return posts.map((post) => ({
-    slug: post.params.slug,
-  }))
+  const posts = getDocuments('news', ['slug'])
+  return posts.map((post) => ({ slug: post.slug }))
 }
 
 async function getNewsPost(slug: string) {
   try {
-    const post = getDocumentBySlug('news', slug, [
-      'title',
-      'description',
-      'coverImage',
-      'publishedAt',
-      'author',
-      'content',
-    ])
-    return post
+    const direct = getDocumentBySlug('news', slug, [...FIELDS])
+    if (direct) return direct
+    const all = getDocuments('news', [...FIELDS])
+    return all.find((post) => post.slug === slug) ?? null
   } catch (error) {
     console.error("Error fetching single news post:", error)
     return null
