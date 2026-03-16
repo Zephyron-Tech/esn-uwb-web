@@ -1,6 +1,6 @@
 {
-  "commit": "45ccbbb9ff93eda5d556d1dbfd3968dbb74b4cf2",
-  "generated": "2026-03-16T18:07:41.033Z",
+  "commit": "592e117f63a6dd7754bb6235a81df087d16ccfe7",
+  "generated": "2026-03-16T18:07:53.500Z",
   "metadata": [
     {
       "__outstatic": {
@@ -18,23 +18,6 @@
       "slug": "vacant",
       "status": "published",
       "title": "vacant"
-    },
-    {
-      "__outstatic": {
-        "commit": "6c40d44869ae37f2b75aff90d3ea6f6a4129fd54",
-        "hash": "1255659202",
-        "path": "outstatic/content/board-members/michaela-hanova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "description": "Communication Manager",
-      "publishedAt": "2026-03-15T10:32:03.839Z",
-      "slug": "michaela-hanova",
-      "status": "published",
-      "title": "Michaela Hánová"
     },
     {
       "__outstatic": {
@@ -124,6 +107,24 @@
       "slug": "jakub-stefl",
       "status": "published",
       "title": "Jakub Štefl"
+    },
+    {
+      "__outstatic": {
+        "commit": "592e117f63a6dd7754bb6235a81df087d16ccfe7",
+        "hash": "3869864162",
+        "path": "outstatic/content/board-members/michaela-hanova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/Michaela Hánová2.png",
+      "description": "Communication Manager",
+      "publishedAt": "2026-03-15T10:32:03.839Z",
+      "slug": "michaela-hanova",
+      "status": "published",
+      "title": "Michaela Hánová"
     }
   ]
 }
