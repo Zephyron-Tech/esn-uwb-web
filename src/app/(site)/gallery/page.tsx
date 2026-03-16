@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 import PageHeader from '@/components/PageHeader'
 import { getDocuments } from 'outstatic/server'
 
@@ -40,9 +41,10 @@ export default async function GalleryPage() {
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {albums.map((album) => (
-              <div
+              <Link
                 key={album.slug}
-                className="group relative bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300"
+                href={`/gallery/${album.slug}`}
+                className="group relative bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 block"
               >
                 {/* Image Container */}
                 <div className="relative h-72 w-full overflow-hidden bg-gray-100">
@@ -70,7 +72,7 @@ export default async function GalleryPage() {
                     </p>
                   </div>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
         )}

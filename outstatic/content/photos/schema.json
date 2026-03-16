@@ -2,14 +2,12 @@
   "title": "photos",
   "type": "object",
   "properties": {
-    "gallery": {
-      "description": "Welcome Party 2026",
-      "fieldType": "Image",
-      "dataType": "image",
-      "title": "Gallery"
+    "description": {
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Description"
     },
     "coverImage": {
-      "description": "Welcome Party 2026 Cover",
       "fieldType": "Image",
       "dataType": "image",
       "title": "Cover Image"
