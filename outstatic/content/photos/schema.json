@@ -7,6 +7,12 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "Gallery"
+    },
+    "coverImage": {
+      "description": "Welcome Party 2026 Cover",
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Cover Image"
     }
   }
 }
