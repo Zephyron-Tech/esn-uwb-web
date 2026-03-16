@@ -1,13 +1,11 @@
 import Link from 'next/link'
-import { ArrowRight, Building2, Globe2, GraduationCap, MapPin, Users, Beer } from 'lucide-react'
+import { ArrowRight, Building2, Globe2, GraduationCap, MapPin } from 'lucide-react'
 
 const partnersList = [
   { name: 'University of West Bohemia', href: '#', icon: Building2 },
   { name: 'ESN Czech Republic', href: '#', icon: Globe2 },
   { name: 'Erasmus+', href: '#', icon: GraduationCap },
   { name: 'City of Pilsen', href: '#', icon: MapPin },
-  { name: 'Student Union UWB', href: '#', icon: Users },
-  { name: 'Pilsner Urquell', href: '#', icon: Beer },
 ]
 
 export default function Partners() {
@@ -24,7 +22,7 @@ export default function Partners() {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6 mb-16">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-16">
           {partnersList.map((partner) => {
             const Icon = partner.icon
             return (
