@@ -78,9 +78,6 @@ export default function KeyLinksSection() {
                   <div className="w-48 h-48 rounded-3xl bg-white/10 backdrop-blur-md flex items-center justify-center group-hover:scale-105 transition-transform duration-500 shadow-2xl">
                     <CreditCard className="w-24 h-24 text-white" />
                   </div>
-                  {/* Decorative circles */}
-                  <div className="absolute -top-6 -right-6 w-24 h-24 rounded-full bg-white/5 backdrop-blur-sm"></div>
-                  <div className="absolute -bottom-6 -left-6 w-32 h-32 rounded-full bg-white/5 backdrop-blur-sm"></div>
                 </div>
               </div>
             </div>
