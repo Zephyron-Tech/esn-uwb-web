@@ -1,6 +1,6 @@
 {
-  "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
-  "generated": "2026-03-16T19:29:37.878Z",
+  "commit": "e1a23886d8835ee9ab23efff0881cc0cd29b5007",
+  "generated": "2026-03-17T11:21:24.430Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,8 +129,25 @@
     },
     {
       "__outstatic": {
-        "commit": "c628b9bb45c1efe27d1a06c9b5bbe0f5c1c63b75",
-        "hash": "2806835541",
+        "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
+        "hash": "60245965",
+        "path": "outstatic/content/news/welcome-to-esn-uwb-pilsen.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "news",
+      "coverImage": "",
+      "description": "We are excited to welcome all incoming international students for the new semester.",
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "slug": "welcome-to-esn-uwb-pilsen",
+      "status": "published",
+      "title": "Welcome to ESN UWB Pilsen!"
+    },
+    {
+      "__outstatic": {
+        "commit": "e1a23886d8835ee9ab23efff0881cc0cd29b5007",
+        "hash": "1181588307",
         "path": "outstatic/content/photos/welcome-party-2026.md"
       },
       "author": {
@@ -180,24 +197,7 @@
       "publishedAt": "2026-03-11T12:00:00.000Z",
       "slug": "welcome-party-2026",
       "status": "published",
-      "title": "Welcome Party 2026"
-    },
-    {
-      "__outstatic": {
-        "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
-        "hash": "60245965",
-        "path": "outstatic/content/news/welcome-to-esn-uwb-pilsen.md"
-      },
-      "author": {
-        "name": "Tomas"
-      },
-      "collection": "news",
-      "coverImage": "",
-      "description": "We are excited to welcome all incoming international students for the new semester.",
-      "publishedAt": "2026-03-11T12:00:00.000Z",
-      "slug": "welcome-to-esn-uwb-pilsen",
-      "status": "published",
-      "title": "Welcome to ESN UWB Pilsen!"
+      "title": "Welcome Week SS2026"
     }
   ]
 }

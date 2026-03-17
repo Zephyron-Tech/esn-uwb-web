@@ -1,5 +1,5 @@
 ---
-title: "Welcome Party 2026"
+title: "Welcome Week SS2026"
 status: "published"
 author:
   name: "Tomas"
