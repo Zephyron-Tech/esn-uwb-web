@@ -1,6 +1,6 @@
 {
-  "commit": "00ae1857671134bed41c02776e45c370ee9f90c0",
-  "generated": "2026-03-19T19:26:40.442Z",
+  "commit": "513dc488d1caa34dda380fda0741f29239df2e8b",
+  "generated": "2026-03-19T19:29:28.206Z",
   "metadata": [
     {
       "__outstatic": {
@@ -201,8 +201,8 @@
     },
     {
       "__outstatic": {
-        "commit": "00ae1857671134bed41c02776e45c370ee9f90c0",
-        "hash": "2961162730",
+        "commit": "513dc488d1caa34dda380fda0741f29239df2e8b",
+        "hash": "3127784670",
         "path": "outstatic/content/guides/survival-guide.md"
       },
       "author": {
@@ -215,7 +215,7 @@
       "publishedAt": "2026-03-11T12:00:00.000Z",
       "slug": "survival-guide",
       "status": "published",
-      "title": "Survival Guide 2026"
+      "title": "Pilsen Guide 2026"
     }
   ]
 }

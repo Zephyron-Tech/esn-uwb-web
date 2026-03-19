@@ -1,5 +1,5 @@
 ---
-title: "Survival Guide 2026"
+title: "Pilsen Guide 2026"
 status: "published"
 author:
   name: "Tomas"
