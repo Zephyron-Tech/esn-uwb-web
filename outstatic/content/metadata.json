@@ -1,6 +1,6 @@
 {
-  "commit": "35362281d194b4dd09bedee93ff3b91c917d2828",
-  "generated": "2026-03-19T19:30:32.933Z",
+  "commit": "1359c9a6cf993ffe34558000c36cdb79d1c8da10",
+  "generated": "2026-03-19T19:31:16.363Z",
   "metadata": [
     {
       "__outstatic": {
@@ -201,8 +201,8 @@
     },
     {
       "__outstatic": {
-        "commit": "35362281d194b4dd09bedee93ff3b91c917d2828",
-        "hash": "3525238159",
+        "commit": "1359c9a6cf993ffe34558000c36cdb79d1c8da10",
+        "hash": "1209651567",
         "path": "outstatic/content/guides/pilsen-guide.md"
       },
       "author": {
@@ -212,7 +212,7 @@
       "collection": "guides",
       "coverImage": "/images/guide-cover.jpg",
       "description": "Everything you need to know about studying and living in Pilsen.",
-      "fileUrl": "https://drive.google.com/file/d/1o6tOP8GNA7TK_GbO5P9IiXEi9QqSByrO/view?usp=sharing",
+      "fileUrl": "",
       "publishedAt": "2026-03-11T12:00:00.000Z",
       "slug": "pilsen-guide",
       "status": "published",
