@@ -1,6 +1,6 @@
 {
-  "commit": "e1a23886d8835ee9ab23efff0881cc0cd29b5007",
-  "generated": "2026-03-17T11:21:24.430Z",
+  "commit": "00ae1857671134bed41c02776e45c370ee9f90c0",
+  "generated": "2026-03-19T19:26:40.442Z",
   "metadata": [
     {
       "__outstatic": {
@@ -198,6 +198,24 @@
       "slug": "welcome-party-2026",
       "status": "published",
       "title": "Welcome Week SS2026"
+    },
+    {
+      "__outstatic": {
+        "commit": "00ae1857671134bed41c02776e45c370ee9f90c0",
+        "hash": "2961162730",
+        "path": "outstatic/content/guides/survival-guide.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "guides",
+      "coverImage": "/images/guide-cover.jpg",
+      "description": "Everything you need to know about studying and living in Pilsen.",
+      "fileUrl": "https://drive.google.com/file/d/1o6tOP8GNA7TK_GbO5P9IiXEi9QqSByrO/view?usp=sharing",
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "slug": "survival-guide",
+      "status": "published",
+      "title": "Survival Guide 2026"
     }
   ]
 }
