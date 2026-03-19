@@ -1,6 +1,6 @@
 {
-  "commit": "513dc488d1caa34dda380fda0741f29239df2e8b",
-  "generated": "2026-03-19T19:29:28.206Z",
+  "commit": "35362281d194b4dd09bedee93ff3b91c917d2828",
+  "generated": "2026-03-19T19:30:32.933Z",
   "metadata": [
     {
       "__outstatic": {
@@ -201,19 +201,20 @@
     },
     {
       "__outstatic": {
-        "commit": "513dc488d1caa34dda380fda0741f29239df2e8b",
-        "hash": "3127784670",
-        "path": "outstatic/content/guides/survival-guide.md"
+        "commit": "35362281d194b4dd09bedee93ff3b91c917d2828",
+        "hash": "3525238159",
+        "path": "outstatic/content/guides/pilsen-guide.md"
       },
       "author": {
-        "name": "Tomas"
+        "name": "Tomas",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
       },
       "collection": "guides",
       "coverImage": "/images/guide-cover.jpg",
       "description": "Everything you need to know about studying and living in Pilsen.",
       "fileUrl": "https://drive.google.com/file/d/1o6tOP8GNA7TK_GbO5P9IiXEi9QqSByrO/view?usp=sharing",
       "publishedAt": "2026-03-11T12:00:00.000Z",
-      "slug": "survival-guide",
+      "slug": "pilsen-guide",
       "status": "published",
       "title": "Pilsen Guide 2026"
     }
