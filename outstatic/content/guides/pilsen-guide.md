@@ -7,7 +7,7 @@ author:
 slug: "pilsen-guide"
 description: "Everything you need to know about studying and living in Pilsen."
 coverImage: "/images/guide-cover.jpg"
-fileUrl: ""
+fileUrl: "https://drive.google.com/file/d/1G1X3AhgJDAQoZ5_voCEdTBOKQCLwZRJA/view?usp=sharing"
 publishedAt: "2026-03-11T12:00:00.000Z"
 ---
 
