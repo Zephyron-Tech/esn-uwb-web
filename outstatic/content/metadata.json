@@ -1,6 +1,6 @@
 {
-  "commit": "b15a80e8f118a350276de7267c5c94bee2ed6fcd",
-  "generated": "2026-03-21T09:01:34.518Z",
+  "commit": "a0853035f2f601954bb3bfdf8d8e9b81a62db2da",
+  "generated": "2026-03-21T10:33:03.342Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,8 +220,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b15a80e8f118a350276de7267c5c94bee2ed6fcd",
-        "hash": "2912189148",
+        "commit": "a0853035f2f601954bb3bfdf8d8e9b81a62db2da",
+        "hash": "2468786607",
         "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
       },
       "author": {
@@ -232,7 +232,7 @@
       "coverImage": "/images/ers-na-plze--2025--youtube-thumbnail--g0OD.png",
       "publishedAt": "2026-03-21T08:27:57.387Z",
       "slug": "national-assembly-plzen-2025",
-      "status": "draft",
+      "status": "published",
       "title": "National Assembly Plzeň 2025"
     }
   ]
