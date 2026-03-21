@@ -1,6 +1,6 @@
 {
-  "commit": "ee826819c522709733369eb4b5f28c1e5320598c",
-  "generated": "2026-03-19T19:31:25.562Z",
+  "commit": "b8113e5042088783f865ea3d0ec6affa52b1f142",
+  "generated": "2026-03-21T08:53:36.332Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,6 +217,23 @@
       "slug": "pilsen-guide",
       "status": "published",
       "title": "Pilsen Guide 2026"
+    },
+    {
+      "__outstatic": {
+        "commit": "b8113e5042088783f865ea3d0ec6affa52b1f142",
+        "hash": "1082839200",
+        "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
+      },
+      "author": {
+        "name": "William Poppy",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "",
+      "publishedAt": "2026-03-21T08:27:57.387Z",
+      "slug": "national-assembly-plzen-2025",
+      "status": "draft",
+      "title": "National Assembly Plzeň 2025"
     }
   ]
 }
