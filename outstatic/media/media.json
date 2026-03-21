@@ -1,6 +1,6 @@
 {
-  "commit": "4d3b8aaede4f159d9b77848ad30ffc044fcd890b",
-  "generated": "2026-03-16T19:23:41.857Z",
+  "commit": "2a0c597eb0c896c92626d35cef0c576bca3785f5",
+  "generated": "2026-03-21T09:00:51.835Z",
   "media": [
     {
       "__outstatic": {
@@ -66,6 +66,17 @@
       "alt": "",
       "filename": "William Poppy 2.png",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a0c597eb0c896c92626d35cef0c576bca3785f5",
+        "hash": "2628296443",
+        "path": "public/images/ers-na-plze--2025--youtube-thumbnail--g0OD.png"
+      },
+      "alt": "",
+      "filename": "ers-na-plze--2025--youtube-thumbnail--g0OD.png",
+      "publishedAt": "2026-03-21T09:00:51.835Z",
       "type": "image"
     },
     {
