@@ -1,6 +1,6 @@
 {
-  "commit": "b8113e5042088783f865ea3d0ec6affa52b1f142",
-  "generated": "2026-03-21T08:53:36.332Z",
+  "commit": "b15a80e8f118a350276de7267c5c94bee2ed6fcd",
+  "generated": "2026-03-21T09:01:34.518Z",
   "metadata": [
     {
       "__outstatic": {
@@ -220,8 +220,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b8113e5042088783f865ea3d0ec6affa52b1f142",
-        "hash": "1082839200",
+        "commit": "b15a80e8f118a350276de7267c5c94bee2ed6fcd",
+        "hash": "2912189148",
         "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
       },
       "author": {
@@ -229,7 +229,7 @@
         "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
       },
       "collection": "news",
-      "coverImage": "",
+      "coverImage": "/images/ers-na-plze--2025--youtube-thumbnail--g0OD.png",
       "publishedAt": "2026-03-21T08:27:57.387Z",
       "slug": "national-assembly-plzen-2025",
       "status": "draft",
