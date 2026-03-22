@@ -1,6 +1,6 @@
 {
-  "commit": "1cb50788d8aad6f3a1b32a852c8e007251be4eb0",
-  "generated": "2026-03-21T10:34:31.589Z",
+  "commit": "5412a6f1ae5728448ed0c4c3c75012ea9519e7a5",
+  "generated": "2026-03-22T17:10:36.697Z",
   "metadata": [
     {
       "__outstatic": {
@@ -201,25 +201,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ee826819c522709733369eb4b5f28c1e5320598c",
-        "hash": "801940783",
-        "path": "outstatic/content/guides/pilsen-guide.md"
-      },
-      "author": {
-        "name": "Tomas",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "guides",
-      "coverImage": "/images/guide-cover.jpg",
-      "description": "Everything you need to know about studying and living in Pilsen.",
-      "fileUrl": "https://drive.google.com/file/d/1G1X3AhgJDAQoZ5_voCEdTBOKQCLwZRJA/view?usp=sharing",
-      "publishedAt": "2026-03-11T12:00:00.000Z",
-      "slug": "pilsen-guide",
-      "status": "published",
-      "title": "Pilsen Guide 2026"
-    },
-    {
-      "__outstatic": {
         "commit": "1cb50788d8aad6f3a1b32a852c8e007251be4eb0",
         "hash": "109761212",
         "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
@@ -234,6 +215,25 @@
       "slug": "national-assembly-plzen-2025",
       "status": "draft",
       "title": "National Assembly Plzeň 2025"
+    },
+    {
+      "__outstatic": {
+        "commit": "5412a6f1ae5728448ed0c4c3c75012ea9519e7a5",
+        "hash": "3961753240",
+        "path": "outstatic/content/guides/pilsen-guide.md"
+      },
+      "author": {
+        "name": "Tomas",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "guides",
+      "coverImage": "",
+      "description": "Everything you need to know about studying and living in Pilsen.",
+      "fileUrl": "https://drive.google.com/file/d/1G1X3AhgJDAQoZ5_voCEdTBOKQCLwZRJA/view?usp=sharing",
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "slug": "pilsen-guide",
+      "status": "published",
+      "title": "Pilsen Guide 2026"
     }
   ]
 }
