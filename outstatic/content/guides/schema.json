@@ -6,6 +6,11 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "File Url"
+    },
+    "coverImage": {
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Cover Image"
     }
   }
 }
