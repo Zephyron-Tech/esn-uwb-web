@@ -1,6 +1,6 @@
 {
-  "commit": "2a0c597eb0c896c92626d35cef0c576bca3785f5",
-  "generated": "2026-03-21T09:00:51.835Z",
+  "commit": "ede6eeeda4fcf4d6e3e2bffca121dcabf3dba163",
+  "generated": "2026-03-23T14:02:05.517Z",
   "media": [
     {
       "__outstatic": {
@@ -153,17 +153,6 @@
       },
       "alt": "",
       "filename": "welcome_party_5.jpg",
-      "publishedAt": "2026-03-16T18:01:42.633Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "0",
-        "path": "public/images/welcome_party_6.jpg"
-      },
-      "alt": "",
-      "filename": "welcome_party_6.jpg",
       "publishedAt": "2026-03-16T18:01:42.633Z",
       "type": "image"
     },
