@@ -1,6 +1,6 @@
 {
-  "commit": "ede6eeeda4fcf4d6e3e2bffca121dcabf3dba163",
-  "generated": "2026-03-23T14:02:05.517Z",
+  "commit": "f4211ede940af8b7c218b8eda760e0062e9873cd",
+  "generated": "2026-03-23T14:18:47.415Z",
   "media": [
     {
       "__outstatic": {
@@ -88,6 +88,17 @@
       "alt": "",
       "filename": "hero.jpg",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "f4211ede940af8b7c218b8eda760e0062e9873cd",
+        "hash": "3336146597",
+        "path": "public/images/obr-zek-whatsapp--2025-09-17-v-17.59.02_bc553dda-g5Nj.jpg"
+      },
+      "alt": "",
+      "filename": "obr-zek-whatsapp--2025-09-17-v-17.59.02_bc553dda-g5Nj.jpg",
+      "publishedAt": "2026-03-23T14:18:47.415Z",
       "type": "image"
     },
     {
