@@ -43,7 +43,7 @@ export default function Partners() {
 
         <div className="text-center">
           <Link
-            href="/sponsors"
+            href="/partners"
             className="inline-flex items-center px-8 py-4 bg-gray-50 text-esn-dark-blue font-bold rounded-full hover:bg-esn-dark-blue hover:text-white transition-all duration-300 shadow-sm hover:shadow-md"
           >
             Become a Partner

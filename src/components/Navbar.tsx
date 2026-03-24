@@ -13,7 +13,7 @@ const navLinks = [
   { name: 'News', href: '/news' },
   { name: 'Gallery', href: '/gallery' },
   { name: 'Contact', href: '/contact' },
-  { name: 'Sponsors', href: '/sponsors' },
+  { name: 'Partners', href: '/partners' },
 ]
 
 export default function Navbar() {
