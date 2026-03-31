@@ -1,6 +1,6 @@
 {
-  "commit": "6cb3c34eddb5a77845cec7dcfc6a1fbd70993590",
-  "generated": "2026-03-31T13:53:12.175Z",
+  "commit": "c985d8e985cac2d268224857f7df22fb3d477246",
+  "generated": "2026-03-31T15:04:45.446Z",
   "metadata": [
     {
       "__outstatic": {
@@ -252,6 +252,22 @@
       "slug": "our-first-career-workshop",
       "status": "published",
       "title": "Our First Career Workshop"
+    },
+    {
+      "__outstatic": {
+        "commit": "c985d8e985cac2d268224857f7df22fb3d477246",
+        "hash": "3818366676",
+        "path": "outstatic/content/partners/zalando.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "publishedAt": "2026-03-31T15:16:20.628Z",
+      "slug": "zalando",
+      "status": "published",
+      "title": "Zalando"
     }
   ]
 }
