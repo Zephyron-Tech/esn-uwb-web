@@ -1,6 +1,6 @@
 {
-  "commit": "05c1216d4a54af6920fe7f9434b84a3bfc6cb195",
-  "generated": "2026-03-31T15:10:46.021Z",
+  "commit": "e1aaf965b8ad3dc5e456d4afda423b7100410ffb",
+  "generated": "2026-03-31T15:10:56.487Z",
   "metadata": [
     {
       "__outstatic": {
@@ -321,19 +321,19 @@
     },
     {
       "__outstatic": {
-        "commit": "05c1216d4a54af6920fe7f9434b84a3bfc6cb195",
-        "hash": "4005138212",
-        "path": "outstatic/content/partners/perlego.mdx"
+        "commit": "e1aaf965b8ad3dc5e456d4afda423b7100410ffb",
+        "hash": "3285338421",
+        "path": "outstatic/content/partners/perlego.md"
       },
       "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+        "name": "Tomas"
       },
       "collection": "partners",
-      "description": "Enjoy a 15 % discount for monthly and annual subscriptions for your library that never closes!\n",
-      "publishedAt": "2026-03-31T15:22:37.234Z",
+      "coverImage": "",
+      "description": "15% discount on digital library",
+      "publishedAt": "2026-03-14T12:00:00.000Z",
       "slug": "perlego",
-      "status": "draft",
+      "status": "published",
       "title": "Perlego"
     }
   ]
