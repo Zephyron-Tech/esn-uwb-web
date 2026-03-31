@@ -1,6 +1,6 @@
 {
-  "commit": "e6681b070bb03e5fcea04ac17f93cafdb5643442",
-  "generated": "2026-03-31T15:09:25.591Z",
+  "commit": "0aa15b82b31f6f2443ffe8556d9186773459af5c",
+  "generated": "2026-03-31T15:09:49.383Z",
   "metadata": [
     {
       "__outstatic": {
@@ -301,6 +301,23 @@
       "slug": "eurosender",
       "status": "draft",
       "title": "Eurosender"
+    },
+    {
+      "__outstatic": {
+        "commit": "0aa15b82b31f6f2443ffe8556d9186773459af5c",
+        "hash": "1814713900",
+        "path": "outstatic/content/partners/megabooks.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Exclusive distributor of Oxford University Press in the Czech Republic!\n",
+      "publishedAt": "2026-03-31T15:21:39.409Z",
+      "slug": "megabooks",
+      "status": "published",
+      "title": "Megabooks"
     }
   ]
 }
