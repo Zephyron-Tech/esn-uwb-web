@@ -1,6 +1,6 @@
 {
-  "commit": "893b57260bb353e2eb04568dcbcfc5714096ee87",
-  "generated": "2026-03-31T13:48:39.740Z",
+  "commit": "6543631a02011ecaab8d12a1689d2115034be50d",
+  "generated": "2026-03-31T13:48:50.842Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,8 +237,8 @@
     },
     {
       "__outstatic": {
-        "commit": "893b57260bb353e2eb04568dcbcfc5714096ee87",
-        "hash": "1585426731",
+        "commit": "6543631a02011ecaab8d12a1689d2115034be50d",
+        "hash": "3361651838",
         "path": "outstatic/content/news/our-first-career-workshop.mdx"
       },
       "author": {
@@ -249,7 +249,7 @@
       "coverImage": "/images/img_1390-cwOD.jpeg",
       "publishedAt": "2026-03-31T13:56:27.746Z",
       "slug": "our-first-career-workshop",
-      "status": "draft",
+      "status": "published",
       "title": "Our First Career Workshop"
     }
   ]
