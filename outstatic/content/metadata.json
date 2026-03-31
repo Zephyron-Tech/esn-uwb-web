@@ -1,6 +1,6 @@
 {
-  "commit": "5412a6f1ae5728448ed0c4c3c75012ea9519e7a5",
-  "generated": "2026-03-22T17:10:36.697Z",
+  "commit": "008b00ebc4403e86a79fec577beb931afe834a0f",
+  "generated": "2026-03-31T13:48:22.776Z",
   "metadata": [
     {
       "__outstatic": {
@@ -234,6 +234,23 @@
       "slug": "pilsen-guide",
       "status": "published",
       "title": "Pilsen Guide 2026"
+    },
+    {
+      "__outstatic": {
+        "commit": "008b00ebc4403e86a79fec577beb931afe834a0f",
+        "hash": "3194941372",
+        "path": "outstatic/content/news/our-first-career-workshop.mdx"
+      },
+      "author": {
+        "name": "Michal Ptáček - Vice president",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_1390-cwOD.jpeg",
+      "publishedAt": "2026-03-31T13:56:27.746Z",
+      "slug": "our-first-career-workshop",
+      "status": "draft",
+      "title": "Our First Career Workshop"
     }
   ]
 }
