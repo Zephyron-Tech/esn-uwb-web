@@ -1,6 +1,6 @@
 {
-  "commit": "260d07a494e6447781dc5a2e7b588f4d846532f1",
-  "generated": "2026-03-31T15:18:52.293Z",
+  "commit": "63f10a5dbf6f72da6105fc1067166c6e252cb2a0",
+  "generated": "2026-03-31T15:20:19.379Z",
   "metadata": [
     {
       "__outstatic": {
@@ -403,6 +403,23 @@
       "slug": "sonnentor",
       "status": "published",
       "title": "Sonnentor"
+    },
+    {
+      "__outstatic": {
+        "commit": "63f10a5dbf6f72da6105fc1067166c6e252cb2a0",
+        "hash": "3371100917",
+        "path": "outstatic/content/partners/zalohujeme.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Circular economy starts with your bottle! \n",
+      "publishedAt": "2026-03-31T15:32:06.452Z",
+      "slug": "zalohujeme",
+      "status": "published",
+      "title": "Zálohujeme"
     }
   ]
 }
