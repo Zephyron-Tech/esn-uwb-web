@@ -1,6 +1,6 @@
 {
-  "commit": "5db0c9c0794236c5f27ec46d5ea8ac1c5b3ea52c",
-  "generated": "2026-03-31T15:12:40.381Z",
+  "commit": "d5c7f1fc3ff03f8e78e22691eec37921029ec493",
+  "generated": "2026-03-31T15:13:05.307Z",
   "metadata": [
     {
       "__outstatic": {
@@ -352,6 +352,23 @@
       "slug": "ryanair",
       "status": "published",
       "title": "Ryanair"
+    },
+    {
+      "__outstatic": {
+        "commit": "d5c7f1fc3ff03f8e78e22691eec37921029ec493",
+        "hash": "2009960804",
+        "path": "outstatic/content/partners/samsung.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": " Samsung deals up to 30 % off selected products!\n",
+      "publishedAt": "2026-03-31T15:24:51.973Z",
+      "slug": "samsung",
+      "status": "published",
+      "title": "Samsung"
     }
   ]
 }
