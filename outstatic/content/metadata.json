@@ -1,6 +1,6 @@
 {
-  "commit": "46b8e570a5797fb3121b101c8a74f5f4d9e8ca8e",
-  "generated": "2026-03-31T13:50:29.225Z",
+  "commit": "6cb3c34eddb5a77845cec7dcfc6a1fbd70993590",
+  "generated": "2026-03-31T13:53:12.175Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,8 +237,8 @@
     },
     {
       "__outstatic": {
-        "commit": "46b8e570a5797fb3121b101c8a74f5f4d9e8ca8e",
-        "hash": "1398652274",
+        "commit": "6cb3c34eddb5a77845cec7dcfc6a1fbd70993590",
+        "hash": "1742149152",
         "path": "outstatic/content/news/our-first-career-workshop.mdx"
       },
       "author": {
@@ -247,6 +247,7 @@
       },
       "collection": "news",
       "coverImage": "/images/img_1390-cwOD.jpeg",
+      "description": "Not every lecture prepares you for your first real job interview — but one workshop can move you a lot closer.",
       "publishedAt": "2026-03-31T13:56:27.746Z",
       "slug": "our-first-career-workshop",
       "status": "published",
