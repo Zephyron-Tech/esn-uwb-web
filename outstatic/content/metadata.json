@@ -1,6 +1,6 @@
 {
-  "commit": "0aa15b82b31f6f2443ffe8556d9186773459af5c",
-  "generated": "2026-03-31T15:09:49.383Z",
+  "commit": "05c1216d4a54af6920fe7f9434b84a3bfc6cb195",
+  "generated": "2026-03-31T15:10:46.021Z",
   "metadata": [
     {
       "__outstatic": {
@@ -318,6 +318,23 @@
       "slug": "megabooks",
       "status": "published",
       "title": "Megabooks"
+    },
+    {
+      "__outstatic": {
+        "commit": "05c1216d4a54af6920fe7f9434b84a3bfc6cb195",
+        "hash": "4005138212",
+        "path": "outstatic/content/partners/perlego.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Enjoy a 15 % discount for monthly and annual subscriptions for your library that never closes!\n",
+      "publishedAt": "2026-03-31T15:22:37.234Z",
+      "slug": "perlego",
+      "status": "draft",
+      "title": "Perlego"
     }
   ]
 }
