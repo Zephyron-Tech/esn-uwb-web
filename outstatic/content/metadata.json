@@ -1,6 +1,6 @@
 {
-  "commit": "e1aaf965b8ad3dc5e456d4afda423b7100410ffb",
-  "generated": "2026-03-31T15:10:56.487Z",
+  "commit": "5db0c9c0794236c5f27ec46d5ea8ac1c5b3ea52c",
+  "generated": "2026-03-31T15:12:40.381Z",
   "metadata": [
     {
       "__outstatic": {
@@ -335,6 +335,23 @@
       "slug": "perlego",
       "status": "published",
       "title": "Perlego"
+    },
+    {
+      "__outstatic": {
+        "commit": "5db0c9c0794236c5f27ec46d5ea8ac1c5b3ea52c",
+        "hash": "1023474096",
+        "path": "outstatic/content/partners/ryanair.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Get a 10% discount on 4 flights and a free check in luggage!\n",
+      "publishedAt": "2026-03-31T15:24:31.556Z",
+      "slug": "ryanair",
+      "status": "published",
+      "title": "Ryanair"
     }
   ]
 }
