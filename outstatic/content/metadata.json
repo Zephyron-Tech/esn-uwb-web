@@ -1,6 +1,6 @@
 {
-  "commit": "6543631a02011ecaab8d12a1689d2115034be50d",
-  "generated": "2026-03-31T13:48:50.842Z",
+  "commit": "46b8e570a5797fb3121b101c8a74f5f4d9e8ca8e",
+  "generated": "2026-03-31T13:50:29.225Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,8 +237,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6543631a02011ecaab8d12a1689d2115034be50d",
-        "hash": "3361651838",
+        "commit": "46b8e570a5797fb3121b101c8a74f5f4d9e8ca8e",
+        "hash": "1398652274",
         "path": "outstatic/content/news/our-first-career-workshop.mdx"
       },
       "author": {
