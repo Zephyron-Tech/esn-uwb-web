@@ -1,6 +1,6 @@
 {
-  "commit": "97311aec54170289ee29b22796716079ad578602",
-  "generated": "2026-03-31T15:16:58.791Z",
+  "commit": "594f432c0c1d7cf849580e1a19ebdb509c5a69d0",
+  "generated": "2026-03-31T15:17:03.424Z",
   "metadata": [
     {
       "__outstatic": {
@@ -423,8 +423,8 @@
     },
     {
       "__outstatic": {
-        "commit": "97311aec54170289ee29b22796716079ad578602",
-        "hash": "4039099001",
+        "commit": "594f432c0c1d7cf849580e1a19ebdb509c5a69d0",
+        "hash": "3940634623",
         "path": "outstatic/content/partners/sonnentor.mdx"
       },
       "author": {
@@ -435,7 +435,7 @@
       "description": "On the hilltop of the picturesque South Moravian village Čejkovice, organic sun teas have been produced for more than three decades.\n",
       "publishedAt": "2026-03-31T15:28:52.158Z",
       "slug": "sonnentor",
-      "status": "draft",
+      "status": "published",
       "title": "Sonnentor"
     }
   ]
