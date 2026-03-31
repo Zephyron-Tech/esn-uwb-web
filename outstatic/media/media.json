@@ -1,6 +1,6 @@
 {
-  "commit": "58e594e7a38bad8d1bde205dd19148bdb2fe2557",
-  "generated": "2026-03-23T14:18:57.916Z",
+  "commit": "88d8458ea3881b4122cca6e18b41bc7629bf4e24",
+  "generated": "2026-03-31T13:47:18.936Z",
   "media": [
     {
       "__outstatic": {
@@ -88,6 +88,17 @@
       "alt": "",
       "filename": "hero.jpg",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "88d8458ea3881b4122cca6e18b41bc7629bf4e24",
+        "hash": "717503333",
+        "path": "public/images/img_1390-cwOD.jpeg"
+      },
+      "alt": "",
+      "filename": "img_1390-cwOD.jpeg",
+      "publishedAt": "2026-03-31T13:47:18.936Z",
       "type": "image"
     },
     {
