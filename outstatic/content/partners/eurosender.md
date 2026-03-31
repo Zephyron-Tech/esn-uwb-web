@@ -1,6 +1,6 @@
 ---
 title: "Eurosender"
-status: "published"
+status: "draft"
 author:
   name: "Tomas"
 slug: "eurosender"

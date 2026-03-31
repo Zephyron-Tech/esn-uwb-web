@@ -1,6 +1,6 @@
 {
-  "commit": "8d55e6ebaa0c4c32960063433b5fcd8048cd7eea",
-  "generated": "2026-03-31T15:09:05.415Z",
+  "commit": "e6681b070bb03e5fcea04ac17f93cafdb5643442",
+  "generated": "2026-03-31T15:09:25.591Z",
   "metadata": [
     {
       "__outstatic": {
@@ -287,8 +287,8 @@
     },
     {
       "__outstatic": {
-        "commit": "8d55e6ebaa0c4c32960063433b5fcd8048cd7eea",
-        "hash": "3353646053",
+        "commit": "e6681b070bb03e5fcea04ac17f93cafdb5643442",
+        "hash": "4172864689",
         "path": "outstatic/content/partners/eurosender.md"
       },
       "author": {
@@ -299,7 +299,7 @@
       "description": "Get a 10% discount when sending luggage, packages or relocating with Eurosender.",
       "publishedAt": "2026-03-14T12:00:00.000Z",
       "slug": "eurosender",
-      "status": "published",
+      "status": "draft",
       "title": "Eurosender"
     }
   ]
