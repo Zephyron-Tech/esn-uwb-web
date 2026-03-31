@@ -1,6 +1,6 @@
 {
-  "commit": "663bb086b01a541d7fec80c74aee554578dd31a2",
-  "generated": "2026-03-31T15:06:11.400Z",
+  "commit": "9b747801af822068537c698f63e9c90748d5de95",
+  "generated": "2026-03-31T15:06:43.673Z",
   "metadata": [
     {
       "__outstatic": {
@@ -284,6 +284,22 @@
       "slug": "european-commission-representation-in-the-czech-republic",
       "status": "published",
       "title": "European Commission (representation in the Czech Republic)"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b747801af822068537c698f63e9c90748d5de95",
+        "hash": "3624266821",
+        "path": "outstatic/content/partners/eurosender.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "publishedAt": "2026-03-31T15:18:27.150Z",
+      "slug": "eurosender",
+      "status": "published",
+      "title": "Eurosender"
     }
   ]
 }
