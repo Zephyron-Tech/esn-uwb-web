@@ -1,6 +1,6 @@
 {
-  "commit": "961dc8afc6ec59422121d969e9998bb7df49edcd",
-  "generated": "2026-03-31T15:07:25.749Z",
+  "commit": "b0e6f59c121ff89aaac6422423366c5d1d7d6949",
+  "generated": "2026-03-31T15:07:48.559Z",
   "metadata": [
     {
       "__outstatic": {
@@ -255,22 +255,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c985d8e985cac2d268224857f7df22fb3d477246",
-        "hash": "3818366676",
-        "path": "outstatic/content/partners/zalando.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "partners",
-      "publishedAt": "2026-03-31T15:16:20.628Z",
-      "slug": "zalando",
-      "status": "published",
-      "title": "Zalando"
-    },
-    {
-      "__outstatic": {
         "commit": "663bb086b01a541d7fec80c74aee554578dd31a2",
         "hash": "455794386",
         "path": "outstatic/content/partners/european-commission-representation-in-the-czech-republic.mdx"
@@ -301,6 +285,22 @@
       "slug": "eurosender",
       "status": "published",
       "title": "Eurosender"
+    },
+    {
+      "__outstatic": {
+        "commit": "b0e6f59c121ff89aaac6422423366c5d1d7d6949",
+        "hash": "535151120",
+        "path": "outstatic/content/partners/zalando.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "publishedAt": "2026-03-31T15:16:20.628Z",
+      "slug": "zalando",
+      "status": "published",
+      "title": "Zalando"
     }
   ]
 }
