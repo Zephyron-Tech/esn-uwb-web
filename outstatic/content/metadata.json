@@ -1,6 +1,6 @@
 {
-  "commit": "31aa9271c5d0f937dba4ad90b1e064e337df6445",
-  "generated": "2026-03-31T15:15:29.168Z",
+  "commit": "035940a711cf44b63866bc1a98c367ef467e64cf",
+  "generated": "2026-03-31T15:16:09.357Z",
   "metadata": [
     {
       "__outstatic": {
@@ -386,6 +386,23 @@
       "slug": "spotahome",
       "status": "published",
       "title": "Spotahome"
+    },
+    {
+      "__outstatic": {
+        "commit": "035940a711cf44b63866bc1a98c367ef467e64cf",
+        "hash": "2917468167",
+        "path": "outstatic/content/partners/stasher.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Get 10% OFF on your luggage storage!\n",
+      "publishedAt": "2026-03-31T15:28:01.351Z",
+      "slug": "stasher",
+      "status": "published",
+      "title": "Stasher"
     }
   ]
 }
