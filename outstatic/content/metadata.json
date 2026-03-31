@@ -1,6 +1,6 @@
 {
-  "commit": "9b747801af822068537c698f63e9c90748d5de95",
-  "generated": "2026-03-31T15:06:43.673Z",
+  "commit": "961dc8afc6ec59422121d969e9998bb7df49edcd",
+  "generated": "2026-03-31T15:07:25.749Z",
   "metadata": [
     {
       "__outstatic": {
@@ -287,16 +287,17 @@
     },
     {
       "__outstatic": {
-        "commit": "9b747801af822068537c698f63e9c90748d5de95",
-        "hash": "3624266821",
-        "path": "outstatic/content/partners/eurosender.mdx"
+        "commit": "961dc8afc6ec59422121d969e9998bb7df49edcd",
+        "hash": "3072910388",
+        "path": "outstatic/content/partners/eurosender.md"
       },
       "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+        "name": "Tomas"
       },
       "collection": "partners",
-      "publishedAt": "2026-03-31T15:18:27.150Z",
+      "coverImage": "",
+      "description": "Shipping & relocation services",
+      "publishedAt": "2026-03-14T12:00:00.000Z",
       "slug": "eurosender",
       "status": "published",
       "title": "Eurosender"
