@@ -1,0 +1,11 @@
+{
+  "title": "partners",
+  "type": "object",
+  "properties": {
+    "description": {
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Description"
+    }
+  }
+}
