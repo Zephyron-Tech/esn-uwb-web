@@ -1,6 +1,6 @@
 {
-  "commit": "594f432c0c1d7cf849580e1a19ebdb509c5a69d0",
-  "generated": "2026-03-31T15:17:03.424Z",
+  "commit": "094885c960ba7a22e9a96e63e14b66a9d2730382",
+  "generated": "2026-03-31T15:18:29.952Z",
   "metadata": [
     {
       "__outstatic": {
@@ -369,23 +369,6 @@
       "slug": "samsung",
       "status": "published",
       "title": "Samsung"
-    },
-    {
-      "__outstatic": {
-        "commit": "31aa9271c5d0f937dba4ad90b1e064e337df6445",
-        "hash": "4013559706",
-        "path": "outstatic/content/partners/spotahome.md"
-      },
-      "author": {
-        "name": "Tomas"
-      },
-      "collection": "partners",
-      "coverImage": "",
-      "description": "Get 25% off the reservation fee on spotahome.com with the code ESNCZ25\n\n",
-      "publishedAt": "2026-03-14T12:00:00.000Z",
-      "slug": "spotahome",
-      "status": "published",
-      "title": "Spotahome"
     },
     {
       "__outstatic": {
