@@ -1,6 +1,6 @@
 {
-  "commit": "cba76377ff6c076fd38678a080c68ed7b74f45ea",
-  "generated": "2026-03-31T15:13:42.675Z",
+  "commit": "31aa9271c5d0f937dba4ad90b1e064e337df6445",
+  "generated": "2026-03-31T15:15:29.168Z",
   "metadata": [
     {
       "__outstatic": {
@@ -372,17 +372,17 @@
     },
     {
       "__outstatic": {
-        "commit": "cba76377ff6c076fd38678a080c68ed7b74f45ea",
-        "hash": "1463066142",
-        "path": "outstatic/content/partners/spotahome.mdx"
+        "commit": "31aa9271c5d0f937dba4ad90b1e064e337df6445",
+        "hash": "4013559706",
+        "path": "outstatic/content/partners/spotahome.md"
       },
       "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+        "name": "Tomas"
       },
       "collection": "partners",
-      "description": "Get 25% off the reservation fee on spotahome.com with the code ESNCZ25\n",
-      "publishedAt": "2026-03-31T15:25:32.589Z",
+      "coverImage": "",
+      "description": "Get 25% off the reservation fee on spotahome.com with the code ESNCZ25\n\n",
+      "publishedAt": "2026-03-14T12:00:00.000Z",
       "slug": "spotahome",
       "status": "published",
       "title": "Spotahome"
