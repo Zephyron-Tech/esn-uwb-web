@@ -1,6 +1,6 @@
 {
-  "commit": "094885c960ba7a22e9a96e63e14b66a9d2730382",
-  "generated": "2026-03-31T15:18:29.952Z",
+  "commit": "260d07a494e6447781dc5a2e7b588f4d846532f1",
+  "generated": "2026-03-31T15:18:52.293Z",
   "metadata": [
     {
       "__outstatic": {
@@ -284,23 +284,6 @@
       "slug": "zalando",
       "status": "published",
       "title": "Zalando"
-    },
-    {
-      "__outstatic": {
-        "commit": "e6681b070bb03e5fcea04ac17f93cafdb5643442",
-        "hash": "4172864689",
-        "path": "outstatic/content/partners/eurosender.md"
-      },
-      "author": {
-        "name": "Tomas"
-      },
-      "collection": "partners",
-      "coverImage": "",
-      "description": "Get a 10% discount when sending luggage, packages or relocating with Eurosender.",
-      "publishedAt": "2026-03-14T12:00:00.000Z",
-      "slug": "eurosender",
-      "status": "draft",
-      "title": "Eurosender"
     },
     {
       "__outstatic": {
