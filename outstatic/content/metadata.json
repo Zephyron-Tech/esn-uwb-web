@@ -1,6 +1,6 @@
 {
-  "commit": "035940a711cf44b63866bc1a98c367ef467e64cf",
-  "generated": "2026-03-31T15:16:09.357Z",
+  "commit": "d6f595382d63caa246258fe94d4525daa2226791",
+  "generated": "2026-03-31T15:16:33.848Z",
   "metadata": [
     {
       "__outstatic": {
@@ -403,6 +403,23 @@
       "slug": "stasher",
       "status": "published",
       "title": "Stasher"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6f595382d63caa246258fe94d4525daa2226791",
+        "hash": "2973787510",
+        "path": "outstatic/content/partners/student-chamber-of-the-council-of-heis.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "SK RVŠ is the national representative body for university students in the Czech Republic.\n",
+      "publishedAt": "2026-03-31T15:28:22.611Z",
+      "slug": "student-chamber-of-the-council-of-heis",
+      "status": "published",
+      "title": "Student Chamber of the Council of HEIs"
     }
   ]
 }
