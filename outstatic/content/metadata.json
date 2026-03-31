@@ -1,6 +1,6 @@
 {
-  "commit": "d6f595382d63caa246258fe94d4525daa2226791",
-  "generated": "2026-03-31T15:16:33.848Z",
+  "commit": "97311aec54170289ee29b22796716079ad578602",
+  "generated": "2026-03-31T15:16:58.791Z",
   "metadata": [
     {
       "__outstatic": {
@@ -420,6 +420,23 @@
       "slug": "student-chamber-of-the-council-of-heis",
       "status": "published",
       "title": "Student Chamber of the Council of HEIs"
+    },
+    {
+      "__outstatic": {
+        "commit": "97311aec54170289ee29b22796716079ad578602",
+        "hash": "4039099001",
+        "path": "outstatic/content/partners/sonnentor.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "On the hilltop of the picturesque South Moravian village Čejkovice, organic sun teas have been produced for more than three decades.\n",
+      "publishedAt": "2026-03-31T15:28:52.158Z",
+      "slug": "sonnentor",
+      "status": "draft",
+      "title": "Sonnentor"
     }
   ]
 }
