@@ -1,6 +1,6 @@
 {
-  "commit": "d5c7f1fc3ff03f8e78e22691eec37921029ec493",
-  "generated": "2026-03-31T15:13:05.307Z",
+  "commit": "cba76377ff6c076fd38678a080c68ed7b74f45ea",
+  "generated": "2026-03-31T15:13:42.675Z",
   "metadata": [
     {
       "__outstatic": {
@@ -369,6 +369,23 @@
       "slug": "samsung",
       "status": "published",
       "title": "Samsung"
+    },
+    {
+      "__outstatic": {
+        "commit": "cba76377ff6c076fd38678a080c68ed7b74f45ea",
+        "hash": "1463066142",
+        "path": "outstatic/content/partners/spotahome.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "description": "Get 25% off the reservation fee on spotahome.com with the code ESNCZ25\n",
+      "publishedAt": "2026-03-31T15:25:32.589Z",
+      "slug": "spotahome",
+      "status": "published",
+      "title": "Spotahome"
     }
   ]
 }
