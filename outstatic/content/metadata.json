@@ -1,6 +1,6 @@
 {
-  "commit": "63f10a5dbf6f72da6105fc1067166c6e252cb2a0",
-  "generated": "2026-03-31T15:20:19.379Z",
+  "commit": "5aa91b0a83300bac2c9c6528a7b37cedf568f24e",
+  "generated": "2026-04-02T19:18:56.311Z",
   "metadata": [
     {
       "__outstatic": {
@@ -198,23 +198,6 @@
       "slug": "welcome-party-2026",
       "status": "published",
       "title": "Welcome Week SS2026"
-    },
-    {
-      "__outstatic": {
-        "commit": "1cb50788d8aad6f3a1b32a852c8e007251be4eb0",
-        "hash": "109761212",
-        "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
-      },
-      "author": {
-        "name": "William Poppy",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/ers-na-plze--2025--youtube-thumbnail--g0OD.png",
-      "publishedAt": "2026-03-21T08:27:57.387Z",
-      "slug": "national-assembly-plzen-2025",
-      "status": "draft",
-      "title": "National Assembly Plzeň 2025"
     },
     {
       "__outstatic": {
@@ -420,6 +403,24 @@
       "slug": "zalohujeme",
       "status": "published",
       "title": "Zálohujeme"
+    },
+    {
+      "__outstatic": {
+        "commit": "5aa91b0a83300bac2c9c6528a7b37cedf568f24e",
+        "hash": "3151337940",
+        "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
+      },
+      "author": {
+        "name": "William Poppy",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/na-2025-2-3-IwND.jpeg",
+      "description": "ESN UWB Pilsen is proud to have hosted its first National Assembly in November 2025. This platform allowed student volunteers from across the network to visit our city, many for the very first time.",
+      "publishedAt": "2026-03-21T08:27:57.387Z",
+      "slug": "national-assembly-plzen-2025",
+      "status": "published",
+      "title": "National Assembly Plzeň 2025"
     }
   ]
 }
