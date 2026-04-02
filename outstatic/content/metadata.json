@@ -1,6 +1,6 @@
 {
-  "commit": "5aa91b0a83300bac2c9c6528a7b37cedf568f24e",
-  "generated": "2026-04-02T19:18:56.311Z",
+  "commit": "db810c93be9c56eb4eadb50956e3ffd69cda48a1",
+  "generated": "2026-04-02T19:19:25.684Z",
   "metadata": [
     {
       "__outstatic": {
@@ -126,23 +126,6 @@
       "slug": "william-poppy",
       "status": "published",
       "title": "William Poppy"
-    },
-    {
-      "__outstatic": {
-        "commit": "20aa3b521288da2e1389f22fbf7f2b74cf6bca4a",
-        "hash": "60245965",
-        "path": "outstatic/content/news/welcome-to-esn-uwb-pilsen.md"
-      },
-      "author": {
-        "name": "Tomas"
-      },
-      "collection": "news",
-      "coverImage": "",
-      "description": "We are excited to welcome all incoming international students for the new semester.",
-      "publishedAt": "2026-03-11T12:00:00.000Z",
-      "slug": "welcome-to-esn-uwb-pilsen",
-      "status": "published",
-      "title": "Welcome to ESN UWB Pilsen!"
     },
     {
       "__outstatic": {
@@ -421,6 +404,23 @@
       "slug": "national-assembly-plzen-2025",
       "status": "published",
       "title": "National Assembly Plzeň 2025"
+    },
+    {
+      "__outstatic": {
+        "commit": "db810c93be9c56eb4eadb50956e3ffd69cda48a1",
+        "hash": "636669296",
+        "path": "outstatic/content/news/welcome-to-esn-uwb-pilsen.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "news",
+      "coverImage": "/images/welcome_party_4.jpg",
+      "description": "We are excited to welcome all incoming international students for the new semester.",
+      "publishedAt": "2026-03-11T12:00:00.000Z",
+      "slug": "welcome-to-esn-uwb-pilsen",
+      "status": "published",
+      "title": "Welcome to ESN UWB Pilsen!"
     }
   ]
 }
