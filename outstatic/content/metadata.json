@@ -1,6 +1,6 @@
 {
-  "commit": "2cb3609ceca0eb71c6de568dcbfde4a575b347cd",
-  "generated": "2026-04-07T08:03:39.295Z",
+  "commit": "77777494edf2870c478fa0d01b57d8d631ad6da0",
+  "generated": "2026-04-07T08:03:52.111Z",
   "metadata": [
     {
       "__outstatic": {
@@ -437,6 +437,22 @@
       "slug": "flixbus",
       "status": "published",
       "title": "Flixbus"
+    },
+    {
+      "__outstatic": {
+        "commit": "77777494edf2870c478fa0d01b57d8d631ad6da0",
+        "hash": "562327474",
+        "path": "outstatic/content/partners/flixtrain.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "publishedAt": "2026-04-07T08:15:42.911Z",
+      "slug": "flixtrain",
+      "status": "published",
+      "title": "Flixtrain"
     }
   ]
 }
