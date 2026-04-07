@@ -1,6 +1,6 @@
 {
-  "commit": "debf39e1c574e23e19658230da22cdd5f21b2123",
-  "generated": "2026-04-07T17:20:15.106Z",
+  "commit": "c797967588646d337ec74c157ed7439970e9a006",
+  "generated": "2026-04-07T17:20:46.594Z",
   "metadata": [
     {
       "__outstatic": {
@@ -436,6 +436,22 @@
       "slug": "expressvpn",
       "status": "published",
       "title": "ExpressVPN"
+    },
+    {
+      "__outstatic": {
+        "commit": "c797967588646d337ec74c157ed7439970e9a006",
+        "hash": "3911557699",
+        "path": "outstatic/content/partners/airalo.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "partners",
+      "publishedAt": "2026-04-07T17:32:24.727Z",
+      "slug": "airalo",
+      "status": "published",
+      "title": "Airalo"
     }
   ]
 }
