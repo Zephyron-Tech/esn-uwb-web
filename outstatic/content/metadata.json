@@ -1,6 +1,6 @@
 {
-  "commit": "c797967588646d337ec74c157ed7439970e9a006",
-  "generated": "2026-04-07T17:20:46.594Z",
+  "commit": "963f22bedb933924db81f7b2d4249d50d8ab319d",
+  "generated": "2026-04-09T17:09:24.935Z",
   "metadata": [
     {
       "__outstatic": {
@@ -200,24 +200,6 @@
       "slug": "pilsen-guide",
       "status": "published",
       "title": "Pilsen Guide 2026"
-    },
-    {
-      "__outstatic": {
-        "commit": "6cb3c34eddb5a77845cec7dcfc6a1fbd70993590",
-        "hash": "1742149152",
-        "path": "outstatic/content/news/our-first-career-workshop.mdx"
-      },
-      "author": {
-        "name": "Michal Ptáček - Vice president",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/img_1390-cwOD.jpeg",
-      "description": "Not every lecture prepares you for your first real job interview — but one workshop can move you a lot closer.",
-      "publishedAt": "2026-03-31T13:56:27.746Z",
-      "slug": "our-first-career-workshop",
-      "status": "published",
-      "title": "Our First Career Workshop"
     },
     {
       "__outstatic": {
@@ -452,6 +434,24 @@
       "slug": "airalo",
       "status": "published",
       "title": "Airalo"
+    },
+    {
+      "__outstatic": {
+        "commit": "963f22bedb933924db81f7b2d4249d50d8ab319d",
+        "hash": "1555507184",
+        "path": "outstatic/content/news/our-first-career-workshop.mdx"
+      },
+      "author": {
+        "name": "Michal Ptáček - Vice president",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_1390-cwOD.jpeg",
+      "description": "Not every lecture prepares you for your first real job interview — but one workshop can move you a lot closer.",
+      "publishedAt": "2026-03-31T13:56:27.746Z",
+      "slug": "our-first-career-workshop",
+      "status": "published",
+      "title": "Our First Career Workshop"
     }
   ]
 }
