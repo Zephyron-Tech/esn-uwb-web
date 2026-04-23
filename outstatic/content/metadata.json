@@ -1,6 +1,6 @@
 {
-  "commit": "963f22bedb933924db81f7b2d4249d50d8ab319d",
-  "generated": "2026-04-09T17:09:24.935Z",
+  "commit": "16cf6d66344bde984bc318677dd17b9eb493ca94",
+  "generated": "2026-04-23T15:02:25.736Z",
   "metadata": [
     {
       "__outstatic": {
@@ -371,24 +371,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ac6065b87a2629190031e4d8976b11fa68801764",
-        "hash": "1465909806",
-        "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
-      },
-      "author": {
-        "name": "William Poppy",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/na-2025-2-3-IwND.jpeg",
-      "description": "ESN UWB Pilsen is proud to have hosted its first National Assembly in November 2025. This platform allowed student volunteers from across the network to visit our city, many for the very first time.",
-      "publishedAt": "2026-03-21T08:27:57.387Z",
-      "slug": "national-assembly-plzen-2025",
-      "status": "draft",
-      "title": "National Assembly Plzeň 2025"
-    },
-    {
-      "__outstatic": {
         "commit": "77777494edf2870c478fa0d01b57d8d631ad6da0",
         "hash": "562327474",
         "path": "outstatic/content/partners/flixtrain.mdx"
@@ -452,6 +434,24 @@
       "slug": "our-first-career-workshop",
       "status": "published",
       "title": "Our First Career Workshop"
+    },
+    {
+      "__outstatic": {
+        "commit": "16cf6d66344bde984bc318677dd17b9eb493ca94",
+        "hash": "3982021907",
+        "path": "outstatic/content/news/national-assembly-plzen-2025.mdx"
+      },
+      "author": {
+        "name": "William Poppy",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/na-2025-2-3-IwND.jpeg",
+      "description": "ESN UWB Pilsen is proud to have hosted its first National Assembly in November 2025. This platform allowed student volunteers from across the network to visit our city, many for the very first time.",
+      "publishedAt": "2026-03-21T08:27:57.387Z",
+      "slug": "national-assembly-plzen-2025",
+      "status": "published",
+      "title": "National Assembly Plzeň 2025"
     }
   ]
 }
