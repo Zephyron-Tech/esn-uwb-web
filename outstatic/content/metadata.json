@@ -1,6 +1,6 @@
 {
-  "commit": "16cf6d66344bde984bc318677dd17b9eb493ca94",
-  "generated": "2026-04-23T15:02:25.736Z",
+  "commit": "ab9d0000dff27212e87f7a8197bad322013499cd",
+  "generated": "2026-05-04T10:00:59.476Z",
   "metadata": [
     {
       "__outstatic": {
@@ -452,6 +452,23 @@
       "slug": "national-assembly-plzen-2025",
       "status": "published",
       "title": "National Assembly Plzeň 2025"
+    },
+    {
+      "__outstatic": {
+        "commit": "ab9d0000dff27212e87f7a8197bad322013499cd",
+        "hash": "3873286679",
+        "path": "outstatic/content/news/what-does-the-it-world-actually-look-like.mdx"
+      },
+      "author": {
+        "name": "Michal Ptáček",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_9322-k3Mj.jpeg",
+      "publishedAt": "2026-05-04T10:10:53.463Z",
+      "slug": "what-does-the-it-world-actually-look-like",
+      "status": "published",
+      "title": "What Does the IT World Actually Look Like? "
     }
   ]
 }
