@@ -1,6 +1,6 @@
 {
-  "commit": "5b835709e830cb873fb0d6b09432b76782a77398",
-  "generated": "2026-05-04T10:00:26.738Z",
+  "commit": "8613def117301b65c30bf5f810f4298c4ec3765c",
+  "generated": "2026-05-04T14:58:54.967Z",
   "media": [
     {
       "__outstatic": {
@@ -121,6 +121,17 @@
       "alt": "",
       "filename": "img_9322-k3Mj.jpeg",
       "publishedAt": "2026-05-04T10:00:26.737Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "8613def117301b65c30bf5f810f4298c4ec3765c",
+        "hash": "267586649",
+        "path": "public/images/img_9393-MxND.jpeg"
+      },
+      "alt": "",
+      "filename": "img_9393-MxND.jpeg",
+      "publishedAt": "2026-05-04T14:58:54.967Z",
       "type": "image"
     },
     {
