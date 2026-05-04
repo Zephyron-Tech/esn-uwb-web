@@ -1,6 +1,6 @@
 {
-  "commit": "ab9d0000dff27212e87f7a8197bad322013499cd",
-  "generated": "2026-05-04T10:00:59.476Z",
+  "commit": "e297800ed956e8e898a49797b3613a4e76fc5f55",
+  "generated": "2026-05-04T14:59:46.725Z",
   "metadata": [
     {
       "__outstatic": {
@@ -469,6 +469,24 @@
       "slug": "what-does-the-it-world-actually-look-like",
       "status": "published",
       "title": "What Does the IT World Actually Look Like? "
+    },
+    {
+      "__outstatic": {
+        "commit": "e297800ed956e8e898a49797b3613a4e76fc5f55",
+        "hash": "3126668409",
+        "path": "outstatic/content/news/small-account-big-reach-what-we-learned-about-instagram-marketing.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_9393-MxND.jpeg",
+      "description": "We organised out third workshop, this time on Online Marketing for Instagram. ",
+      "publishedAt": "2026-05-04T15:08:13.688Z",
+      "slug": "small-account-big-reach-what-we-learned-about-instagram-marketing",
+      "status": "published",
+      "title": "Small Account, Big Reach: What We Learned About Instagram Marketing"
     }
   ]
 }
