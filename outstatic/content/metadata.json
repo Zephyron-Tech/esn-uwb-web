@@ -1,6 +1,6 @@
 {
-  "commit": "59f414e460de9d5408294843ca381c741cb6f007",
-  "generated": "2026-05-05T15:16:33.800Z",
+  "commit": "ae6d3718a694d48ef1adbbe49abede6d553fa126",
+  "generated": "2026-05-05T16:03:57.946Z",
   "metadata": [
     {
       "__outstatic": {
@@ -490,8 +490,8 @@
     },
     {
       "__outstatic": {
-        "commit": "59f414e460de9d5408294843ca381c741cb6f007",
-        "hash": "1458668613",
+        "commit": "ae6d3718a694d48ef1adbbe49abede6d553fa126",
+        "hash": "1642677774",
         "path": "outstatic/content/news/erasmus-in-schools-when-the-world-comes-to-students.mdx"
       },
       "author": {
@@ -500,7 +500,7 @@
       },
       "collection": "news",
       "coverImage": "/images/img_9233-Q5NT.jpeg",
-      "description": "Erasmus in Schools not in Mariánské Lázně ",
+      "description": "Erasmus in Schools this time in Mariánské Lázně ",
       "publishedAt": "2026-05-05T15:26:08.801Z",
       "slug": "erasmus-in-schools-when-the-world-comes-to-students",
       "status": "published",
