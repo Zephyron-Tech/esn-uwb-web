@@ -1,6 +1,6 @@
 {
-  "commit": "e297800ed956e8e898a49797b3613a4e76fc5f55",
-  "generated": "2026-05-04T14:59:46.725Z",
+  "commit": "59f414e460de9d5408294843ca381c741cb6f007",
+  "generated": "2026-05-05T15:16:33.800Z",
   "metadata": [
     {
       "__outstatic": {
@@ -487,6 +487,24 @@
       "slug": "small-account-big-reach-what-we-learned-about-instagram-marketing",
       "status": "published",
       "title": "Small Account, Big Reach: What We Learned About Instagram Marketing"
+    },
+    {
+      "__outstatic": {
+        "commit": "59f414e460de9d5408294843ca381c741cb6f007",
+        "hash": "1458668613",
+        "path": "outstatic/content/news/erasmus-in-schools-when-the-world-comes-to-students.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_9233-Q5NT.jpeg",
+      "description": "Erasmus in Schools not in Mariánské Lázně ",
+      "publishedAt": "2026-05-05T15:26:08.801Z",
+      "slug": "erasmus-in-schools-when-the-world-comes-to-students",
+      "status": "published",
+      "title": "Erasmus in Schools: When the World Comes to Students"
     }
   ]
 }
