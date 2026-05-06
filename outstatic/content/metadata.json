@@ -1,6 +1,6 @@
 {
-  "commit": "ae6d3718a694d48ef1adbbe49abede6d553fa126",
-  "generated": "2026-05-05T16:03:57.946Z",
+  "commit": "4df17abdd1189ea26b742406095f9a14805a400d",
+  "generated": "2026-05-06T14:25:00.214Z",
   "metadata": [
     {
       "__outstatic": {
@@ -455,23 +455,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ab9d0000dff27212e87f7a8197bad322013499cd",
-        "hash": "3873286679",
-        "path": "outstatic/content/news/what-does-the-it-world-actually-look-like.mdx"
-      },
-      "author": {
-        "name": "Michal Ptáček",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/img_9322-k3Mj.jpeg",
-      "publishedAt": "2026-05-04T10:10:53.463Z",
-      "slug": "what-does-the-it-world-actually-look-like",
-      "status": "published",
-      "title": "What Does the IT World Actually Look Like? "
-    },
-    {
-      "__outstatic": {
         "commit": "e297800ed956e8e898a49797b3613a4e76fc5f55",
         "hash": "3126668409",
         "path": "outstatic/content/news/small-account-big-reach-what-we-learned-about-instagram-marketing.mdx"
@@ -505,6 +488,24 @@
       "slug": "erasmus-in-schools-when-the-world-comes-to-students",
       "status": "published",
       "title": "Erasmus in Schools: When the World Comes to Students"
+    },
+    {
+      "__outstatic": {
+        "commit": "4df17abdd1189ea26b742406095f9a14805a400d",
+        "hash": "3159707732",
+        "path": "outstatic/content/news/what-does-the-it-world-actually-look-like.mdx"
+      },
+      "author": {
+        "name": "Michal Ptáček",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "coverImage": "/images/img_9322-k3Mj.jpeg",
+      "description": "IT world is interesting not only for tech guys ",
+      "publishedAt": "2026-05-04T10:10:53.463Z",
+      "slug": "what-does-the-it-world-actually-look-like",
+      "status": "published",
+      "title": "What Does the IT World Actually Look Like? "
     }
   ]
 }
