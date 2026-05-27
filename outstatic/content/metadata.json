@@ -1,6 +1,6 @@
 {
-  "commit": "4df17abdd1189ea26b742406095f9a14805a400d",
-  "generated": "2026-05-06T14:25:00.214Z",
+  "commit": "d1813eb65c45ea5819c35f12bbc3a01c7706e33b",
+  "generated": "2026-05-27T05:36:40.981Z",
   "metadata": [
     {
       "__outstatic": {
@@ -506,6 +506,23 @@
       "slug": "what-does-the-it-world-actually-look-like",
       "status": "published",
       "title": "What Does the IT World Actually Look Like? "
+    },
+    {
+      "__outstatic": {
+        "commit": "d1813eb65c45ea5819c35f12bbc3a01c7706e33b",
+        "hash": "164409515",
+        "path": "outstatic/content/news/spring-workshops-esn-uwb-skillup-2026.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "news",
+      "description": "We delivered 6 career-building workshops this spring—from AI tools to confident presentations. Here's what students learned.\n",
+      "publishedAt": "2026-05-27T05:13:36.307Z",
+      "slug": "spring-workshops-esn-uwb-skillup-2026",
+      "status": "published",
+      "title": "Spring Workshops ESN UWB SkillUp 2026"
     }
   ]
 }
