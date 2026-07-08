@@ -1,6 +1,6 @@
 {
-  "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
-  "generated": "2026-07-08T17:27:22.762Z",
+  "commit": "faf5e6cf339b23985f1c18462bb92c813cf3730d",
+  "generated": "2026-07-08T17:27:50.104Z",
   "metadata": [
     {
       "__outstatic": {
@@ -491,24 +491,6 @@
     },
     {
       "__outstatic": {
-        "commit": "294a6f2f88687223332ceb3bb1da12d39c3de12b",
-        "hash": "2754076779",
-        "path": "outstatic/content/board-members/petra-bystricanova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Michal Ptacek 2.png",
-      "description": "Vice President",
-      "publishedAt": "2026-03-15T10:44:54.096Z",
-      "slug": "petra-bystricanova",
-      "status": "published",
-      "title": "Petra Bystřičanová"
-    },
-    {
-      "__outstatic": {
         "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
         "hash": "3470620828",
         "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
@@ -523,6 +505,24 @@
       "slug": "anezka-tetrevova",
       "status": "published",
       "title": "Anežka Tetřevová"
+    },
+    {
+      "__outstatic": {
+        "commit": "faf5e6cf339b23985f1c18462bb92c813cf3730d",
+        "hash": "3643589139",
+        "path": "outstatic/content/board-members/michal-ptacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/Michal Ptacek 2.png",
+      "description": "Vice President",
+      "publishedAt": "2026-03-15T10:44:54.096Z",
+      "slug": "michal-ptacek",
+      "status": "published",
+      "title": "Michal Ptáček"
     }
   ]
 }
