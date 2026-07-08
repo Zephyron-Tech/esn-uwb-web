@@ -1,6 +1,6 @@
 {
-  "commit": "ede4281d38ddbc13dde46c71bfa8a3ef858288f5",
-  "generated": "2026-07-08T17:29:18.270Z",
+  "commit": "b6ab8750d401d59334098cd20da947e8b3cabd0b",
+  "generated": "2026-07-08T17:29:28.406Z",
   "metadata": [
     {
       "__outstatic": {
@@ -508,7 +508,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ede4281d38ddbc13dde46c71bfa8a3ef858288f5",
+        "commit": "b6ab8750d401d59334098cd20da947e8b3cabd0b",
         "hash": "315442384",
         "path": "outstatic/content/board-members/eliska-francouzova.mdx"
       },
