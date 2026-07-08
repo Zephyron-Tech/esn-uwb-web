@@ -1,6 +1,6 @@
 {
-  "commit": "d1813eb65c45ea5819c35f12bbc3a01c7706e33b",
-  "generated": "2026-05-27T05:36:40.981Z",
+  "commit": "2379407ce33ce98daee42205bbeb70ba37923adb",
+  "generated": "2026-07-08T17:26:03.610Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,24 +36,6 @@
       "slug": "kamil",
       "status": "published",
       "title": "Kamil"
-    },
-    {
-      "__outstatic": {
-        "commit": "24e307835e785a8a4438aecbe124e799dee76813",
-        "hash": "1875414405",
-        "path": "outstatic/content/board-members/hana-krumposova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Hana Krumposová2.png",
-      "description": "HR manager",
-      "publishedAt": "2026-03-15T10:23:31.004Z",
-      "slug": "hana-krumposova",
-      "status": "published",
-      "title": "Hana Krumposová"
     },
     {
       "__outstatic": {
@@ -523,6 +505,24 @@
       "slug": "spring-workshops-esn-uwb-skillup-2026",
       "status": "published",
       "title": "Spring Workshops ESN UWB SkillUp 2026"
+    },
+    {
+      "__outstatic": {
+        "commit": "2379407ce33ce98daee42205bbeb70ba37923adb",
+        "hash": "2128808978",
+        "path": "outstatic/content/board-members/hana-krumposova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/Hana Krumposová2.png",
+      "description": "HR manager",
+      "publishedAt": "2026-03-15T10:23:31.004Z",
+      "slug": "hana-krumposova",
+      "status": "published",
+      "title": "Eliška Francouzová"
     }
   ]
 }
