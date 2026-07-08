@@ -1,6 +1,6 @@
 {
-  "commit": "8d5d053f895cecd214243730f08d3919403a48cb",
-  "generated": "2026-07-08T17:28:45.399Z",
+  "commit": "24f2badf264e3c9eda91b46b721018cde947ac93",
+  "generated": "2026-07-08T17:28:55.468Z",
   "metadata": [
     {
       "__outstatic": {
@@ -508,8 +508,8 @@
     },
     {
       "__outstatic": {
-        "commit": "8d5d053f895cecd214243730f08d3919403a48cb",
-        "hash": "3343821542",
+        "commit": "24f2badf264e3c9eda91b46b721018cde947ac93",
+        "hash": "2051885318",
         "path": "outstatic/content/board-members/martina-kampfova.mdx"
       },
       "author": {
@@ -517,7 +517,7 @@
         "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
       },
       "collection": "board-members",
-      "coverImage": "/images/William Poppy 2.png",
+      "coverImage": "",
       "description": "President",
       "publishedAt": "2026-03-15T10:45:14.936Z",
       "slug": "martina-kampfova",
