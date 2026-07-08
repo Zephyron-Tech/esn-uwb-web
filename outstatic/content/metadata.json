@@ -1,6 +1,6 @@
 {
-  "commit": "24f2badf264e3c9eda91b46b721018cde947ac93",
-  "generated": "2026-07-08T17:28:55.468Z",
+  "commit": "ede4281d38ddbc13dde46c71bfa8a3ef858288f5",
+  "generated": "2026-07-08T17:29:18.270Z",
   "metadata": [
     {
       "__outstatic": {
@@ -419,24 +419,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b84506cf3d1bcb97993c2fb0052de1baec9d4275",
-        "hash": "3381148219",
-        "path": "outstatic/content/board-members/eliska-francouzova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Hana Krumposová2.png",
-      "description": "HR manager",
-      "publishedAt": "2026-03-15T10:23:31.004Z",
-      "slug": "eliska-francouzova",
-      "status": "published",
-      "title": "Eliška Francouzová"
-    },
-    {
-      "__outstatic": {
         "commit": "1caf43a8f16ed3e2db5295df0685c03d21fb368d",
         "hash": "1556107913",
         "path": "outstatic/content/board-members/viktorija-nosal.mdx"
@@ -523,6 +505,24 @@
       "slug": "martina-kampfova",
       "status": "published",
       "title": "Martina Kampfová"
+    },
+    {
+      "__outstatic": {
+        "commit": "ede4281d38ddbc13dde46c71bfa8a3ef858288f5",
+        "hash": "315442384",
+        "path": "outstatic/content/board-members/eliska-francouzova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "",
+      "description": "HR manager",
+      "publishedAt": "2026-03-15T10:23:31.004Z",
+      "slug": "eliska-francouzova",
+      "status": "published",
+      "title": "Eliška Francouzová"
     }
   ]
 }
