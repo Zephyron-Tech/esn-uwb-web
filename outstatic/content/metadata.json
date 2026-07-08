@@ -1,6 +1,6 @@
 {
-  "commit": "64ed70bb2cef90e78144fa7d644f01e5e03b2561",
-  "generated": "2026-07-08T17:28:29.527Z",
+  "commit": "8d5d053f895cecd214243730f08d3919403a48cb",
+  "generated": "2026-07-08T17:28:45.399Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "kamil",
       "status": "published",
       "title": "Kamil"
-    },
-    {
-      "__outstatic": {
-        "commit": "14afae24596dc805ee9c780757b4e064c67f7b3f",
-        "hash": "2496385286",
-        "path": "outstatic/content/board-members/william-poppy.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/William Poppy 2.png",
-      "description": "President",
-      "publishedAt": "2026-03-15T10:45:14.936Z",
-      "slug": "william-poppy",
-      "status": "published",
-      "title": "William Poppy"
     },
     {
       "__outstatic": {
@@ -523,6 +505,24 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "8d5d053f895cecd214243730f08d3919403a48cb",
+        "hash": "3343821542",
+        "path": "outstatic/content/board-members/martina-kampfova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/William Poppy 2.png",
+      "description": "President",
+      "publishedAt": "2026-03-15T10:45:14.936Z",
+      "slug": "martina-kampfova",
+      "status": "published",
+      "title": "Martina Kampfová"
     }
   ]
 }
