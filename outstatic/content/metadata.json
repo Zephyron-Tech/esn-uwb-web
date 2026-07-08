@@ -1,6 +1,6 @@
 {
-  "commit": "b84506cf3d1bcb97993c2fb0052de1baec9d4275",
-  "generated": "2026-07-08T17:26:30.233Z",
+  "commit": "1caf43a8f16ed3e2db5295df0685c03d21fb368d",
+  "generated": "2026-07-08T17:26:45.358Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,24 +36,6 @@
       "slug": "kamil",
       "status": "published",
       "title": "Kamil"
-    },
-    {
-      "__outstatic": {
-        "commit": "45ccbbb9ff93eda5d556d1dbfd3968dbb74b4cf2",
-        "hash": "2204472183",
-        "path": "outstatic/content/board-members/jakub-stefl.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Jakub Štefl 2.png",
-      "description": "Treasurer",
-      "publishedAt": "2026-03-15T10:32:36.799Z",
-      "slug": "jakub-stefl",
-      "status": "published",
-      "title": "Jakub Štefl"
     },
     {
       "__outstatic": {
@@ -523,6 +505,24 @@
       "slug": "eliska-francouzova",
       "status": "published",
       "title": "Eliška Francouzová"
+    },
+    {
+      "__outstatic": {
+        "commit": "1caf43a8f16ed3e2db5295df0685c03d21fb368d",
+        "hash": "1556107913",
+        "path": "outstatic/content/board-members/viktorija-nosal.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/Jakub Štefl 2.png",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-15T10:32:36.799Z",
+      "slug": "viktorija-nosal",
+      "status": "published",
+      "title": "Viktorija Nosal"
     }
   ]
 }
