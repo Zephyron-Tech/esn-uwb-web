@@ -1,6 +1,6 @@
 {
-  "commit": "b6ab8750d401d59334098cd20da947e8b3cabd0b",
-  "generated": "2026-07-08T17:29:28.406Z",
+  "commit": "067a09ed1e84cc36710276ed226e48965452a16c",
+  "generated": "2026-07-08T17:29:43.265Z",
   "metadata": [
     {
       "__outstatic": {
@@ -472,24 +472,6 @@
     },
     {
       "__outstatic": {
-        "commit": "64ed70bb2cef90e78144fa7d644f01e5e03b2561",
-        "hash": "1840414415",
-        "path": "outstatic/content/board-members/petra-bystricanova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Michaela Hánová2.png",
-      "description": "Communication Manager",
-      "publishedAt": "2026-03-15T10:32:03.839Z",
-      "slug": "petra-bystricanova",
-      "status": "published",
-      "title": "Petra Bystřičanová"
-    },
-    {
-      "__outstatic": {
         "commit": "24f2badf264e3c9eda91b46b721018cde947ac93",
         "hash": "2051885318",
         "path": "outstatic/content/board-members/martina-kampfova.mdx"
@@ -523,6 +505,24 @@
       "slug": "eliska-francouzova",
       "status": "published",
       "title": "Eliška Francouzová"
+    },
+    {
+      "__outstatic": {
+        "commit": "067a09ed1e84cc36710276ed226e48965452a16c",
+        "hash": "3659002842",
+        "path": "outstatic/content/board-members/petra-bystricanova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "",
+      "description": "Communication Manager",
+      "publishedAt": "2026-03-15T10:32:03.839Z",
+      "slug": "petra-bystricanova",
+      "status": "published",
+      "title": "Petra Bystřičanová"
     }
   ]
 }
