@@ -1,6 +1,6 @@
 {
-  "commit": "2379407ce33ce98daee42205bbeb70ba37923adb",
-  "generated": "2026-07-08T17:26:03.610Z",
+  "commit": "b84506cf3d1bcb97993c2fb0052de1baec9d4275",
+  "generated": "2026-07-08T17:26:30.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -508,9 +508,9 @@
     },
     {
       "__outstatic": {
-        "commit": "2379407ce33ce98daee42205bbeb70ba37923adb",
-        "hash": "2128808978",
-        "path": "outstatic/content/board-members/hana-krumposova.mdx"
+        "commit": "b84506cf3d1bcb97993c2fb0052de1baec9d4275",
+        "hash": "3381148219",
+        "path": "outstatic/content/board-members/eliska-francouzova.mdx"
       },
       "author": {
         "name": "info@esnuwbpilsen.cz",
@@ -520,7 +520,7 @@
       "coverImage": "/images/Hana Krumposová2.png",
       "description": "HR manager",
       "publishedAt": "2026-03-15T10:23:31.004Z",
-      "slug": "hana-krumposova",
+      "slug": "eliska-francouzova",
       "status": "published",
       "title": "Eliška Francouzová"
     }
