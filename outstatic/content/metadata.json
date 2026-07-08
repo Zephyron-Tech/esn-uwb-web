@@ -1,24 +1,7 @@
 {
-  "commit": "294a6f2f88687223332ceb3bb1da12d39c3de12b",
-  "generated": "2026-07-08T17:27:03.923Z",
+  "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
+  "generated": "2026-07-08T17:27:22.762Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "32fe039df1cd169e9933a914cfd5f260fe97651f",
-        "hash": "3483175089",
-        "path": "outstatic/content/board-members/vacant.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "description": "Events Manager",
-      "publishedAt": "2026-03-15T10:21:49.938Z",
-      "slug": "vacant",
-      "status": "published",
-      "title": "vacant"
-    },
     {
       "__outstatic": {
         "commit": "8b8139e1e7ebd4168aca5786622e1907dffaa9bd",
@@ -523,6 +506,23 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
+        "hash": "3470620828",
+        "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "description": "Events Manager",
+      "publishedAt": "2026-03-15T10:21:49.938Z",
+      "slug": "anezka-tetrevova",
+      "status": "published",
+      "title": "Anežka Tetřevová"
     }
   ]
 }
