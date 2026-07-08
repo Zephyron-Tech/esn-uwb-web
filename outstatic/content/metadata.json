@@ -1,6 +1,6 @@
 {
-  "commit": "067a09ed1e84cc36710276ed226e48965452a16c",
-  "generated": "2026-07-08T17:29:43.265Z",
+  "commit": "a9e6c7bfab2aeb1d7ba783c1ace9e275ecad73f0",
+  "generated": "2026-07-08T17:29:56.779Z",
   "metadata": [
     {
       "__outstatic": {
@@ -419,24 +419,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1caf43a8f16ed3e2db5295df0685c03d21fb368d",
-        "hash": "1556107913",
-        "path": "outstatic/content/board-members/viktorija-nosal.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/Jakub Štefl 2.png",
-      "description": "Treasurer",
-      "publishedAt": "2026-03-15T10:32:36.799Z",
-      "slug": "viktorija-nosal",
-      "status": "published",
-      "title": "Viktorija Nosal"
-    },
-    {
-      "__outstatic": {
         "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
         "hash": "3470620828",
         "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
@@ -523,6 +505,24 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "a9e6c7bfab2aeb1d7ba783c1ace9e275ecad73f0",
+        "hash": "3584051459",
+        "path": "outstatic/content/board-members/viktorija-nosal.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-15T10:32:36.799Z",
+      "slug": "viktorija-nosal",
+      "status": "published",
+      "title": "Viktorija Nosal"
     }
   ]
 }
