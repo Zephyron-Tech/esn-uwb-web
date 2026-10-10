@@ -1,6 +1,6 @@
 {
-  "commit": "34aefaaee86a13cbe9671beae4e80182c1f2799f",
-  "generated": "2026-10-10T18:02:22.957Z",
+  "commit": "ecc616c8fb0031bfb6e8d5fc371c0c5afa8f7672",
+  "generated": "2026-10-10T18:02:31.049Z",
   "metadata": [
     {
       "__outstatic": {
@@ -469,24 +469,6 @@
       "slug": "martina-kampfova",
       "status": "published",
       "title": "Martina Kampfová"
-    },
-    {
-      "__outstatic": {
-        "commit": "b6ab8750d401d59334098cd20da947e8b3cabd0b",
-        "hash": "315442384",
-        "path": "outstatic/content/board-members/eliska-francouzova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "",
-      "description": "HR manager",
-      "publishedAt": "2026-03-15T10:23:31.004Z",
-      "slug": "eliska-francouzova",
-      "status": "published",
-      "title": "Eliška Francouzová"
     },
     {
       "__outstatic": {
