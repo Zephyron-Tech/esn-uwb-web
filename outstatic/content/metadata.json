@@ -1,6 +1,6 @@
 {
-  "commit": "8c998f13b76ff9162848a9f806b8dbac44a5bd8b",
-  "generated": "2026-10-10T18:02:57.719Z",
+  "commit": "9ce389a6b11e76f11399b0c620caa4b0d0666e46",
+  "generated": "2026-10-10T18:16:30.828Z",
   "metadata": [
     {
       "__outstatic": {
@@ -487,6 +487,23 @@
       "slug": "viktorija-nosal",
       "status": "published",
       "title": "Viktorija Nosal"
+    },
+    {
+      "__outstatic": {
+        "commit": "9ce389a6b11e76f11399b0c620caa4b0d0666e46",
+        "hash": "3385495291",
+        "path": "outstatic/content/partners/ryanair.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "partners",
+      "coverImage": "",
+      "description": "15% discount on 4 single flights (or 2 return flights) with ESNcards",
+      "publishedAt": "2026-03-14T12:00:00.000Z",
+      "slug": "ryanair",
+      "status": "published",
+      "title": "Ryanair"
     }
   ]
 }
