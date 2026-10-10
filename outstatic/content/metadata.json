@@ -1,6 +1,6 @@
 {
-  "commit": "9ce389a6b11e76f11399b0c620caa4b0d0666e46",
-  "generated": "2026-10-10T18:16:30.828Z",
+  "commit": "6ac5b9e48f855ad37120ec15caa9d7de0936db69",
+  "generated": "2026-10-10T18:17:16.107Z",
   "metadata": [
     {
       "__outstatic": {
@@ -381,24 +381,6 @@
       "slug": "erasmus-in-schools-when-the-world-comes-to-students",
       "status": "published",
       "title": "Erasmus in Schools: When the World Comes to Students"
-    },
-    {
-      "__outstatic": {
-        "commit": "4df17abdd1189ea26b742406095f9a14805a400d",
-        "hash": "3159707732",
-        "path": "outstatic/content/news/what-does-the-it-world-actually-look-like.mdx"
-      },
-      "author": {
-        "name": "Michal Ptáček",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/img_9322-k3Mj.jpeg",
-      "description": "IT world is interesting not only for tech guys ",
-      "publishedAt": "2026-05-04T10:10:53.463Z",
-      "slug": "what-does-the-it-world-actually-look-like",
-      "status": "published",
-      "title": "What Does the IT World Actually Look Like? "
     },
     {
       "__outstatic": {
