@@ -1,6 +1,6 @@
 {
-  "commit": "ecc616c8fb0031bfb6e8d5fc371c0c5afa8f7672",
-  "generated": "2026-10-10T18:02:31.049Z",
+  "commit": "b551bcc0f525f8074f6b2d49ca89ac6bee4d51f7",
+  "generated": "2026-10-10T18:02:43.709Z",
   "metadata": [
     {
       "__outstatic": {
@@ -451,24 +451,6 @@
       "slug": "michal-ptacek",
       "status": "published",
       "title": "Michal Ptáček"
-    },
-    {
-      "__outstatic": {
-        "commit": "24f2badf264e3c9eda91b46b721018cde947ac93",
-        "hash": "2051885318",
-        "path": "outstatic/content/board-members/martina-kampfova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "",
-      "description": "President",
-      "publishedAt": "2026-03-15T10:45:14.936Z",
-      "slug": "martina-kampfova",
-      "status": "published",
-      "title": "Martina Kampfová"
     },
     {
       "__outstatic": {
