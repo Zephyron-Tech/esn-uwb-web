@@ -1,6 +1,6 @@
 {
-  "commit": "6ac5b9e48f855ad37120ec15caa9d7de0936db69",
-  "generated": "2026-10-10T18:17:16.107Z",
+  "commit": "069df36c03d92e4285cc4c3647c0fbb77126bff6",
+  "generated": "2026-10-10T18:17:25.167Z",
   "metadata": [
     {
       "__outstatic": {
@@ -345,24 +345,6 @@
       "slug": "national-assembly-plzen-2025",
       "status": "published",
       "title": "National Assembly Plzeň 2025"
-    },
-    {
-      "__outstatic": {
-        "commit": "e297800ed956e8e898a49797b3613a4e76fc5f55",
-        "hash": "3126668409",
-        "path": "outstatic/content/news/small-account-big-reach-what-we-learned-about-instagram-marketing.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "news",
-      "coverImage": "/images/img_9393-MxND.jpeg",
-      "description": "We organised out third workshop, this time on Online Marketing for Instagram. ",
-      "publishedAt": "2026-05-04T15:08:13.688Z",
-      "slug": "small-account-big-reach-what-we-learned-about-instagram-marketing",
-      "status": "published",
-      "title": "Small Account, Big Reach: What We Learned About Instagram Marketing"
     },
     {
       "__outstatic": {
