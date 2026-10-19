@@ -1,6 +1,6 @@
 {
-  "commit": "ae14657b22fba10545a72398e790637187e137e5",
-  "generated": "2026-10-19T07:14:16.429Z",
+  "commit": "142b0c5184e6fb869e894cd8c19a8f4dca78de36",
+  "generated": "2026-10-19T07:15:12.462Z",
   "metadata": [
     {
       "__outstatic": {
@@ -505,6 +505,22 @@
       "slug": "viktorija-nosal",
       "status": "published",
       "title": "Viktorija Nosal"
+    },
+    {
+      "__outstatic": {
+        "commit": "142b0c5184e6fb869e894cd8c19a8f4dca78de36",
+        "hash": "3326606207",
+        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "publishedAt": "2026-10-19T07:26:48.660Z",
+      "slug": "vojtech-horacek",
+      "status": "draft",
+      "title": "Vojtěch Horáček"
     }
   ]
 }
