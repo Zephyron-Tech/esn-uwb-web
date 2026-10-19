@@ -1,6 +1,6 @@
 {
-  "commit": "572bc08036d624c2dec26ea65f402b8367589bc1",
-  "generated": "2026-10-19T07:22:04.298Z",
+  "commit": "01a953ed352fc561aa043fa4a3fbd80fd9956fdc",
+  "generated": "2026-10-19T07:22:46.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -418,24 +418,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ecd8e0c315d8272d5a39ef486a6e64e3d256a242",
-        "hash": "3647931551",
-        "path": "outstatic/content/board-members/petra-bystricanova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/p-ta-U0Mj.jpg",
-      "description": "Communication Manager",
-      "publishedAt": "2026-03-15T10:32:03.839Z",
-      "slug": "petra-bystricanova",
-      "status": "published",
-      "title": "Petra Bystřičanová"
-    },
-    {
-      "__outstatic": {
         "commit": "ae14657b22fba10545a72398e790637187e137e5",
         "hash": "3857346969",
         "path": "outstatic/content/board-members/viktorija-nosal.mdx"
@@ -521,6 +503,24 @@
       "slug": "michal-ptacek",
       "status": "published",
       "title": "Michal Ptáček"
+    },
+    {
+      "__outstatic": {
+        "commit": "01a953ed352fc561aa043fa4a3fbd80fd9956fdc",
+        "hash": "3623112090",
+        "path": "outstatic/content/board-members/petra-bystricanova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/p-ta-EyNT.jpg",
+      "description": "Communication Manager",
+      "publishedAt": "2026-03-15T10:32:03.839Z",
+      "slug": "petra-bystricanova",
+      "status": "published",
+      "title": "Petra Bystřičanová"
     }
   ]
 }
