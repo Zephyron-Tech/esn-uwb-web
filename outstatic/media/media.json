@@ -1,6 +1,6 @@
 {
-  "commit": "a9a8b96b5d92db765504d4caeedb02e131f02e37",
-  "generated": "2026-10-19T07:05:39.988Z",
+  "commit": "9e037228d1652a19de28b0b306f510aa8a5fb294",
+  "generated": "2026-10-19T07:07:20.722Z",
   "media": [
     {
       "__outstatic": {
@@ -143,6 +143,17 @@
       "alt": "",
       "filename": "img_9393-MxND.jpeg",
       "publishedAt": "2026-05-04T14:58:54.967Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "9e037228d1652a19de28b0b306f510aa8a5fb294",
+        "hash": "717529179",
+        "path": "public/images/michal-E2ND.jpg"
+      },
+      "alt": "",
+      "filename": "michal-E2ND.jpg",
+      "publishedAt": "2026-10-19T07:07:20.722Z",
       "type": "image"
     },
     {
