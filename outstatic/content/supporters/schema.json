@@ -1,0 +1,12 @@
+{
+  "title": "supporters",
+  "type": "object",
+  "properties": {
+    "eventSupporter": {
+      "description": "Event Supporter",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Event Supporter"
+    }
+  }
+}
