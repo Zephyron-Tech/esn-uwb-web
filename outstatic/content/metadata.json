@@ -1,6 +1,6 @@
 {
-  "commit": "142b0c5184e6fb869e894cd8c19a8f4dca78de36",
-  "generated": "2026-10-19T07:15:12.462Z",
+  "commit": "f2a66b845c62a183a9cb225076b80b763773e0b5",
+  "generated": "2026-10-19T07:20:20.572Z",
   "metadata": [
     {
       "__outstatic": {
@@ -400,24 +400,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6942e69e83eb1620811cae4bd82bf4ec760f35b1",
-        "hash": "1435058148",
-        "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/ane-ka-EyNz.jpg",
-      "description": "Events Manager",
-      "publishedAt": "2026-03-15T10:21:49.938Z",
-      "slug": "anezka-tetrevova",
-      "status": "published",
-      "title": "Anežka Tetřevová"
-    },
-    {
-      "__outstatic": {
         "commit": "96a679aa4f7e47ad2c4c145f01e30ba552b7ad44",
         "hash": "1774414461",
         "path": "outstatic/content/board-members/eliska-francouzova.mdx"
@@ -521,6 +503,24 @@
       "slug": "vojtech-horacek",
       "status": "draft",
       "title": "Vojtěch Horáček"
+    },
+    {
+      "__outstatic": {
+        "commit": "f2a66b845c62a183a9cb225076b80b763773e0b5",
+        "hash": "3343545593",
+        "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/ane-ka-kwNj.jpg",
+      "description": "Events Manager",
+      "publishedAt": "2026-03-15T10:21:49.938Z",
+      "slug": "anezka-tetrevova",
+      "status": "published",
+      "title": "Anežka Tetřevová"
     }
   ]
 }
