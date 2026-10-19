@@ -1,6 +1,6 @@
 {
-  "commit": "8ca7fd56955694f1a2233baa4170ddca9c703339",
-  "generated": "2026-10-19T07:11:49.898Z",
+  "commit": "05f0398a8f2834d5e0d63ac002a23a4cbab45f93",
+  "generated": "2026-10-19T07:20:02.666Z",
   "media": [
     {
       "__outstatic": {
@@ -77,6 +77,17 @@
       "alt": "",
       "filename": "ane-ka-EyNz.jpg",
       "publishedAt": "2026-10-19T07:10:31.715Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "05f0398a8f2834d5e0d63ac002a23a4cbab45f93",
+        "hash": "3904352021",
+        "path": "public/images/ane-ka-kwNj.jpg"
+      },
+      "alt": "",
+      "filename": "ane-ka-kwNj.jpg",
+      "publishedAt": "2026-10-19T07:20:02.666Z",
       "type": "image"
     },
     {
