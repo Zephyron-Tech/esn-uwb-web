@@ -1,6 +1,6 @@
 {
-  "commit": "f2a66b845c62a183a9cb225076b80b763773e0b5",
-  "generated": "2026-10-19T07:20:20.572Z",
+  "commit": "44ce0130271d9a6da017de81a53f6b7aa3d961cf",
+  "generated": "2026-10-19T07:21:10.254Z",
   "metadata": [
     {
       "__outstatic": {
@@ -418,24 +418,6 @@
     },
     {
       "__outstatic": {
-        "commit": "71bbd0c17ac6e174e77ca76bec5af2f974f49888",
-        "hash": "3307297233",
-        "path": "outstatic/content/board-members/martina-kampfova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/mar-a-czOD.jpg",
-      "description": "President",
-      "publishedAt": "2026-03-15T10:45:14.936Z",
-      "slug": "martina-kampfova",
-      "status": "published",
-      "title": "Martina Kampfová"
-    },
-    {
-      "__outstatic": {
         "commit": "1ca33e0bbb9bdc90b8205babff9f73e494203cac",
         "hash": "339037109",
         "path": "outstatic/content/board-members/michal-ptacek.mdx"
@@ -521,6 +503,24 @@
       "slug": "anezka-tetrevova",
       "status": "published",
       "title": "Anežka Tetřevová"
+    },
+    {
+      "__outstatic": {
+        "commit": "44ce0130271d9a6da017de81a53f6b7aa3d961cf",
+        "hash": "1199953115",
+        "path": "outstatic/content/board-members/martina-kampfova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/mar-a-A2MT.jpg",
+      "description": "President",
+      "publishedAt": "2026-03-15T10:45:14.936Z",
+      "slug": "martina-kampfova",
+      "status": "published",
+      "title": "Martina Kampfová"
     }
   ]
 }
