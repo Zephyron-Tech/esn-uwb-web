@@ -1,6 +1,6 @@
 {
-  "commit": "9e037228d1652a19de28b0b306f510aa8a5fb294",
-  "generated": "2026-10-19T07:07:20.722Z",
+  "commit": "d6974bd0b49697a4efc7ae6ce22069bd5abd20e4",
+  "generated": "2026-10-19T07:10:31.715Z",
   "media": [
     {
       "__outstatic": {
@@ -66,6 +66,17 @@
       "alt": "",
       "filename": "William Poppy 2.png",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6974bd0b49697a4efc7ae6ce22069bd5abd20e4",
+        "hash": "3292787891",
+        "path": "public/images/ane-ka-EyNz.jpg"
+      },
+      "alt": "",
+      "filename": "ane-ka-EyNz.jpg",
+      "publishedAt": "2026-10-19T07:10:31.715Z",
       "type": "image"
     },
     {
