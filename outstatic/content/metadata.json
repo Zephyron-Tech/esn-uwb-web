@@ -1,6 +1,6 @@
 {
-  "commit": "01a953ed352fc561aa043fa4a3fbd80fd9956fdc",
-  "generated": "2026-10-19T07:22:46.314Z",
+  "commit": "5230398e398426f4dc5941582574de2b93eab653",
+  "generated": "2026-10-19T07:24:30.063Z",
   "metadata": [
     {
       "__outstatic": {
@@ -436,22 +436,6 @@
     },
     {
       "__outstatic": {
-        "commit": "142b0c5184e6fb869e894cd8c19a8f4dca78de36",
-        "hash": "3326606207",
-        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "supporters",
-      "publishedAt": "2026-10-19T07:26:48.660Z",
-      "slug": "vojtech-horacek",
-      "status": "draft",
-      "title": "Vojtěch Horáček"
-    },
-    {
-      "__outstatic": {
         "commit": "f2a66b845c62a183a9cb225076b80b763773e0b5",
         "hash": "3343545593",
         "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
@@ -521,6 +505,23 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "5230398e398426f4dc5941582574de2b93eab653",
+        "hash": "579967185",
+        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "eventSupporter": "Event Supporter",
+      "publishedAt": "2026-10-19T07:26:48.660Z",
+      "slug": "vojtech-horacek",
+      "status": "draft",
+      "title": "Vojtěch Horáček"
     }
   ]
 }
