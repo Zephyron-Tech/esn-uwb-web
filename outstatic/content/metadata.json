@@ -1,6 +1,6 @@
 {
-  "commit": "96a679aa4f7e47ad2c4c145f01e30ba552b7ad44",
-  "generated": "2026-10-19T07:12:40.979Z",
+  "commit": "71bbd0c17ac6e174e77ca76bec5af2f974f49888",
+  "generated": "2026-10-19T07:13:13.503Z",
   "metadata": [
     {
       "__outstatic": {
@@ -487,6 +487,24 @@
       "slug": "eliska-francouzova",
       "status": "published",
       "title": "Eliška Francouzová"
+    },
+    {
+      "__outstatic": {
+        "commit": "71bbd0c17ac6e174e77ca76bec5af2f974f49888",
+        "hash": "3307297233",
+        "path": "outstatic/content/board-members/martina-kampfova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/mar-a-czOD.jpg",
+      "description": "President",
+      "publishedAt": "2026-03-15T10:45:14.936Z",
+      "slug": "martina-kampfova",
+      "status": "published",
+      "title": "Martina Kampfová"
     }
   ]
 }
