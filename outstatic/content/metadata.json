@@ -1,6 +1,6 @@
 {
-  "commit": "ecd8e0c315d8272d5a39ef486a6e64e3d256a242",
-  "generated": "2026-10-19T07:14:01.923Z",
+  "commit": "ae14657b22fba10545a72398e790637187e137e5",
+  "generated": "2026-10-19T07:14:16.429Z",
   "metadata": [
     {
       "__outstatic": {
@@ -383,24 +383,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a9e6c7bfab2aeb1d7ba783c1ace9e275ecad73f0",
-        "hash": "3584051459",
-        "path": "outstatic/content/board-members/viktorija-nosal.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "",
-      "description": "Treasurer",
-      "publishedAt": "2026-03-15T10:32:36.799Z",
-      "slug": "viktorija-nosal",
-      "status": "published",
-      "title": "Viktorija Nosal"
-    },
-    {
-      "__outstatic": {
         "commit": "9ce389a6b11e76f11399b0c620caa4b0d0666e46",
         "hash": "3385495291",
         "path": "outstatic/content/partners/ryanair.md"
@@ -505,6 +487,24 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae14657b22fba10545a72398e790637187e137e5",
+        "hash": "3857346969",
+        "path": "outstatic/content/board-members/viktorija-nosal.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/viky-YyOD.jpg",
+      "description": "Treasurer",
+      "publishedAt": "2026-03-15T10:32:36.799Z",
+      "slug": "viktorija-nosal",
+      "status": "published",
+      "title": "Viktorija Nosal"
     }
   ]
 }
