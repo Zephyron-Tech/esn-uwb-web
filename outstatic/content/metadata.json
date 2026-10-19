@@ -1,6 +1,6 @@
 {
-  "commit": "069df36c03d92e4285cc4c3647c0fbb77126bff6",
-  "generated": "2026-10-10T18:17:25.167Z",
+  "commit": "6942e69e83eb1620811cae4bd82bf4ec760f35b1",
+  "generated": "2026-10-19T07:12:19.849Z",
   "metadata": [
     {
       "__outstatic": {
@@ -383,23 +383,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1e9773e725a11d88b79e1a8c66ad9dd7b51dbfe2",
-        "hash": "3470620828",
-        "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "description": "Events Manager",
-      "publishedAt": "2026-03-15T10:21:49.938Z",
-      "slug": "anezka-tetrevova",
-      "status": "published",
-      "title": "Anežka Tetřevová"
-    },
-    {
-      "__outstatic": {
         "commit": "faf5e6cf339b23985f1c18462bb92c813cf3730d",
         "hash": "3643589139",
         "path": "outstatic/content/board-members/michal-ptacek.mdx"
@@ -468,6 +451,24 @@
       "slug": "ryanair",
       "status": "published",
       "title": "Ryanair"
+    },
+    {
+      "__outstatic": {
+        "commit": "6942e69e83eb1620811cae4bd82bf4ec760f35b1",
+        "hash": "1435058148",
+        "path": "outstatic/content/board-members/anezka-tetrevova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/ane-ka-EyNz.jpg",
+      "description": "Events Manager",
+      "publishedAt": "2026-03-15T10:21:49.938Z",
+      "slug": "anezka-tetrevova",
+      "status": "published",
+      "title": "Anežka Tetřevová"
     }
   ]
 }
