@@ -1,6 +1,6 @@
 {
-  "commit": "05f0398a8f2834d5e0d63ac002a23a4cbab45f93",
-  "generated": "2026-10-19T07:20:02.666Z",
+  "commit": "80624cf92cdb251747b2409d6b94ee9dee66fe1f",
+  "generated": "2026-10-19T07:20:58.480Z",
   "media": [
     {
       "__outstatic": {
@@ -176,6 +176,17 @@
       "alt": "",
       "filename": "img_9393-MxND.jpeg",
       "publishedAt": "2026-05-04T14:58:54.967Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "80624cf92cdb251747b2409d6b94ee9dee66fe1f",
+        "hash": "372944341",
+        "path": "public/images/mar-a-A2MT.jpg"
+      },
+      "alt": "",
+      "filename": "mar-a-A2MT.jpg",
+      "publishedAt": "2026-10-19T07:20:58.480Z",
       "type": "image"
     },
     {
