@@ -1,6 +1,6 @@
 {
-  "commit": "11fc3e34f99973727a4511351897d03b37900c1e",
-  "generated": "2026-05-05T15:15:12.480Z",
+  "commit": "e927d7f2a101ffcb66ead720ed800844f1bca70c",
+  "generated": "2026-10-19T07:05:27.258Z",
   "media": [
     {
       "__outstatic": {
@@ -66,6 +66,17 @@
       "alt": "",
       "filename": "William Poppy 2.png",
       "publishedAt": "2026-03-16T18:01:42.633Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "e927d7f2a101ffcb66ead720ed800844f1bca70c",
+        "hash": "1081727965",
+        "path": "public/images/bingus-A2Mz.png"
+      },
+      "alt": "",
+      "filename": "bingus-A2Mz.png",
+      "publishedAt": "2026-10-19T07:05:27.257Z",
       "type": "image"
     },
     {
