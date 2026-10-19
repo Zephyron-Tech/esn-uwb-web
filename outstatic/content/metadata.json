@@ -1,6 +1,6 @@
 {
-  "commit": "44ce0130271d9a6da017de81a53f6b7aa3d961cf",
-  "generated": "2026-10-19T07:21:10.254Z",
+  "commit": "572bc08036d624c2dec26ea65f402b8367589bc1",
+  "generated": "2026-10-19T07:22:04.298Z",
   "metadata": [
     {
       "__outstatic": {
@@ -418,24 +418,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1ca33e0bbb9bdc90b8205babff9f73e494203cac",
-        "hash": "339037109",
-        "path": "outstatic/content/board-members/michal-ptacek.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "board-members",
-      "coverImage": "/images/michal-E2ND.jpg",
-      "description": "Vice President",
-      "publishedAt": "2026-03-15T10:44:54.096Z",
-      "slug": "michal-ptacek",
-      "status": "published",
-      "title": "Michal Ptáček"
-    },
-    {
-      "__outstatic": {
         "commit": "ecd8e0c315d8272d5a39ef486a6e64e3d256a242",
         "hash": "3647931551",
         "path": "outstatic/content/board-members/petra-bystricanova.mdx"
@@ -521,6 +503,24 @@
       "slug": "martina-kampfova",
       "status": "published",
       "title": "Martina Kampfová"
+    },
+    {
+      "__outstatic": {
+        "commit": "572bc08036d624c2dec26ea65f402b8367589bc1",
+        "hash": "107616439",
+        "path": "outstatic/content/board-members/michal-ptacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/michal-k5OD.jpg",
+      "description": "Vice President",
+      "publishedAt": "2026-03-15T10:44:54.096Z",
+      "slug": "michal-ptacek",
+      "status": "published",
+      "title": "Michal Ptáček"
     }
   ]
 }
