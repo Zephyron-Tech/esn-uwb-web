@@ -1,6 +1,6 @@
 {
-  "commit": "6942e69e83eb1620811cae4bd82bf4ec760f35b1",
-  "generated": "2026-10-19T07:12:19.849Z",
+  "commit": "96a679aa4f7e47ad2c4c145f01e30ba552b7ad44",
+  "generated": "2026-10-19T07:12:40.979Z",
   "metadata": [
     {
       "__outstatic": {
@@ -469,6 +469,24 @@
       "slug": "anezka-tetrevova",
       "status": "published",
       "title": "Anežka Tetřevová"
+    },
+    {
+      "__outstatic": {
+        "commit": "96a679aa4f7e47ad2c4c145f01e30ba552b7ad44",
+        "hash": "1774414461",
+        "path": "outstatic/content/board-members/eliska-francouzova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "board-members",
+      "coverImage": "/images/eli-E0MD.jpg",
+      "description": "HR manager",
+      "publishedAt": "2026-03-15T10:23:31.004Z",
+      "slug": "eliska-francouzova",
+      "status": "published",
+      "title": "Eliška Francouzová"
     }
   ]
 }
