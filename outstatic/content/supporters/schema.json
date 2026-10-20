@@ -7,6 +7,12 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Event Supporter"
+    },
+    "description": {
+      "description": "Event Supporter",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Description"
     }
   }
 }
