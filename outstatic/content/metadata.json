@@ -1,6 +1,6 @@
 {
-  "commit": "f6bc3dc1c9f7197642491a53bfa1397404f2ddcf",
-  "generated": "2026-10-19T07:26:24.012Z",
+  "commit": "f34391f720c25d9f69e52c34fa23c28dc879011a",
+  "generated": "2026-10-20T11:28:05.137Z",
   "metadata": [
     {
       "__outstatic": {
@@ -505,6 +505,23 @@
       "slug": "petra-bystricanova",
       "status": "published",
       "title": "Petra Bystřičanová"
+    },
+    {
+      "__outstatic": {
+        "commit": "f34391f720c25d9f69e52c34fa23c28dc879011a",
+        "hash": "984294905",
+        "path": "outstatic/content/supporters/jan-kasik.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "description": "Secretary ",
+      "publishedAt": "2026-10-20T11:39:21.779Z",
+      "slug": "jan-kasik",
+      "status": "published",
+      "title": "Jan Kasík "
     }
   ]
 }
