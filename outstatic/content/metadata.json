@@ -1,6 +1,6 @@
 {
-  "commit": "f34391f720c25d9f69e52c34fa23c28dc879011a",
-  "generated": "2026-10-20T11:28:05.137Z",
+  "commit": "f828f8c1fd79ccd92fd9881b0cc0b1882606a7fe",
+  "generated": "2026-10-21T08:40:38.080Z",
   "metadata": [
     {
       "__outstatic": {
@@ -522,6 +522,23 @@
       "slug": "jan-kasik",
       "status": "published",
       "title": "Jan Kasík "
+    },
+    {
+      "__outstatic": {
+        "commit": "f828f8c1fd79ccd92fd9881b0cc0b1882606a7fe",
+        "hash": "2626862727",
+        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "description": "Event Supporter",
+      "publishedAt": "2026-10-21T08:51:51.708Z",
+      "slug": "vojtech-horacek",
+      "status": "draft",
+      "title": "Vojtěch Horáček"
     }
   ]
 }
