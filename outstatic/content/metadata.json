@@ -1,6 +1,6 @@
 {
-  "commit": "71eb5d13199fa7a058527aac4c292ded1f75f86e",
-  "generated": "2026-10-21T08:43:15.747Z",
+  "commit": "c6d0f1780946ac70e89bf82924a8f2e5e70c05ca",
+  "generated": "2026-10-21T08:44:07.025Z",
   "metadata": [
     {
       "__outstatic": {
@@ -590,6 +590,22 @@
       "slug": "veronika-jarosova",
       "status": "published",
       "title": "Veronika Jarošová"
+    },
+    {
+      "__outstatic": {
+        "commit": "c6d0f1780946ac70e89bf82924a8f2e5e70c05ca",
+        "hash": "2682346935",
+        "path": "outstatic/content/supporters/pavla-svejkovska.md"
+      },
+      "author": {
+        "name": "Tomas"
+      },
+      "collection": "supporters",
+      "description": "HR Supporter",
+      "publishedAt": "2026-03-14T12:00:00.000Z",
+      "slug": "pavla-svejkovska",
+      "status": "published",
+      "title": "Pavla Svejkovská"
     }
   ]
 }
