@@ -1,6 +1,6 @@
 {
-  "commit": "c6d0f1780946ac70e89bf82924a8f2e5e70c05ca",
-  "generated": "2026-10-21T08:44:07.025Z",
+  "commit": "04a5bd19d87ff359c2fa89dbc24e751098c008de",
+  "generated": "2026-10-21T08:45:52.779Z",
   "metadata": [
     {
       "__outstatic": {
@@ -525,23 +525,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d1aa212173be7700736f596803c92a95ceeafee9",
-        "hash": "1227432033",
-        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
-      },
-      "author": {
-        "name": "info@esnuwbpilsen.cz",
-        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
-      },
-      "collection": "supporters",
-      "description": "Event Supporter",
-      "publishedAt": "2026-10-21T08:51:51.708Z",
-      "slug": "vojtech-horacek",
-      "status": "published",
-      "title": "Vojtěch Horáček"
-    },
-    {
-      "__outstatic": {
         "commit": "6e7cf719e1fd08cf0235ae520630317a7537fc1f",
         "hash": "826600532",
         "path": "outstatic/content/supporters/adriana-kokoskova.mdx"
@@ -606,6 +589,23 @@
       "slug": "pavla-svejkovska",
       "status": "published",
       "title": "Pavla Svejkovská"
+    },
+    {
+      "__outstatic": {
+        "commit": "04a5bd19d87ff359c2fa89dbc24e751098c008de",
+        "hash": "3094695604",
+        "path": "outstatic/content/supporters/vojtech-horacek.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "description": "Events Supporter",
+      "publishedAt": "2026-10-21T08:51:51.708Z",
+      "slug": "vojtech-horacek",
+      "status": "published",
+      "title": "Vojtěch Horáček"
     }
   ]
 }
