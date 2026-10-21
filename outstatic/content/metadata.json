@@ -1,6 +1,6 @@
 {
-  "commit": "d1aa212173be7700736f596803c92a95ceeafee9",
-  "generated": "2026-10-21T08:40:50.618Z",
+  "commit": "6e7cf719e1fd08cf0235ae520630317a7537fc1f",
+  "generated": "2026-10-21T08:41:53.724Z",
   "metadata": [
     {
       "__outstatic": {
@@ -539,6 +539,23 @@
       "slug": "vojtech-horacek",
       "status": "published",
       "title": "Vojtěch Horáček"
+    },
+    {
+      "__outstatic": {
+        "commit": "6e7cf719e1fd08cf0235ae520630317a7537fc1f",
+        "hash": "826600532",
+        "path": "outstatic/content/supporters/adriana-kokoskova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "description": "Communications Supporter",
+      "publishedAt": "2026-10-21T08:53:06.648Z",
+      "slug": "adriana-kokoskova",
+      "status": "published",
+      "title": "Adriana Kokošková"
     }
   ]
 }
