@@ -1,6 +1,6 @@
 {
-  "commit": "c068022d1790ea2490a3086a3f58dae4ee0792c7",
-  "generated": "2026-10-21T08:42:43.433Z",
+  "commit": "71eb5d13199fa7a058527aac4c292ded1f75f86e",
+  "generated": "2026-10-21T08:43:15.747Z",
   "metadata": [
     {
       "__outstatic": {
@@ -573,6 +573,23 @@
       "slug": "marharyta-kholod",
       "status": "published",
       "title": "Marharyta Kholod"
+    },
+    {
+      "__outstatic": {
+        "commit": "71eb5d13199fa7a058527aac4c292ded1f75f86e",
+        "hash": "3079367528",
+        "path": "outstatic/content/supporters/veronika-jarosova.mdx"
+      },
+      "author": {
+        "name": "info@esnuwbpilsen.cz",
+        "picture": "https://avatars.githubusercontent.com/u/267437887?v=4"
+      },
+      "collection": "supporters",
+      "description": "Communications Supporter",
+      "publishedAt": "2026-10-21T08:54:50.474Z",
+      "slug": "veronika-jarosova",
+      "status": "published",
+      "title": "Veronika Jarošová"
     }
   ]
 }
