@@ -1,6 +1,6 @@
 {
-  "commit": "f828f8c1fd79ccd92fd9881b0cc0b1882606a7fe",
-  "generated": "2026-10-21T08:40:38.080Z",
+  "commit": "d1aa212173be7700736f596803c92a95ceeafee9",
+  "generated": "2026-10-21T08:40:50.618Z",
   "metadata": [
     {
       "__outstatic": {
@@ -525,8 +525,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f828f8c1fd79ccd92fd9881b0cc0b1882606a7fe",
-        "hash": "2626862727",
+        "commit": "d1aa212173be7700736f596803c92a95ceeafee9",
+        "hash": "1227432033",
         "path": "outstatic/content/supporters/vojtech-horacek.mdx"
       },
       "author": {
@@ -537,7 +537,7 @@
       "description": "Event Supporter",
       "publishedAt": "2026-10-21T08:51:51.708Z",
       "slug": "vojtech-horacek",
-      "status": "draft",
+      "status": "published",
       "title": "Vojtěch Horáček"
     }
   ]
